@@ -1,0 +1,19 @@
+CyanogenMod Mirror Manifest
+===========================
+
+To initialize your mirror, use a command like this:
+
+    repo init -u git://github.com/NHellFire/cyanogenmod_mirror.git -m default.xml --mirror
+
+Instead of default.xml (which contains all projects except kernels), you can use one containing only projects for a specific branch (cm-10.2.xml, cm-11.0.xml, etc..) if available.
+Kernel manifests can be copied into .repo/local_manifests/ if wanted.
+
+
+For a client repo:
+
+    repo init -u file:///path/to/NHellFire/android.git -b BRANCH
+
+Then to sync:
+
+    repo sync
+

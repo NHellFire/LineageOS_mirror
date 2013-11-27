@@ -1,0 +1,6 @@
+# Private files
+github-auth.txt
+
+# Temp/backup files
+*.tmp
+*~
