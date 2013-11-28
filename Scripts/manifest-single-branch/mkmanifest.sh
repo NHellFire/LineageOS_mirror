@@ -12,7 +12,7 @@ if [ $# -eq 2 ]; then
 	OUTPUT="${2%.xml}.xml"
 fi
 
-REPO_LIST="../all/repos.txt"
+REPO_LIST="../manifest-all/repos.txt"
 
 if type curl >/dev/null; then
 	DL="curl --compressed -s"
