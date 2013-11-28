@@ -4,3 +4,7 @@ github-auth.txt
 # Temp/backup files
 *.tmp
 *~
+
+# XML files outside root
+*.xml
+!/*.xml
