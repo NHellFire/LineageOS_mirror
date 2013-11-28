@@ -4,7 +4,7 @@
 		fetch="https://android.googlesource.com" />
 
 	<remote	name="github"
-		fetch="git://github.com/" />
+		fetch=".." />
 
 	<default revision="refs/heads/cm-10.2"
 		 remote="github"
