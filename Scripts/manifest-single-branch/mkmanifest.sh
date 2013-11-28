@@ -64,8 +64,8 @@ printf "\n\n" >> "$OUTPUT.tmp"
 $DL "$URL" | grep 'remote="aosp"' | sed 's/^\s+/\t/' >> $OUTPUT.tmp
 
 
-sed -e "s/revision=\".*\"/revision=\"refs/heads/$BRANCH\"/" -i "manifest.xml.head"
+sed -e "s!revision=\".*\"!revision=\"refs/heads/$BRANCH\"!" -i "manifest.xml.head"
 cat "manifest.xml.head" "$OUTPUT.tmp" "manifest.xml.tail" > "$OUTPUT"
-sed -e "s/revision=\".*\"/revision=\"master\"/" -i "manifest.xml.head"
+sed -e "s!revision=\".*\"!revision=\"master\"!" -i "manifest.xml.head"
 
 printf "Manifest saved to $OUTPUT\n"
