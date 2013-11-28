@@ -61,7 +61,7 @@ done
 sort -u -o "$OUTPUT.tmp" "$OUTPUT.tmp"
 
 printf "\n\n" >> "$OUTPUT.tmp"
-$DL "$URL" | grep 'remote="aosp"' | sed 's/^\s+/\t/' >> $OUTPUT.tmp
+$DL "$URL" | grep 'remote="aosp"' | sed 's/^ \+/\t/' >> $OUTPUT.tmp
 
 
 sed -e "s!revision=\".*\"!revision=\"refs/heads/$BRANCH\"!" -i "manifest.xml.head"
