@@ -62,6 +62,7 @@
 	<project name="CyanogenMod/android_device_lge_lgl55c" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
+	<project name="CyanogenMod/android_device_lge_ls980" />
 	<project name="CyanogenMod/android_device_lge_mako" />
 	<project name="CyanogenMod/android_device_lge_p760" />
 	<project name="CyanogenMod/android_device_lge_p880" />

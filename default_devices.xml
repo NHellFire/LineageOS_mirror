@@ -111,6 +111,7 @@
 	<project name="CyanogenMod/android_device_lge_c660" />
 	<project name="CyanogenMod/android_device_lge_c800" />
 	<project name="CyanogenMod/android_device_lge_d800" />
+	<project name="CyanogenMod/android_device_lge_d801" />
 	<project name="CyanogenMod/android_device_lge_d802" />
 	<project name="CyanogenMod/android_device_lge_e400" />
 	<project name="CyanogenMod/android_device_lge_e510" />
@@ -130,6 +131,7 @@
 	<project name="CyanogenMod/android_device_lge_lgl55c" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
+	<project name="CyanogenMod/android_device_lge_ls980" />
 	<project name="CyanogenMod/android_device_lge_mako" />
 	<project name="CyanogenMod/android_device_lge_ms695" />
 	<project name="CyanogenMod/android_device_lge_ms910" />
@@ -150,6 +152,7 @@
 	<project name="CyanogenMod/android_device_lge_su640" />
 	<project name="CyanogenMod/android_device_lge_thunderc" />
 	<project name="CyanogenMod/android_device_lge_thunderg" />
+	<project name="CyanogenMod/android_device_lge_v500" />
 	<project name="CyanogenMod/android_device_lge_v909" />
 	<project name="CyanogenMod/android_device_lge_victor-common" />
 	<project name="CyanogenMod/android_device_lge_vs840" />
@@ -201,7 +204,9 @@
 	<project name="CyanogenMod/android_device_motorola_xt925" />
 	<project name="CyanogenMod/android_device_motorola_xt926" />
 	<project name="CyanogenMod/android_device_motorola_zeppelin" />
+	<project name="CyanogenMod/android_device_oppo_apq8064-common" />
 	<project name="CyanogenMod/android_device_oppo_find5" />
+	<project name="CyanogenMod/android_device_oppo_n1" />
 	<project name="CyanogenMod/android_device_pantech_presto" />
 	<project name="CyanogenMod/android_device_sample" />
 	<project name="CyanogenMod/android_device_samsung_apexqtmo" />

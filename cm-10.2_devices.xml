@@ -46,6 +46,7 @@
 	<project name="CyanogenMod/android_device_htc_tegra3-common" />
 	<project name="CyanogenMod/android_device_htc_ville" />
 	<project name="CyanogenMod/android_device_lge_d800" />
+	<project name="CyanogenMod/android_device_lge_d801" />
 	<project name="CyanogenMod/android_device_lge_d802" />
 	<project name="CyanogenMod/android_device_lge_e970" />
 	<project name="CyanogenMod/android_device_lge_e973" />
@@ -57,10 +58,12 @@
 	<project name="CyanogenMod/android_device_lge_l1m" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
+	<project name="CyanogenMod/android_device_lge_ls980" />
 	<project name="CyanogenMod/android_device_lge_mako" />
 	<project name="CyanogenMod/android_device_lge_p760" />
 	<project name="CyanogenMod/android_device_lge_p880" />
 	<project name="CyanogenMod/android_device_lge_p930" />
+	<project name="CyanogenMod/android_device_lge_v500" />
 	<project name="CyanogenMod/android_device_lge_vs920" />
 	<project name="CyanogenMod/android_device_lge_vs980" />
 	<project name="CyanogenMod/android_device_motorola_edison" />
@@ -82,6 +85,7 @@
 	<project name="CyanogenMod/android_device_motorola_xt925" />
 	<project name="CyanogenMod/android_device_motorola_xt926" />
 	<project name="CyanogenMod/android_device_oppo_find5" />
+	<project name="CyanogenMod/android_device_oppo_n1" />
 	<project name="CyanogenMod/android_device_sample" />
 	<project name="CyanogenMod/android_device_samsung_apexqtmo" />
 	<project name="CyanogenMod/android_device_samsung_aries-common" />
@@ -174,6 +178,7 @@
 	<project name="CyanogenMod/android_device_sony_common" />
 	<project name="CyanogenMod/android_device_sony_dogo" />
 	<project name="CyanogenMod/android_device_sony_fusion3-common" />
+	<project name="CyanogenMod/android_device_sony_hayabusa" />
 	<project name="CyanogenMod/android_device_sony_honami" />
 	<project name="CyanogenMod/android_device_sony_huashan" />
 	<project name="CyanogenMod/android_device_sony_mint" />

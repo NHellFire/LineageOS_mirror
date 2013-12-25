@@ -18,6 +18,7 @@
 	<project name="CyanogenMod/CMBalance" />
 	<project name="CyanogenMod/Superuser" />
 	<project name="CyanogenMod/Widgets" />
+	<project name="CyanogenMod/android" />
 	<project name="CyanogenMod/android_abi_cpp" />
 	<project name="CyanogenMod/android_art" />
 	<project name="CyanogenMod/android_bionic" />
@@ -63,6 +64,7 @@
 	<project name="CyanogenMod/android_external_clearsilver" />
 	<project name="CyanogenMod/android_external_compcache" />
 	<project name="CyanogenMod/android_external_compiler-rt" />
+	<project name="CyanogenMod/android_external_connectivity" />
 	<project name="CyanogenMod/android_external_crda" />
 	<project name="CyanogenMod/android_external_dbus" />
 	<project name="CyanogenMod/android_external_dexmaker" />
@@ -222,6 +224,8 @@
 	<project name="CyanogenMod/android_external_webkit" />
 	<project name="CyanogenMod/android_external_webp" />
 	<project name="CyanogenMod/android_external_webrtc" />
+	<project name="CyanogenMod/android_external_whispersystems_TextSecure" />
+	<project name="CyanogenMod/android_external_whispersystems_WhisperPush" />
 	<project name="CyanogenMod/android_external_wireless-tools" />
 	<project name="CyanogenMod/android_external_wpa_supplicant" />
 	<project name="CyanogenMod/android_external_wpa_supplicant_6" />
@@ -603,8 +607,10 @@
 	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/host/headers" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" remote="aosp" />
@@ -615,8 +621,10 @@
 	<project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" remote="aosp" />

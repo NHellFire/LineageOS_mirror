@@ -22,12 +22,14 @@
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
 	<project name="CyanogenMod/android_kernel_lge_ls970" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
+	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_lge_v909" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" />
 	<project name="CyanogenMod/android_kernel_oppo_find5" />
+	<project name="CyanogenMod/android_kernel_oppo_n1" />
 	<project name="CyanogenMod/android_kernel_samsung_aries" />
 	<project name="CyanogenMod/android_kernel_samsung_crespo" />
 	<project name="CyanogenMod/android_kernel_samsung_d2" />

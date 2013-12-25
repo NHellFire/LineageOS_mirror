@@ -14,6 +14,7 @@
 
 	<project name="NHellFire/android" />
 
+	<project name="CyanogenMod/android" />
 	<project name="CyanogenMod/android_abi_cpp" />
 	<project name="CyanogenMod/AndroidAsync" />
 	<project name="CyanogenMod/android_bionic" />

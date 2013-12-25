@@ -15,6 +15,7 @@
 	<project name="CyanogenMod/android_kernel_htc_msm8660" />
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
 	<project name="CyanogenMod/android_kernel_lge_ls970" />
+	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" />

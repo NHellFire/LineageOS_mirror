@@ -3,12 +3,17 @@
 	<project name="CyanogenMod/android_kernel_acer_t30" />
 	<project name="CyanogenMod/android_kernel_amazon_otter-common" />
 	<project name="CyanogenMod/android_kernel_asus_grouper" />
+	<project name="CyanogenMod/android_kernel_asus_tf300t" />
 	<project name="CyanogenMod/android_kernel_asus_tf700t" />
+	<project name="CyanogenMod/android_kernel_bn_acclaim" />
 	<project name="CyanogenMod/android_kernel_goldfish" />
 	<project name="CyanogenMod/android_kernel_google_msm" />
+	<project name="CyanogenMod/android_kernel_htc_endeavoru" />
 	<project name="CyanogenMod/android_kernel_htc_m7" />
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
+	<project name="CyanogenMod/android_kernel_lge_msm8974" />
+	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
@@ -16,6 +21,9 @@
 	<project name="CyanogenMod/android_kernel_samsung_aries" />
 	<project name="CyanogenMod/android_kernel_samsung_crespo" />
 	<project name="CyanogenMod/android_kernel_samsung_d2" />
+	<project name="CyanogenMod/android_kernel_samsung_epicmtd" />
+	<project name="CyanogenMod/android_kernel_samsung_espresso10" />
+	<project name="CyanogenMod/android_kernel_samsung_hlte" />
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
 	<project name="CyanogenMod/android_kernel_samsung_manta" />
 	<project name="CyanogenMod/android_kernel_samsung_msm8660-common" />
@@ -28,4 +36,6 @@
 	<project name="CyanogenMod/android_kernel_sony_msm8960t" />
 	<project name="CyanogenMod/android_kernel_sony_msm8974" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
+	<project name="CyanogenMod/lge-kernel-gproj" />
+	<project name="CyanogenMod/lge-kernel-iproj" />
 </manifest>

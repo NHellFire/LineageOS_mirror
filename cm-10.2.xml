@@ -14,6 +14,7 @@
 
 	<project name="NHellFire/android" />
 
+	<project name="CyanogenMod/android" />
 	<project name="CyanogenMod/android_abi_cpp" />
 	<project name="CyanogenMod/AndroidAsync" />
 	<project name="CyanogenMod/android_bionic" />
@@ -193,6 +194,8 @@
 	<project name="CyanogenMod/android_external_webkit" />
 	<project name="CyanogenMod/android_external_webp" />
 	<project name="CyanogenMod/android_external_webrtc" />
+	<project name="CyanogenMod/android_external_whispersystems_TextSecure" />
+	<project name="CyanogenMod/android_external_whispersystems_WhisperPush" />
 	<project name="CyanogenMod/android_external_wpa_supplicant_8" />
 	<project name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
 	<project name="CyanogenMod/android_external_xmlwriter" />
