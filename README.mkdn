@@ -9,6 +9,12 @@ Instead of default.xml (which contains all projects except kernels), you can use
 
 Kernel and device manifests can be copied into .repo/local_manifests/ if wanted.
 
+Then to sync:
+
+    repo sync
+
+If you have enough bandwidth, you can add -j4 or something.
+
 
 For a client repo:
 
