@@ -25,7 +25,6 @@
 	<project name="CyanogenMod/android_kernel_samsung_d2" />
 	<project name="CyanogenMod/android_kernel_samsung_epicmtd" />
 	<project name="CyanogenMod/android_kernel_samsung_espresso10" />
-	<project name="CyanogenMod/android_kernel_samsung_exynos5410" />
 	<project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
 	<project name="CyanogenMod/android_kernel_samsung_manta" />

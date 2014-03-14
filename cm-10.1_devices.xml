@@ -120,7 +120,6 @@
 	<project name="CyanogenMod/android_device_samsung_i925" />
 	<project name="CyanogenMod/android_device_samsung_i9300" />
 	<project name="CyanogenMod/android_device_samsung_i9305" />
-	<project name="CyanogenMod/android_device_samsung_i9500" />
 	<project name="CyanogenMod/android_device_samsung_jf-common" />
 	<project name="CyanogenMod/android_device_samsung_jflteatt" />
 	<project name="CyanogenMod/android_device_samsung_jfltecan" />

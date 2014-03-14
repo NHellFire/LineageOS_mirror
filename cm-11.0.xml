@@ -194,6 +194,7 @@
 	<project name="CyanogenMod/android_external_whispersystems_TextSecure" />
 	<project name="CyanogenMod/android_external_whispersystems_WhisperPush" />
 	<project name="CyanogenMod/android_external_wpa_supplicant_8" />
+	<project name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
 	<project name="CyanogenMod/android_external_xmlwriter" />
 	<project name="CyanogenMod/android_external_xmp_toolkit" />
 	<project name="CyanogenMod/android_external_yaffs2" />
@@ -230,6 +231,7 @@
 	<project name="CyanogenMod/android_frameworks_webview" />
 	<project name="CyanogenMod/android_frameworks_wilhelm" />
 	<project name="CyanogenMod/android_hardware_akm" />
+	<project name="CyanogenMod/android_hardware_atheros_wlan" />
 	<project name="CyanogenMod/android_hardware_broadcom_libbt" />
 	<project name="CyanogenMod/android_hardware_broadcom_wlan" />
 	<project name="CyanogenMod/android_hardware_cm" />
@@ -242,10 +244,13 @@
 	<project name="CyanogenMod/android_hardware_qcom_camera" />
 	<project name="CyanogenMod/android_hardware_qcom_display" />
 	<project name="CyanogenMod/android_hardware_qcom_display-caf" />
+	<project name="CyanogenMod/android_hardware_qcom_display-caf-new" />
+	<project name="CyanogenMod/android_hardware_qcom_fm" />
 	<project name="CyanogenMod/android_hardware_qcom_gps" />
 	<project name="CyanogenMod/android_hardware_qcom_keymaster" />
 	<project name="CyanogenMod/android_hardware_qcom_media" />
 	<project name="CyanogenMod/android_hardware_qcom_media-caf" />
+	<project name="CyanogenMod/android_hardware_qcom_media-caf-new" />
 	<project name="CyanogenMod/android_hardware_qcom_media-v4l2" />
 	<project name="CyanogenMod/android_hardware_qcom_msm8960" />
 	<project name="CyanogenMod/android_hardware_qcom_msm8x74" />
@@ -254,7 +259,11 @@
 	<project name="CyanogenMod/android_hardware_qcom_wlan" />
 	<project name="CyanogenMod/android_hardware_ril" />
 	<project name="CyanogenMod/android_hardware_samsung" />
+	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
+	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5410" />
+	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5-insignal" />
+	<project name="CyanogenMod/android_hardware_samsung_slsi_openmax" />
 	<project name="CyanogenMod/android_hardware_sony_DASH" />
 	<project name="CyanogenMod/android_hardware_ti_omap3" />
 	<project name="CyanogenMod/android_hardware_ti_omap4xxx" />
@@ -337,6 +346,7 @@
 	<project name="CyanogenMod/android_packages_wallpapers_NoiseField" />
 	<project name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
 	<project name="CyanogenMod/android_prebuilt" />
+	<project name="CyanogenMod/android_prebuilts_misc" />
 	<project name="CyanogenMod/android_sdk" />
 	<project name="CyanogenMod/android_system_core" />
 	<project name="CyanogenMod/android_system_extras" />
@@ -448,7 +458,6 @@
 	<project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="linux,x86" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 	<project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" groups="pdk,linux,x86" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 	<project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" groups="pdk,linux,x86" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-	<project path="prebuilts/misc" name="platform/prebuilts/misc" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk" />
 	<project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk" />
 	<project path="prebuilts/python/darwin-x86/2.7.5" name="platform/prebuilts/python/darwin-x86/2.7.5" groups="darwin" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
 	<project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
