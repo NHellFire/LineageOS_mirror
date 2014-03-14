@@ -121,7 +121,7 @@ if __name__ == '__main__':
 	tail = open("%s.tail" % OUTPUT, "r").read()
 	aosp = "\n".join(['\t<project name="%s" remote="aosp" />' % line.strip() for line in open("aosp.txt", "r").readlines()])
 
-	manifest.writelines([head, tmp_manifest, "\n\n", aosp, tail])
+	manifest.writelines([head, tmp_manifest, "\n\n", aosp, "\n", tail])
 	manifest.close()
 
 	if REFRESH:
