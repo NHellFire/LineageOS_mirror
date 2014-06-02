@@ -152,6 +152,7 @@ CyanogenMod/android_device_lge_g2-common cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_gproj-common cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_hammerhead cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_iprj-common cm-9.1.0 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics ics-release jellybean jellybean-stable stable/cm-11.0
+CyanogenMod/android_device_lge_l01f cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_l1m cm-10.1 cm-10.2 jellybean master
 CyanogenMod/android_device_lge_lgl55c cm-10.1 twrp
 CyanogenMod/android_device_lge_ls970 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
@@ -306,10 +307,11 @@ CyanogenMod/android_device_samsung_l900 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_maguro cm-9.0.0 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_device_samsung_manta cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean mr1-staging stable/cm-11.0
 CyanogenMod/android_device_samsung_mesmerizemtd cm-10.1 cm-10.2 gb-release-7.2 gingerbread gingerbread-release jellybean
-CyanogenMod/android_device_samsung_mondrianwifi cm-11.0 old slim-kk4.4
+CyanogenMod/android_device_samsung_mondrianwifi cm-11.0 old slim-kk4.4 stable/cm-11.0
 CyanogenMod/android_device_samsung_msm8660-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_device_samsung_msm8930-common cm-10.1 cm-10.2 cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_device_samsung_msm8960-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging next stable/cm-11.0
+CyanogenMod/android_device_samsung_msm8974-common cm-11.0
 CyanogenMod/android_device_samsung_n5100 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_n5110 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_n5120 cm-11.0 stable/cm-11.0
@@ -397,6 +399,7 @@ CyanogenMod/android_device_semc_zeusc gb-release-7.2 gingerbread ics ics-release
 CyanogenMod/android_device_sony_amami cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_aoba cm-10.1 cm10.1 ics jellybean jellybean-stable
 CyanogenMod/android_device_sony_blue-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean jellybean-stable mr1-staging stable/cm-11.0
+CyanogenMod/android_device_sony_castor_windy 
 CyanogenMod/android_device_sony_common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_dogo cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_fuji-common cm-10.1 cm10.1 ics ics-release jellybean jellybean-stable
@@ -421,6 +424,8 @@ CyanogenMod/android_device_sony_pollux-common cm-10.1 cm-10.1-staging cm-10.2 cm
 CyanogenMod/android_device_sony_pollux_windy cm-10.1 cm-10.1-rebase cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_qcom-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_rhine-common cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_sony_shinano-common cm-11.0
+CyanogenMod/android_device_sony_sirius cm-11.0
 CyanogenMod/android_device_sony_tamsui-common jellybean jellybean-3.4
 CyanogenMod/android_device_sony_tamsui-common-legacy jellybean
 CyanogenMod/android_device_sony_tapioca_ds jellybean
@@ -787,7 +792,7 @@ CyanogenMod/android_kernel_samsung_galaxytab-cdma cm-9.0.0 cm-10.1 cm-10.2 ginge
 CyanogenMod/android_kernel_samsung_hlte cm-10.2 cm-11.0 cma-all-the-things stable/cm-11.0 wip
 CyanogenMod/android_kernel_samsung_jf cm-10.1 cm-10.2 cm-11.0 next stable/cm-11.0 wip-ml4
 CyanogenMod/android_kernel_samsung_manta cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 mr1-staging stable/cm-11.0
-CyanogenMod/android_kernel_samsung_mondrianwifi cm-11.0 new next
+CyanogenMod/android_kernel_samsung_mondrianwifi cm-11.0 new next stable/cm-11.0
 CyanogenMod/android_kernel_samsung_msm8660-common cm-10.1 cm-10.1-old cm-10.1_old cm-10.1-staging cm-10.2 cm-11.0 hdmi-wip-lol-bbq ics jb-old jb-test jellybean jellybean-stable next stable/cm-11.0 test1
 CyanogenMod/android_kernel_samsung_msm8660-q1 ics
 CyanogenMod/android_kernel_samsung_msm8930-common cm-10.1 cm-10.2 cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -807,6 +812,7 @@ CyanogenMod/android_kernel_sony_msm7x27a-legacy jellybean
 CyanogenMod/android_kernel_sony_msm8660 jellybean
 CyanogenMod/android_kernel_sony_msm8960t cm-10.1 cm-10.2 cm-11.0
 CyanogenMod/android_kernel_sony_msm8974 cm-10.2 cm-11.0 cm-11.0-20140403 cm-11.0-next cm-11.0-old stable/cm-11.0
+CyanogenMod/android_kernel_sony_msm8974pro cm-11.0
 CyanogenMod/android_kernel_sony_msm8x60 9.0.G.0.238 9.1.A.0.420 9.1.A.0.489 cm-10.0.0 cm-10.1 cm-10.1-old cm-10.1-staging cm-10.1-test cm-10.2 cm-11.0 cm-11.0-old jb-test jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_toshiba_betelgeuse cm-10.1
 CyanogenMod/android_libcore cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable master mr1.1-staging stable/cm-10.2 stable/cm-11.0
@@ -913,6 +919,7 @@ CyanogenMod/android_packages_screensavers_Basic cm-10.1 cm-10.2 cm-11.0 mr1.1-st
 CyanogenMod/android_packages_screensavers_PhotoTable cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_screensavers_WebView cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_services_Telephony caf-rb cm-11.0 qcril stable/cm-11.0
+CyanogenMod/android_packages_themes_Template cm-11.0
 CyanogenMod/android_packages_wallpapers_Basic cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 eclair froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_wallpapers_Galaxy4 cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_wallpapers_HoloSpiral cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging stable/cm-10.2 stable/cm-11.0

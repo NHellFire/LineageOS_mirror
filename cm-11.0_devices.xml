@@ -64,6 +64,7 @@
 	<project name="CyanogenMod/android_device_lge_gproj-common" />
 	<project name="CyanogenMod/android_device_lge_hammerhead" />
 	<project name="CyanogenMod/android_device_lge_iprj-common" />
+	<project name="CyanogenMod/android_device_lge_l01f" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
 	<project name="CyanogenMod/android_device_lge_ls980" />
@@ -153,6 +154,7 @@
 	<project name="CyanogenMod/android_device_samsung_msm8660-common" />
 	<project name="CyanogenMod/android_device_samsung_msm8930-common" />
 	<project name="CyanogenMod/android_device_samsung_msm8960-common" />
+	<project name="CyanogenMod/android_device_samsung_msm8974-common" />
 	<project name="CyanogenMod/android_device_samsung_n5100" />
 	<project name="CyanogenMod/android_device_samsung_n5110" />
 	<project name="CyanogenMod/android_device_samsung_n5120" />
@@ -202,6 +204,8 @@
 	<project name="CyanogenMod/android_device_sony_pollux_windy" />
 	<project name="CyanogenMod/android_device_sony_qcom-common" />
 	<project name="CyanogenMod/android_device_sony_rhine-common" />
+	<project name="CyanogenMod/android_device_sony_shinano-common" />
+	<project name="CyanogenMod/android_device_sony_sirius" />
 	<project name="CyanogenMod/android_device_sony_togari" />
 	<project name="CyanogenMod/android_device_sony_togari_gpe" />
 	<project name="CyanogenMod/android_device_sony_tsubasa" />

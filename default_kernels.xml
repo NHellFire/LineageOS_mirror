@@ -64,6 +64,7 @@
 	<project name="CyanogenMod/android_kernel_sony_msm8660" />
 	<project name="CyanogenMod/android_kernel_sony_msm8960t" />
 	<project name="CyanogenMod/android_kernel_sony_msm8974" />
+	<project name="CyanogenMod/android_kernel_sony_msm8974pro" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
 	<project name="CyanogenMod/android_kernel_toshiba_betelgeuse" />
 	<project name="CyanogenMod/cm-kernel" />

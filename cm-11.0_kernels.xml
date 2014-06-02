@@ -46,6 +46,7 @@
 	<project name="CyanogenMod/android_kernel_sony_apq8064" />
 	<project name="CyanogenMod/android_kernel_sony_msm8960t" />
 	<project name="CyanogenMod/android_kernel_sony_msm8974" />
+	<project name="CyanogenMod/android_kernel_sony_msm8974pro" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
 	<project name="CyanogenMod/lge-kernel-gproj" />
 	<project name="CyanogenMod/lge-kernel-iproj" />
