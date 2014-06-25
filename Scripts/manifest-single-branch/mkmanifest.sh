@@ -15,7 +15,7 @@ fi
 REPO_LIST="../manifest-all/repos.txt"
 
 if type curl >/dev/null; then
-	DL="curl --compressed -s"
+	DL="curl --compressed -s -L"
 elif type wget >/dev/null; then
 	DL="wget -q -O-"
 elif type lynx >/dev/null; then
