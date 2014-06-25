@@ -391,7 +391,6 @@
 	<project path="external/chromium-libpac" name="platform/external/chromium-libpac" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
-	<project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
@@ -409,6 +408,7 @@
 	<project path="external/chromium_org/third_party/skia/include" name="platform/external/chromium_org/third_party/skia/include" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/skia/src" name="platform/external/chromium_org/third_party/skia/src" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/smhasher/src" name="platform/external/chromium_org/third_party/smhasher/src" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+	<project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
@@ -452,7 +452,6 @@
 	<project path="prebuilts/clang/linux-x86/x86/3.3" name="platform/prebuilts/clang/linux-x86/x86/3.3" groups="linux,x86" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/devtools" name="platform/prebuilts/devtools" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
-	<project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" groups="pdk,darwin,x86" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" groups="pdk,darwin,arm" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
@@ -463,6 +462,7 @@
 	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" groups="pdk,darwin,mips" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" groups="darwin,x86" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" groups="pdk,darwin,x86" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+	<project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" groups="pdk,darwin,x86" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
@@ -492,4 +492,7 @@
 	<project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
 	<project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+
+
+	<project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
 </manifest>
