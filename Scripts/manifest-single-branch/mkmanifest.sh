@@ -60,8 +60,14 @@ done
 
 sort -u -o "$OUTPUT.tmp" "$OUTPUT.tmp"
 
+$DL "$URL" | sed 's/^ \+/\t/' > "$OUTPUT.github.tmp"
+
 printf "\n\n" >> "$OUTPUT.tmp"
-$DL "$URL" | grep 'remote="aosp"' | sed 's/^ \+/\t/' >> $OUTPUT.tmp
+grep 'remote="aosp"' "$OUTPUT.github.tmp" | sort -u >> $OUTPUT.tmp
+
+printf "\n\n" >> "$OUTPUT.tmp"
+grep -E '^\s*<project' "$OUTPUT.github.tmp" | grep -v 'remote="aosp"' | grep -v 'name="CyanogenMod/' | sort -u >> $OUTPUT.tmp
+rm -f "$OUTPUT.github.tmp"
 
 
 sed -e "s!revision=\".*\"!revision=\"refs/heads/$BRANCH\"!" -i "manifest.xml.head"
