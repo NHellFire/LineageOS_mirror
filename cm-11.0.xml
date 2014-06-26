@@ -108,6 +108,7 @@
 	<project name="CyanogenMod/android_external_jpeg" />
 	<project name="CyanogenMod/android_external_jsilver" />
 	<project name="CyanogenMod/android_external_jsr305" />
+	<project name="CyanogenMod/android_external_jsr330" />
 	<project name="CyanogenMod/android_external_junit" />
 	<project name="CyanogenMod/android_external_kernel-headers" />
 	<project name="CyanogenMod/android_external_kissfft" />
@@ -161,6 +162,7 @@
 	<project name="CyanogenMod/android_external_openfst" />
 	<project name="CyanogenMod/android_external_openssh" />
 	<project name="CyanogenMod/android_external_openssl" />
+	<project name="CyanogenMod/android_external_openvpn" />
 	<project name="CyanogenMod/android_external_oprofile" />
 	<project name="CyanogenMod/android_external_pciutils" />
 	<project name="CyanogenMod/android_external_pigz" />
@@ -295,6 +297,7 @@
 	<project name="CyanogenMod/android_packages_apps_CertInstaller" />
 	<project name="CyanogenMod/android_packages_apps_CMAccount" />
 	<project name="CyanogenMod/android_packages_apps_CMFileManager" />
+	<project name="CyanogenMod/android_packages_apps_CMHome" />
 	<project name="CyanogenMod/android_packages_apps_CMUpdater" />
 	<project name="CyanogenMod/android_packages_apps_CMWallpapers" />
 	<project name="CyanogenMod/android_packages_apps_Contacts" />
@@ -359,6 +362,7 @@
 	<project name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
 	<project name="CyanogenMod/android_packages_wallpapers_NoiseField" />
 	<project name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
+	<project name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
 	<project name="CyanogenMod/android_prebuilt" />
 	<project name="CyanogenMod/android_prebuilts_misc" />
 	<project name="CyanogenMod/android_sdk" />

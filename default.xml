@@ -31,6 +31,7 @@
 	<project name="CyanogenMod/android_dalvik" />
 	<project name="CyanogenMod/android_development" />
 	<project name="CyanogenMod/android_docs_source.android.com" />
+	<project name="CyanogenMod/android_external_JakeWharton_butterknife" />
 	<project name="CyanogenMod/android_external_aac" />
 	<project name="CyanogenMod/android_external_alsa-lib" />
 	<project name="CyanogenMod/android_external_alsa-utils" />
@@ -129,6 +130,7 @@
 	<project name="CyanogenMod/android_external_jpeg-turbo" />
 	<project name="CyanogenMod/android_external_jsilver" />
 	<project name="CyanogenMod/android_external_jsr305" />
+	<project name="CyanogenMod/android_external_jsr330" />
 	<project name="CyanogenMod/android_external_junit" />
 	<project name="CyanogenMod/android_external_kernel-headers" />
 	<project name="CyanogenMod/android_external_kexec-tools" />
@@ -214,6 +216,8 @@
 	<project name="CyanogenMod/android_external_speex" />
 	<project name="CyanogenMod/android_external_spongycastle" />
 	<project name="CyanogenMod/android_external_sqlite" />
+	<project name="CyanogenMod/android_external_square_dagger" />
+	<project name="CyanogenMod/android_external_square_javawriter" />
 	<project name="CyanogenMod/android_external_srec" />
 	<project name="CyanogenMod/android_external_srtp" />
 	<project name="CyanogenMod/android_external_stagefright-plugins" />
@@ -349,6 +353,7 @@
 	<project name="CyanogenMod/android_packages_apps_Browser" />
 	<project name="CyanogenMod/android_packages_apps_CMAccount" />
 	<project name="CyanogenMod/android_packages_apps_CMFileManager" />
+	<project name="CyanogenMod/android_packages_apps_CMHome" />
 	<project name="CyanogenMod/android_packages_apps_CMParts" />
 	<project name="CyanogenMod/android_packages_apps_CMPartsHelper" />
 	<project name="CyanogenMod/android_packages_apps_CMScreenshot" />
@@ -439,6 +444,7 @@
 	<project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
 	<project name="CyanogenMod/android_packages_screensavers_WebView" />
 	<project name="CyanogenMod/android_packages_services_Telephony" />
+	<project name="CyanogenMod/android_packages_themes_Template" />
 	<project name="CyanogenMod/android_packages_wallpapers_Basic" />
 	<project name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
 	<project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -447,6 +453,7 @@
 	<project name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
 	<project name="CyanogenMod/android_packages_wallpapers_NoiseField" />
 	<project name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
+	<project name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
 	<project name="CyanogenMod/android_pdk" />
 	<project name="CyanogenMod/android_prebuilt" />
 	<project name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
