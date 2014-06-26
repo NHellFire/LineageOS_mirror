@@ -22,7 +22,7 @@ platform/external/ceres-solver
 platform/external/chromium-libpac
 platform/external/chromium_org/sdch/open-vcdiff
 platform/external/chromium_org/testing/gtest
-platform/external/chromium_org/third_party/angle_dx11
+platform/external/chromium_org/third_party/angle
 platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille
 platform/external/chromium_org/third_party/freetype
 platform/external/chromium_org/third_party/icu
@@ -31,8 +31,10 @@ platform/external/chromium_org/third_party/libjingle/source/talk
 platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers
 platform/external/chromium_org/third_party/libphonenumber/src/resources
 platform/external/chromium_org/third_party/mesa/src
+platform/external/chromium_org/third_party/openssl
 platform/external/chromium_org/third_party/opus/src
 platform/external/chromium_org/third_party/ots
+platform/external/chromium_org/third_party/sfntly/cpp/src
 platform/external/chromium_org/third_party/skia/gyp
 platform/external/chromium_org/third_party/skia/include
 platform/external/chromium_org/third_party/skia/src
@@ -55,8 +57,10 @@ platform/external/iputils
 platform/external/javasqlite
 platform/external/javassist
 platform/external/jsilver
+platform/external/libexif
 platform/external/liblzf
 platform/external/libnl-headers
+platform/external/libssh2
 platform/external/libxslt
 platform/external/libyuv
 platform/external/lohit-fonts
@@ -89,8 +93,8 @@ platform/frameworks/opt/calendar
 platform/frameworks/opt/inputmethodcommon
 platform/frameworks/opt/mailcommon
 platform/frameworks/opt/vcard
+platform/frameworks/opt/widget
 platform/frameworks/support
-platform/frameworks/uiautomator
 platform/gdk
 platform/hardware/invensense
 platform/hardware/ti/omap4xxx

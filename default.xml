@@ -526,7 +526,7 @@
 	<project name="platform/external/chromium-libpac" remote="aosp" />
 	<project name="platform/external/chromium_org/sdch/open-vcdiff" remote="aosp" />
 	<project name="platform/external/chromium_org/testing/gtest" remote="aosp" />
-	<project name="platform/external/chromium_org/third_party/angle_dx11" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/angle" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/freetype" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/icu" remote="aosp" />
@@ -535,8 +535,10 @@
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/openssl" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/opus/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/ots" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/gyp" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/include" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/src" remote="aosp" />
@@ -559,8 +561,10 @@
 	<project name="platform/external/javasqlite" remote="aosp" />
 	<project name="platform/external/javassist" remote="aosp" />
 	<project name="platform/external/jsilver" remote="aosp" />
+	<project name="platform/external/libexif" remote="aosp" />
 	<project name="platform/external/liblzf" remote="aosp" />
 	<project name="platform/external/libnl-headers" remote="aosp" />
+	<project name="platform/external/libssh2" remote="aosp" />
 	<project name="platform/external/libxslt" remote="aosp" />
 	<project name="platform/external/libyuv" remote="aosp" />
 	<project name="platform/external/lohit-fonts" remote="aosp" />
@@ -593,8 +597,8 @@
 	<project name="platform/frameworks/opt/inputmethodcommon" remote="aosp" />
 	<project name="platform/frameworks/opt/mailcommon" remote="aosp" />
 	<project name="platform/frameworks/opt/vcard" remote="aosp" />
+	<project name="platform/frameworks/opt/widget" remote="aosp" />
 	<project name="platform/frameworks/support" remote="aosp" />
-	<project name="platform/frameworks/uiautomator" remote="aosp" />
 	<project name="platform/gdk" remote="aosp" />
 	<project name="platform/hardware/invensense" remote="aosp" />
 	<project name="platform/hardware/ti/omap4xxx" remote="aosp" />
