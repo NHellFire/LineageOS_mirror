@@ -31,7 +31,6 @@ platform/external/chromium_org/third_party/libjingle/source/talk
 platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers
 platform/external/chromium_org/third_party/libphonenumber/src/resources
 platform/external/chromium_org/third_party/mesa/src
-platform/external/chromium_org/third_party/openssl
 platform/external/chromium_org/third_party/opus/src
 platform/external/chromium_org/third_party/ots
 platform/external/chromium_org/third_party/sfntly/cpp/src
@@ -87,7 +86,6 @@ platform/external/smack
 platform/external/srtp
 platform/external/timezonepicker-support
 platform/external/tinyalsa
-platform/external/tinycompress
 platform/frameworks/compile/linkloader
 platform/frameworks/opt/calendar
 platform/frameworks/opt/inputmethodcommon

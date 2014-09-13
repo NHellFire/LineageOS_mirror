@@ -18,9 +18,11 @@
 	<project name="CyanogenMod/android_kernel_htc_m7" />
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
 	<project name="CyanogenMod/android_kernel_htc_msm8974" />
+	<project name="CyanogenMod/android_kernel_lge_dory" />
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_v500" />
+	<project name="CyanogenMod/android_kernel_motorola_ghost" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8226" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
@@ -36,6 +38,7 @@
 	<project name="CyanogenMod/android_kernel_samsung_exynos5410" />
 	<project name="CyanogenMod/android_kernel_samsung_hlte" />
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
+	<project name="CyanogenMod/android_kernel_samsung_klte" />
 	<project name="CyanogenMod/android_kernel_samsung_manta" />
 	<project name="CyanogenMod/android_kernel_samsung_mondrianwifi" />
 	<project name="CyanogenMod/android_kernel_samsung_msm8660-common" />
@@ -45,9 +48,11 @@
 	<project name="CyanogenMod/android_kernel_samsung_t1" />
 	<project name="CyanogenMod/android_kernel_samsung_tuna" />
 	<project name="CyanogenMod/android_kernel_sony_apq8064" />
+	<project name="CyanogenMod/android_kernel_sony_msm8930" />
 	<project name="CyanogenMod/android_kernel_sony_msm8960t" />
 	<project name="CyanogenMod/android_kernel_sony_msm8974" />
 	<project name="CyanogenMod/android_kernel_sony_msm8974pro" />
+	<project name="CyanogenMod/android_kernel_sony_msm8x27" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
 	<project name="CyanogenMod/android_kernel_xiaomi_aries" />
 	<project name="CyanogenMod/lge-kernel-gproj" />

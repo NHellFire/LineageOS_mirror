@@ -39,6 +39,9 @@
 	<project name="CyanogenMod/android_external_android-mock" />
 	<project name="CyanogenMod/android_external_android-visualizer" />
 	<project name="CyanogenMod/android_external_ant-glob" />
+	<project name="CyanogenMod/android_external_ant-wireless_ant_native" />
+	<project name="CyanogenMod/android_external_ant-wireless_ant_service" />
+	<project name="CyanogenMod/android_external_ant-wireless_antradio-library" />
 	<project name="CyanogenMod/android_external_antlr" />
 	<project name="CyanogenMod/android_external_apache-harmony" />
 	<project name="CyanogenMod/android_external_apache-http" />
@@ -59,6 +62,7 @@
 	<project name="CyanogenMod/android_external_bson" />
 	<project name="CyanogenMod/android_external_busybox" />
 	<project name="CyanogenMod/android_external_bzip2" />
+	<project name="CyanogenMod/android_external_cardslib" />
 	<project name="CyanogenMod/android_external_checkpolicy" />
 	<project name="CyanogenMod/android_external_chromium" />
 	<project name="CyanogenMod/android_external_chromium-trace" />
@@ -130,6 +134,7 @@
 	<project name="CyanogenMod/android_external_jpeg-turbo" />
 	<project name="CyanogenMod/android_external_jsilver" />
 	<project name="CyanogenMod/android_external_jsr305" />
+	<project name="CyanogenMod/android_external_jsr308" />
 	<project name="CyanogenMod/android_external_jsr330" />
 	<project name="CyanogenMod/android_external_junit" />
 	<project name="CyanogenMod/android_external_kernel-headers" />
@@ -228,6 +233,7 @@
 	<project name="CyanogenMod/android_external_tagsoup" />
 	<project name="CyanogenMod/android_external_tcpdump" />
 	<project name="CyanogenMod/android_external_tinyalsa" />
+	<project name="CyanogenMod/android_external_tinycompress" />
 	<project name="CyanogenMod/android_external_tinyxml" />
 	<project name="CyanogenMod/android_external_tinyxml2" />
 	<project name="CyanogenMod/android_external_tremolo" />
@@ -352,6 +358,7 @@
 	<project name="CyanogenMod/android_packages_apps_BluetoothExt" />
 	<project name="CyanogenMod/android_packages_apps_Browser" />
 	<project name="CyanogenMod/android_packages_apps_CMAccount" />
+	<project name="CyanogenMod/android_packages_apps_CMBugreport" />
 	<project name="CyanogenMod/android_packages_apps_CMFileManager" />
 	<project name="CyanogenMod/android_packages_apps_CMHome" />
 	<project name="CyanogenMod/android_packages_apps_CMParts" />
@@ -394,6 +401,7 @@
 	<project name="CyanogenMod/android_packages_apps_LocPick" />
 	<project name="CyanogenMod/android_packages_apps_LockClock" />
 	<project name="CyanogenMod/android_packages_apps_Mms" />
+	<project name="CyanogenMod/android_packages_apps_Mms-caf" />
 	<project name="CyanogenMod/android_packages_apps_Music" />
 	<project name="CyanogenMod/android_packages_apps_Music3" />
 	<project name="CyanogenMod/android_packages_apps_MusicFX" />
@@ -492,6 +500,7 @@
 	<project name="CyanogenMod/cm_crowdin" />
 	<project name="CyanogenMod/device_htc_marvel" />
 	<project name="CyanogenMod/device_htc_ville" />
+	<project name="CyanogenMod/external_cyanogen_cmhomeapi" />
 	<project name="CyanogenMod/getcm-translations" />
 	<project name="CyanogenMod/huaweigeneric-ril" />
 	<project name="CyanogenMod/hudson" />
@@ -535,7 +544,6 @@
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" />
-	<project name="platform/external/chromium_org/third_party/openssl" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/opus/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/ots" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" />
@@ -591,7 +599,6 @@
 	<project name="platform/external/srtp" remote="aosp" />
 	<project name="platform/external/timezonepicker-support" remote="aosp" />
 	<project name="platform/external/tinyalsa" remote="aosp" />
-	<project name="platform/external/tinycompress" remote="aosp" />
 	<project name="platform/frameworks/compile/linkloader" remote="aosp" />
 	<project name="platform/frameworks/opt/calendar" remote="aosp" />
 	<project name="platform/frameworks/opt/inputmethodcommon" remote="aosp" />
