@@ -60,6 +60,7 @@
 	<project name="CyanogenMod/android_external_bouncycastle" />
 	<project name="CyanogenMod/android_external_bsdiff" />
 	<project name="CyanogenMod/android_external_bson" />
+	<project name="CyanogenMod/android_external_bumptech_glide" />
 	<project name="CyanogenMod/android_external_busybox" />
 	<project name="CyanogenMod/android_external_bzip2" />
 	<project name="CyanogenMod/android_external_cardslib" />
@@ -178,6 +179,7 @@
 	<project name="CyanogenMod/android_external_mesa3d" />
 	<project name="CyanogenMod/android_external_mksh" />
 	<project name="CyanogenMod/android_external_mm-dash" />
+	<project name="CyanogenMod/android_external_mockito" />
 	<project name="CyanogenMod/android_external_mockwebserver" />
 	<project name="CyanogenMod/android_external_mp4parser" />
 	<project name="CyanogenMod/android_external_mtpd" />
@@ -238,6 +240,7 @@
 	<project name="CyanogenMod/android_external_tinyxml2" />
 	<project name="CyanogenMod/android_external_tremolo" />
 	<project name="CyanogenMod/android_external_tslib" />
+	<project name="CyanogenMod/android_external_unrar" />
 	<project name="CyanogenMod/android_external_v8" />
 	<project name="CyanogenMod/android_external_valgrind" />
 	<project name="CyanogenMod/android_external_vim" />
@@ -254,6 +257,7 @@
 	<project name="CyanogenMod/android_external_xmlwriter" />
 	<project name="CyanogenMod/android_external_xmp_toolkit" />
 	<project name="CyanogenMod/android_external_yaffs2" />
+	<project name="CyanogenMod/android_external_zip" />
 	<project name="CyanogenMod/android_external_zlib" />
 	<project name="CyanogenMod/android_external_zxing" />
 	<project name="CyanogenMod/android_frameworks_av" />
@@ -333,6 +337,7 @@
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5-insignal" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5410" />
+	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5420" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_openmax" />
 	<project name="CyanogenMod/android_hardware_sony_DASH" />
 	<project name="CyanogenMod/android_hardware_ti_fmradio" />
@@ -479,6 +484,7 @@
 	<project name="CyanogenMod/android_system_su" />
 	<project name="CyanogenMod/android_system_vold" />
 	<project name="CyanogenMod/android_system_wlan_ti" />
+	<project name="CyanogenMod/android_tools_base" />
 	<project name="CyanogenMod/android_vendor_apple" />
 	<project name="CyanogenMod/android_vendor_cm" />
 	<project name="CyanogenMod/android_vendor_cyanogen" />

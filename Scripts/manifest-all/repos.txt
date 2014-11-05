@@ -67,6 +67,7 @@ CyanogenMod/android_device_hardkernel_odroidu2 cm-10.1 cm-10.1-staging cm-10.2
 CyanogenMod/android_device_hardkernel_samsung cm-10.1 cm-10.1-staging cm-10.2
 CyanogenMod/android_device_hp_tenderloin cm-11.0 gingerbread ics jellybean
 CyanogenMod/android_device_htc_7x30-recovery gb-release-7.2 gingerbread
+CyanogenMod/android_device_htc_a5 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_htc_ace froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics
 CyanogenMod/android_device_htc_bravo froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release master
 CyanogenMod/android_device_htc_bravo-common froyo
@@ -106,6 +107,7 @@ CyanogenMod/android_device_htc_m7ul cm-10.1 cm-10.2 cm-11.0
 CyanogenMod/android_device_htc_m7vzw cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_htc_m8 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_htc_mecha gb-release-7.2 gingerbread gingerbread-release
+CyanogenMod/android_device_htc_memul cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_htc_msm7x30-common gb-release-7.2 gingerbread gingerbread-release ics jellybean
 CyanogenMod/android_device_htc_msm8660-common cm-10.1 ics jellybean
 CyanogenMod/android_device_htc_msm8960-common cm-10.1 cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
@@ -142,6 +144,7 @@ CyanogenMod/android_device_lge_c800 ics
 CyanogenMod/android_device_lge_d800 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_d801 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_d802 cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_lge_d851 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_d950 cm-10.2 cm-11.0
 CyanogenMod/android_device_lge_dory cm-11.0
 CyanogenMod/android_device_lge_e400 ics
@@ -156,6 +159,7 @@ CyanogenMod/android_device_lge_e973 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_e975 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_e980 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_g2-common cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_lge_g3-common cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_gproj-common cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_hammerhead cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_iprj-common cm-9.1.0 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics ics-release jellybean jellybean-stable stable/cm-11.0
@@ -165,6 +169,7 @@ CyanogenMod/android_device_lge_lgl55c cm-10.1 twrp
 CyanogenMod/android_device_lge_ls970 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_ls970-common cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_ls980 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_lge_ls990 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_mako cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 mr1-release stable/cm-11.0
 CyanogenMod/android_device_lge_ms695 ics master
 CyanogenMod/android_device_lge_ms910 clockwork clockworkmod cm10 gh-pages gingerbread ics master
@@ -192,6 +197,7 @@ CyanogenMod/android_device_lge_vs840 jellybean master
 CyanogenMod/android_device_lge_vs910 master
 CyanogenMod/android_device_lge_vs920 clockworkmod cm9 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_vs980 cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_lge_vs985 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_lge_zee cm-11.0
 CyanogenMod/android_device_malata_smb-common gb-release-7.2 gingerbread gingerbread-release
 CyanogenMod/android_device_malata_smb_a1002 froyo gb-release-7.2 gingerbread gingerbread-release
@@ -294,10 +300,10 @@ CyanogenMod/android_device_samsung_golden jellybean
 CyanogenMod/android_device_samsung_hercules cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable stable/cm-11.0
 CyanogenMod/android_device_samsung_herring froyo gingerbread
 CyanogenMod/android_device_samsung_hlte cm-11.0 stable/cm-11.0
-CyanogenMod/android_device_samsung_hlte-common cm-11.0
-CyanogenMod/android_device_samsung_hltespr cm-11.0
-CyanogenMod/android_device_samsung_hlteusc cm-11.0
-CyanogenMod/android_device_samsung_hltevzw cm-11.0
+CyanogenMod/android_device_samsung_hlte-common cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_hltespr cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_hlteusc cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_hltevzw cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_i577 cm-10.2
 CyanogenMod/android_device_samsung_i605 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_i777 cm-9.0.0 cm-10.1 cm-10.2 cm-11.0 ics jellybean mr1-staging
@@ -309,6 +315,7 @@ CyanogenMod/android_device_samsung_i927 jellybean
 CyanogenMod/android_device_samsung_i9300 cm-10.1 cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_device_samsung_i9305 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_i9500 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_jactivelte cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_jf-common cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_jflte cm-11.0 cm-11.0-old next stable/cm-11.0
 CyanogenMod/android_device_samsung_jflteatt cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
@@ -322,8 +329,12 @@ CyanogenMod/android_device_samsung_jfltevzw cm-10.1 cm-10.2 cm-11.0 stable/cm-11
 CyanogenMod/android_device_samsung_jfltexx cm-10.1 cm-10.2 cm-11.0 s stable/cm-11.0
 CyanogenMod/android_device_samsung_klte cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_klte-common cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_kltedv cm-11.0
 CyanogenMod/android_device_samsung_kltespr cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_klteusc cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_kltevzw cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_kona-common cm-10.2 cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_samsung_ks01lte cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_l900 cm-10.1 cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_maguro cm-9.0.0 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_device_samsung_manta cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean mr1-staging stable/cm-11.0
@@ -365,6 +376,7 @@ CyanogenMod/android_device_samsung_p5113 ics jellybean jellybean-stable
 CyanogenMod/android_device_samsung_p5att jellybean jellybean-stable
 CyanogenMod/android_device_samsung_p5wifi ics
 CyanogenMod/android_device_samsung_p7100 gingerbread
+CyanogenMod/android_device_samsung_picassowifi cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_piranha cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_samsung_prevail2spr jellybean
 CyanogenMod/android_device_samsung_qcom-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean jellybean-stable stable/cm-10.2 stable/cm-11.0
@@ -397,6 +409,7 @@ CyanogenMod/android_device_samsung_tuna cm-9.0.0 cm-10.1 cm-10.1-staging cm-10.2
 CyanogenMod/android_device_samsung_vibrant froyo froyo-stable
 CyanogenMod/android_device_samsung_vibrantmtd cm-10.1 cm-10.1-staging cm-10.2 gb-release-7.2 gingerbread gingerbread-release ics jellybean jellybean-stable mr1-staging
 CyanogenMod/android_device_samsung_vzwtab gb-release-7.2 gingerbread ics
+CyanogenMod/android_device_samsung_ypg1 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_semc_anzu cm-9.0.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable
 CyanogenMod/android_device_semc_coconut cm-9.0.0 gb-release-7.2 gingerbread ics ics-release jellybean jellybean-stable
 CyanogenMod/android_device_semc_es209ra gb-release-7.2 gingerbread gingerbread-release ics
@@ -424,6 +437,7 @@ CyanogenMod/android_device_sony_castor cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_castor_windy cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_dogo cm-10.1 cm-10.2 cm-11.0 cm-11.0-new cm-11.0-old stable/cm-11.0
+CyanogenMod/android_device_sony_flamingo cm-11.0
 CyanogenMod/android_device_sony_fuji-common cm-10.1 cm10.1 ics ics-release jellybean jellybean-stable
 CyanogenMod/android_device_sony_fusion3-common cm-10.1 cm-10.1-rebase cm-10.1-staging cm-10.2 cm-11.0 cm-11.0-new cm-11.0-old stable/cm-11.0
 CyanogenMod/android_device_sony_hayabusa cm-10.1 cm-10.2 cm-11.0 jellybean
@@ -436,6 +450,9 @@ CyanogenMod/android_device_sony_lotus
 CyanogenMod/android_device_sony_mesona jellybean jellybean-3.4
 CyanogenMod/android_device_sony_mint cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_device_sony_montblanc-common ics jellybean
+CyanogenMod/android_device_sony_msm8226-common cm-11.0
+CyanogenMod/android_device_sony_msm8960-common cm-11.0 stable/cm-11.0
+CyanogenMod/android_device_sony_msm8974-common cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_nanhu jellybean jellybean-3.4
 CyanogenMod/android_device_sony_nicki cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_nozomi cm-10.1 cm10.1 ics ics-release jellybean jellybean-stable
@@ -454,6 +471,7 @@ CyanogenMod/android_device_sony_tamsui-common-legacy jellybean
 CyanogenMod/android_device_sony_taoshan cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_tapioca_ds jellybean
 CyanogenMod/android_device_sony_tapioca_ss jellybean jellybean-3.4
+CyanogenMod/android_device_sony_tianchi cm-11.0
 CyanogenMod/android_device_sony_togari cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_togari_gpe cm-11.0 stable/cm-11.0
 CyanogenMod/android_device_sony_tsubasa cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 jellybean stable/cm-11.0
@@ -469,7 +487,7 @@ CyanogenMod/android_device_zte_v9 gb-release-7.2 gingerbread gingerbread-release
 CyanogenMod/android_device_zte_warp2 jellybean master
 CyanogenMod/android_device_zte_x500 master
 CyanogenMod/android_docs_source.android.com jellybean jellybean-stable
-CyanogenMod/android_external_JakeWharton_butterknife cm-11.0 gh-pages jw/listeners-as-fields jw/return layout-injection master stable/cm-11.0
+CyanogenMod/android_external_JakeWharton_butterknife cm-11.0 gh-pages jw/listeners-as-fields jw/return layout-injection master shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_aac cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_alsa-lib gb-release-7.2 gingerbread gingerbread-release
 CyanogenMod/android_external_alsa-utils gb-release-7.2 gingerbread gingerbread-release
@@ -477,9 +495,9 @@ CyanogenMod/android_external_android-clat cm-10.1 cm-10.2 cm-11.0 mr1.1-staging 
 CyanogenMod/android_external_android-mock cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_android-visualizer cm-11.0 master shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_ant-glob cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_external_ant-wireless_ant_native cm-11.0 stable/cm-11.0
-CyanogenMod/android_external_ant-wireless_ant_service cm-11.0 stable/cm-11.0
-CyanogenMod/android_external_ant-wireless_antradio-library cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_ant-wireless_ant_native cm-11.0 shipping/cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_ant-wireless_ant_service cm-11.0 shipping/cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_ant-wireless_antradio-library cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_antlr cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_apache-harmony cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_apache-http cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -498,14 +516,15 @@ CyanogenMod/android_external_bootmenu cm-9.0.0 cm-9.1.0 gb-release-7.2 gingerbre
 CyanogenMod/android_external_bouncycastle cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_bsdiff cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_bson cm-11.0 shipping/cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_bumptech_glide 2.0 gh-pages master palette
 CyanogenMod/android_external_busybox cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 eclair froyo froyo-stable gb-release-7.2 gingerbread gingerbread-legacy gingerbread-release ics ics-release jellybean jellybean-stable koush master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_bzip2 cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_external_cardslib cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_cardslib cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_checkpolicy cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging selinux shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_chromium cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging perf shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_chromium-trace cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_chromium_org cm-11.0 shipping/cm-11.0 stable/cm-11.0
-CyanogenMod/android_external_chromium_org_third_party_openssl cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_chromium_org_third_party_openssl cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_cibu-fonts cm-10.1 jellybean jellybean-stable mr1.1-staging
 CyanogenMod/android_external_clang cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_clearsilver gb-release-7.2 gingerbread gingerbread-release ics
@@ -572,8 +591,8 @@ CyanogenMod/android_external_jpeg cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 ecla
 CyanogenMod/android_external_jpeg-turbo ics
 CyanogenMod/android_external_jsilver cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_jsr305 cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_external_jsr308 cm-11.0 stable/cm-11.0
-CyanogenMod/android_external_jsr330 cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_jsr308 cm-11.0 shipping/cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_jsr330 cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_junit cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_kernel-headers cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_kexec-tools ics jellybean jellybean-stable
@@ -616,6 +635,7 @@ CyanogenMod/android_external_mdnsresponder cm-10.1 cm-10.2 cm-11.0 jellybean jel
 CyanogenMod/android_external_mesa3d cm-9.1.0 cm-10.1 ics ics-release jellybean jellybean-stable mr1.1-staging
 CyanogenMod/android_external_mksh cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_mm-dash 
+CyanogenMod/android_external_mockito cm-11.0
 CyanogenMod/android_external_mockwebserver cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_mp4parser cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_mtpd cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 donut eclair froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -659,8 +679,8 @@ CyanogenMod/android_external_sonivox cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 g
 CyanogenMod/android_external_speex cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_spongycastle bcgit-master cm-10.1 cm-10.2 cm-11.0 dead-mail fix-tests gh-pages master maven-layout relax-cert shipping/cm-11.0 spongy-bc-v1.48 spongy-master spongy-scripts stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_sqlite cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging perf shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_external_square_dagger cm-11.0 gh-pages master ray+jwilson/scope stable/cm-11.0 stephenbarlow/docs
-CyanogenMod/android_external_square_javawriter cm-11.0 gh-pages jw/trailing jw/wrap-fields-with-newlines master rice/lazy_imports stable/cm-11.0
+CyanogenMod/android_external_square_dagger cm-11.0 gh-pages master ray+jwilson/scope shipping/cm-11.0 stable/cm-11.0 stephenbarlow/docs
+CyanogenMod/android_external_square_javawriter cm-11.0 gh-pages jw/trailing jw/wrap-fields-with-newlines master rice/lazy_imports shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_srec cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_srtp cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_stagefright-plugins cm-11.0 shipping/cm-11.0 stable/cm-11.0
@@ -671,11 +691,12 @@ CyanogenMod/android_external_svox cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-r
 CyanogenMod/android_external_tagsoup cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_tcpdump cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_tinyalsa cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_external_tinycompress cm-11.0 stable/cm-11.0
+CyanogenMod/android_external_tinycompress cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_external_tinyxml cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_tinyxml2 cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_tremolo cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_tslib froyo froyo-stable
+CyanogenMod/android_external_unrar cm-11.0
 CyanogenMod/android_external_v8 cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_valgrind cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_vim cm-9.0.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread-release ics jellybean jellybean-stable master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -692,6 +713,7 @@ CyanogenMod/android_external_wpa_supplicant_8_ti cm-10.1 cm-10.2 cm-11.0 shippin
 CyanogenMod/android_external_xmlwriter cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_xmp_toolkit cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_yaffs2 cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 eclair froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
+CyanogenMod/android_external_zip cm-11.0
 CyanogenMod/android_external_zlib cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_external_zxing cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_frameworks_av av-test cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable mr1.1-staging next next-rb shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -771,6 +793,7 @@ CyanogenMod/android_hardware_samsung_slsi_exynos cm-11.0 stable/cm-11.0
 CyanogenMod/android_hardware_samsung_slsi_exynos5 cm-10.1 cm-10.2 cm-11.0 mr1.1-staging mr1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_hardware_samsung_slsi_exynos5-insignal cm-11.0 stable/cm-11.0
 CyanogenMod/android_hardware_samsung_slsi_exynos5410 cm-11.0 stable/cm-11.0
+CyanogenMod/android_hardware_samsung_slsi_exynos5420 cm-11.0 stable/cm-11.0
 CyanogenMod/android_hardware_samsung_slsi_openmax cm-11.0 stable/cm-11.0
 CyanogenMod/android_hardware_sony_DASH cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable stable/cm-11.0
 CyanogenMod/android_hardware_ti_fmradio ics jellybean jellybean-stable
@@ -806,6 +829,7 @@ CyanogenMod/android_kernel_htc_msm8660 cm-10.1-ds jb-test jellybean jellybean-ds
 CyanogenMod/android_kernel_htc_msm8960 android-msm-evita-3.0 android-msm-jewel-3.0 android-msm-ville-3.0 cm-10.1 cm-10.1_3.0 cm-10.2 cm-11.0 jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_htc_msm8974 caf cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_lge_dory cm-11.0
+CyanogenMod/android_kernel_lge_g3 cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_lge_hammerhead cm-11.0 next stable/cm-11.0
 CyanogenMod/android_kernel_lge_ls970 cm-10.1 cm-10.2
 CyanogenMod/android_kernel_lge_msm8974 cm-10.2 cm-11.0 stable/cm-11.0
@@ -814,7 +838,7 @@ CyanogenMod/android_kernel_lge_v909
 CyanogenMod/android_kernel_motorola_ghost cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_motorola_msm8226 3.4.y AU_LINUX_ANDROID_JB_3.2_RB2.04.03.00.129.057 cm-11.0 cm-11.0-aospdisplay cm-11.0-caf cm-11.0-new cm-11.0-old kitkat-mr1-release-falcon-gpe kk_3.5_rb1.16 kk_3.5_rb1.18 kk_3.5_rb1.19 msm-3.10 prima rebase stable/cm-11.0 stock stock44 temp test
 CyanogenMod/android_kernel_motorola_msm8960-common cm-10.1 cm-10.1-old cm-10.2 cm-11.0 stable/cm-11.0
-CyanogenMod/android_kernel_motorola_msm8960dt-common cm-10.2 cm-11.0 cm-11.0-old stable/cm-11.0
+CyanogenMod/android_kernel_motorola_msm8960dt-common cm-10.2 cm-11 cm-11.0 cm-11.0-old stable/cm-11.0
 CyanogenMod/android_kernel_motorola_omap4-common cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_motorola_omap4-kexec-common cm-10.1
 CyanogenMod/android_kernel_oneplus_msm8974 cm-11.0 next shipping/cm-11.0 stable/cm-11.0
@@ -826,15 +850,17 @@ CyanogenMod/android_kernel_samsung_d2 cm-10.1 cm-10.1_3.0 cm-10.1-rebase cm-10.1
 CyanogenMod/android_kernel_samsung_epicmtd cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jb jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_samsung_espresso10 cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 ics jellybean jellybean-stable mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_samsung_exynos5410 cm-11.0 cm-11.0-old stable/cm-11.0
+CyanogenMod/android_kernel_samsung_exynos5420 cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_samsung_galaxytab-cdma cm-9.0.0 cm-10.1 cm-10.2 gingerbread ics jellybean mr1-staging
 CyanogenMod/android_kernel_samsung_hlte cm-10.2 cm-11.0 cma-all-the-things stable/cm-11.0 wip
 CyanogenMod/android_kernel_samsung_jf cm-10.1 cm-10.2 cm-11.0 cm-11.0-old next official stable/cm-11.0 wip-ml4
 CyanogenMod/android_kernel_samsung_klte cm-11.0 stable/cm-11.0
+CyanogenMod/android_kernel_samsung_ks01lte cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_samsung_manta cm-10.1 cm-10.1-staging cm-10.2 cm-11.0 mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_samsung_mondrianwifi cm-11.0 new next stable/cm-11.0
 CyanogenMod/android_kernel_samsung_msm8660-common cm-10.1 cm-10.1-old cm-10.1_old cm-10.1-staging cm-10.2 cm-11.0 hdmi-wip-lol-bbq ics jb-old jb-test jellybean jellybean-stable next stable/cm-11.0 test1
 CyanogenMod/android_kernel_samsung_msm8660-q1 ics
-CyanogenMod/android_kernel_samsung_msm8930-common cm-10.1 cm-10.2 cm-11.0 stable/cm-10.2 stable/cm-11.0
+CyanogenMod/android_kernel_samsung_msm8930-common cm-10.1 cm-10.2 cm-11.0 cm-11.0_old stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_kernel_samsung_n1 cm-10.1 jellybean
 CyanogenMod/android_kernel_samsung_p1 android-samsung-2.6.35 android-samsung-3.0 cm-9.0.0 cm-10.1 jellybean mr1-staging
 CyanogenMod/android_kernel_samsung_p4 cm-10.1 ics jellybean
@@ -845,6 +871,7 @@ CyanogenMod/android_kernel_samsung_t1 android-omap-3.0 cm-10.1 cm-10.1-staging c
 CyanogenMod/android_kernel_samsung_tuna android-omap-tuna-3.0 cm-10.1 cm-10.1-staging cm-10.2 cm10.2 cm-11.0 cm-omap-tuna-ics experimental experimental-3.1 ics ics.google.update.404 jb jb.test42 jellybean jellybean-stable linux-3.0.y linux-3.1.y mr1-staging stable/cm-11.0
 CyanogenMod/android_kernel_samsung_victory gingerbread ics jellybean
 CyanogenMod/android_kernel_sony_apq8064 cm-10.1 cm-10.1-rebase cm-10.1-staging cm-10.1-staging-RC5 cm-10.2 cm-11.0 cm-11.0-new cm-11.0-old stable/cm-11.0
+CyanogenMod/android_kernel_sony_flamingo cm-11.0
 CyanogenMod/android_kernel_sony_mam7x27a-legacy jellybean
 CyanogenMod/android_kernel_sony_msm7x27a jellybean jellybean-3.4 jellybean-3.4_old jellybean-old
 CyanogenMod/android_kernel_sony_msm7x27a-legacy jellybean
@@ -855,6 +882,7 @@ CyanogenMod/android_kernel_sony_msm8974 cm-10.2 cm-11.0 cm-11.0-20140403 cm-11.0
 CyanogenMod/android_kernel_sony_msm8974pro cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_sony_msm8x27 cm-11.0 stable/cm-11.0
 CyanogenMod/android_kernel_sony_msm8x60 9.0.G.0.238 9.1.A.0.420 9.1.A.0.489 cm-10.0.0 cm-10.1 cm-10.1-old cm-10.1-staging cm-10.1-test cm-10.2 cm-11.0 cm-11.0-old jb-test jellybean jellybean-stable mr1-staging stable/cm-11.0
+CyanogenMod/android_kernel_sony_tianchi cm-11.0
 CyanogenMod/android_kernel_toshiba_betelgeuse cm-10.1
 CyanogenMod/android_kernel_xiaomi_aries cm-11.0 stable/cm-11.0
 CyanogenMod/android_libcore cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
@@ -870,7 +898,7 @@ CyanogenMod/android_packages_apps_Bluetooth bt-next caf-rb cm-9.0.0 cm-9.1.0 cm-
 CyanogenMod/android_packages_apps_BluetoothExt cm-10.2 cm-11.0 next shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_apps_Browser cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 donut eclair eclair-backport froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_apps_CMAccount cm-10.1 cm-10.2 cm-11.0 shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
-CyanogenMod/android_packages_apps_CMBugreport cm-11.0 stable/cm-11.0
+CyanogenMod/android_packages_apps_CMBugreport cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_packages_apps_CMFileManager cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-stable master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_packages_apps_CMHome cm-11.0 shipping/cm-11.0 stable/cm-11.0
 CyanogenMod/android_packages_apps_CMParts froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release master wip
@@ -991,8 +1019,9 @@ CyanogenMod/android_system_security cm-10.1 cm-10.2 cm-11.0 jellybean jellybean-
 CyanogenMod/android_system_su cm-9.0.0 cm-9.1.0 cm-10.1 gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable master mr1.1-staging
 CyanogenMod/android_system_vold cm-9.0.0 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 froyo froyo-stable gb-release-7.2 gingerbread gingerbread-release ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_system_wlan_ti eclair gb-release-7.2 gingerbread gingerbread-release
+CyanogenMod/android_tools_base gradle_0.7 gradle_0.8 gradle_0.9 gradle_0.10 gradle_0.11 gradle-dev idea133 idea133-milestone idea133-weekly-release jb-mr1.1-dev-plus-aosp jb-mr1-dev-plus-aosp jb-mr2.0-release jb-mr2-dev jb-mr2-release kitkat-cts-dev kitkat-dev kitkat-mr1.1-release kitkat-mr1-release kitkat-mr2.1-release kitkat-mr2.2-release kitkat-mr2-release kitkat-release kitkat-wear l-preview master studio-1.0-dev studio-1.0-release studio-1.1-dev studio-1.1-release studio-master-dev
 CyanogenMod/android_vendor_apple master
-CyanogenMod/android_vendor_cm cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
+CyanogenMod/android_vendor_cm cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 ics ics-release jellybean jellybean-stable mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0
 CyanogenMod/android_vendor_cyanogen donut eclair froyo froyo-kernel froyo-stable gb-release-7.2 gingerbread gingerbread-release master themes-exp
 CyanogenMod/android_vendor_google_passion eclair
 CyanogenMod/android_vendor_htc_dream_sapphire eclair

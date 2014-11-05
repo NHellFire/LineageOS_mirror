@@ -23,6 +23,7 @@
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
 	<project name="CyanogenMod/android_kernel_htc_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_dory" />
+	<project name="CyanogenMod/android_kernel_lge_g3" />
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
 	<project name="CyanogenMod/android_kernel_lge_ls970" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
@@ -43,10 +44,12 @@
 	<project name="CyanogenMod/android_kernel_samsung_epicmtd" />
 	<project name="CyanogenMod/android_kernel_samsung_espresso10" />
 	<project name="CyanogenMod/android_kernel_samsung_exynos5410" />
+	<project name="CyanogenMod/android_kernel_samsung_exynos5420" />
 	<project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
 	<project name="CyanogenMod/android_kernel_samsung_hlte" />
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
 	<project name="CyanogenMod/android_kernel_samsung_klte" />
+	<project name="CyanogenMod/android_kernel_samsung_ks01lte" />
 	<project name="CyanogenMod/android_kernel_samsung_manta" />
 	<project name="CyanogenMod/android_kernel_samsung_mondrianwifi" />
 	<project name="CyanogenMod/android_kernel_samsung_msm8660-common" />
@@ -62,6 +65,7 @@
 	<project name="CyanogenMod/android_kernel_samsung_tuna" />
 	<project name="CyanogenMod/android_kernel_samsung_victory" />
 	<project name="CyanogenMod/android_kernel_sony_apq8064" />
+	<project name="CyanogenMod/android_kernel_sony_flamingo" />
 	<project name="CyanogenMod/android_kernel_sony_mam7x27a-legacy" />
 	<project name="CyanogenMod/android_kernel_sony_msm7x27a" />
 	<project name="CyanogenMod/android_kernel_sony_msm7x27a-legacy" />
@@ -72,6 +76,7 @@
 	<project name="CyanogenMod/android_kernel_sony_msm8974pro" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x27" />
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
+	<project name="CyanogenMod/android_kernel_sony_tianchi" />
 	<project name="CyanogenMod/android_kernel_toshiba_betelgeuse" />
 	<project name="CyanogenMod/android_kernel_xiaomi_aries" />
 	<project name="CyanogenMod/cm-kernel" />

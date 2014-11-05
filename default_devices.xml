@@ -51,6 +51,7 @@
 	<project name="CyanogenMod/android_device_hardkernel_samsung" />
 	<project name="CyanogenMod/android_device_hp_tenderloin" />
 	<project name="CyanogenMod/android_device_htc_7x30-recovery" />
+	<project name="CyanogenMod/android_device_htc_a5" />
 	<project name="CyanogenMod/android_device_htc_ace" />
 	<project name="CyanogenMod/android_device_htc_bravo" />
 	<project name="CyanogenMod/android_device_htc_bravo-common" />
@@ -90,6 +91,7 @@
 	<project name="CyanogenMod/android_device_htc_m7vzw" />
 	<project name="CyanogenMod/android_device_htc_m8" />
 	<project name="CyanogenMod/android_device_htc_mecha" />
+	<project name="CyanogenMod/android_device_htc_memul" />
 	<project name="CyanogenMod/android_device_htc_msm7x30-common" />
 	<project name="CyanogenMod/android_device_htc_msm8660-common" />
 	<project name="CyanogenMod/android_device_htc_msm8960-common" />
@@ -126,6 +128,7 @@
 	<project name="CyanogenMod/android_device_lge_d800" />
 	<project name="CyanogenMod/android_device_lge_d801" />
 	<project name="CyanogenMod/android_device_lge_d802" />
+	<project name="CyanogenMod/android_device_lge_d851" />
 	<project name="CyanogenMod/android_device_lge_d950" />
 	<project name="CyanogenMod/android_device_lge_dory" />
 	<project name="CyanogenMod/android_device_lge_e400" />
@@ -140,6 +143,7 @@
 	<project name="CyanogenMod/android_device_lge_e975" />
 	<project name="CyanogenMod/android_device_lge_e980" />
 	<project name="CyanogenMod/android_device_lge_g2-common" />
+	<project name="CyanogenMod/android_device_lge_g3-common" />
 	<project name="CyanogenMod/android_device_lge_gproj-common" />
 	<project name="CyanogenMod/android_device_lge_hammerhead" />
 	<project name="CyanogenMod/android_device_lge_iprj-common" />
@@ -149,6 +153,7 @@
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
 	<project name="CyanogenMod/android_device_lge_ls980" />
+	<project name="CyanogenMod/android_device_lge_ls990" />
 	<project name="CyanogenMod/android_device_lge_mako" />
 	<project name="CyanogenMod/android_device_lge_ms695" />
 	<project name="CyanogenMod/android_device_lge_ms910" />
@@ -176,6 +181,7 @@
 	<project name="CyanogenMod/android_device_lge_vs910" />
 	<project name="CyanogenMod/android_device_lge_vs920" />
 	<project name="CyanogenMod/android_device_lge_vs980" />
+	<project name="CyanogenMod/android_device_lge_vs985" />
 	<project name="CyanogenMod/android_device_lge_zee" />
 	<project name="CyanogenMod/android_device_malata_smb-common" />
 	<project name="CyanogenMod/android_device_malata_smb_a1002" />
@@ -293,6 +299,7 @@
 	<project name="CyanogenMod/android_device_samsung_i9300" />
 	<project name="CyanogenMod/android_device_samsung_i9305" />
 	<project name="CyanogenMod/android_device_samsung_i9500" />
+	<project name="CyanogenMod/android_device_samsung_jactivelte" />
 	<project name="CyanogenMod/android_device_samsung_jf-common" />
 	<project name="CyanogenMod/android_device_samsung_jflte" />
 	<project name="CyanogenMod/android_device_samsung_jflteatt" />
@@ -306,8 +313,12 @@
 	<project name="CyanogenMod/android_device_samsung_jfltexx" />
 	<project name="CyanogenMod/android_device_samsung_klte" />
 	<project name="CyanogenMod/android_device_samsung_klte-common" />
+	<project name="CyanogenMod/android_device_samsung_kltedv" />
 	<project name="CyanogenMod/android_device_samsung_kltespr" />
+	<project name="CyanogenMod/android_device_samsung_klteusc" />
+	<project name="CyanogenMod/android_device_samsung_kltevzw" />
 	<project name="CyanogenMod/android_device_samsung_kona-common" />
+	<project name="CyanogenMod/android_device_samsung_ks01lte" />
 	<project name="CyanogenMod/android_device_samsung_l900" />
 	<project name="CyanogenMod/android_device_samsung_maguro" />
 	<project name="CyanogenMod/android_device_samsung_manta" />
@@ -349,6 +360,7 @@
 	<project name="CyanogenMod/android_device_samsung_p5att" />
 	<project name="CyanogenMod/android_device_samsung_p5wifi" />
 	<project name="CyanogenMod/android_device_samsung_p7100" />
+	<project name="CyanogenMod/android_device_samsung_picassowifi" />
 	<project name="CyanogenMod/android_device_samsung_piranha" />
 	<project name="CyanogenMod/android_device_samsung_prevail2spr" />
 	<project name="CyanogenMod/android_device_samsung_qcom-common" />
@@ -381,6 +393,7 @@
 	<project name="CyanogenMod/android_device_samsung_vibrant" />
 	<project name="CyanogenMod/android_device_samsung_vibrantmtd" />
 	<project name="CyanogenMod/android_device_samsung_vzwtab" />
+	<project name="CyanogenMod/android_device_samsung_ypg1" />
 	<project name="CyanogenMod/android_device_semc_anzu" />
 	<project name="CyanogenMod/android_device_semc_coconut" />
 	<project name="CyanogenMod/android_device_semc_es209ra" />
@@ -408,6 +421,7 @@
 	<project name="CyanogenMod/android_device_sony_castor_windy" />
 	<project name="CyanogenMod/android_device_sony_common" />
 	<project name="CyanogenMod/android_device_sony_dogo" />
+	<project name="CyanogenMod/android_device_sony_flamingo" />
 	<project name="CyanogenMod/android_device_sony_fuji-common" />
 	<project name="CyanogenMod/android_device_sony_fusion3-common" />
 	<project name="CyanogenMod/android_device_sony_hayabusa" />
@@ -420,6 +434,9 @@
 	<project name="CyanogenMod/android_device_sony_mesona" />
 	<project name="CyanogenMod/android_device_sony_mint" />
 	<project name="CyanogenMod/android_device_sony_montblanc-common" />
+	<project name="CyanogenMod/android_device_sony_msm8226-common" />
+	<project name="CyanogenMod/android_device_sony_msm8960-common" />
+	<project name="CyanogenMod/android_device_sony_msm8974-common" />
 	<project name="CyanogenMod/android_device_sony_nanhu" />
 	<project name="CyanogenMod/android_device_sony_nicki" />
 	<project name="CyanogenMod/android_device_sony_nozomi" />
@@ -438,6 +455,7 @@
 	<project name="CyanogenMod/android_device_sony_taoshan" />
 	<project name="CyanogenMod/android_device_sony_tapioca_ds" />
 	<project name="CyanogenMod/android_device_sony_tapioca_ss" />
+	<project name="CyanogenMod/android_device_sony_tianchi" />
 	<project name="CyanogenMod/android_device_sony_togari" />
 	<project name="CyanogenMod/android_device_sony_togari_gpe" />
 	<project name="CyanogenMod/android_device_sony_tsubasa" />
