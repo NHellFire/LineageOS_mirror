@@ -111,6 +111,7 @@
 	<project name="CyanogenMod/android_device_samsung_galaxysbmtd" />
 	<project name="CyanogenMod/android_device_samsung_galaxysmtd" />
 	<project name="CyanogenMod/android_device_samsung_hercules" />
+	<project name="CyanogenMod/android_device_samsung_hltetmo" />
 	<project name="CyanogenMod/android_device_samsung_i577" />
 	<project name="CyanogenMod/android_device_samsung_i605" />
 	<project name="CyanogenMod/android_device_samsung_i777" />

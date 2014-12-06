@@ -62,6 +62,7 @@
 	<project name="CyanogenMod/android_device_lge_d800" />
 	<project name="CyanogenMod/android_device_lge_d801" />
 	<project name="CyanogenMod/android_device_lge_d802" />
+	<project name="CyanogenMod/android_device_lge_d850" />
 	<project name="CyanogenMod/android_device_lge_d851" />
 	<project name="CyanogenMod/android_device_lge_d950" />
 	<project name="CyanogenMod/android_device_lge_dory" />
@@ -87,6 +88,7 @@
 	<project name="CyanogenMod/android_device_lge_vs920" />
 	<project name="CyanogenMod/android_device_lge_vs980" />
 	<project name="CyanogenMod/android_device_lge_vs985" />
+	<project name="CyanogenMod/android_device_lge_w7" />
 	<project name="CyanogenMod/android_device_lge_zee" />
 	<project name="CyanogenMod/android_device_motorola_falcon" />
 	<project name="CyanogenMod/android_device_motorola_ghost" />
@@ -149,6 +151,7 @@
 	<project name="CyanogenMod/android_device_samsung_hlte" />
 	<project name="CyanogenMod/android_device_samsung_hlte-common" />
 	<project name="CyanogenMod/android_device_samsung_hltespr" />
+	<project name="CyanogenMod/android_device_samsung_hltetmo" />
 	<project name="CyanogenMod/android_device_samsung_hlteusc" />
 	<project name="CyanogenMod/android_device_samsung_hltevzw" />
 	<project name="CyanogenMod/android_device_samsung_i605" />
@@ -180,6 +183,7 @@
 	<project name="CyanogenMod/android_device_samsung_kona-common" />
 	<project name="CyanogenMod/android_device_samsung_ks01lte" />
 	<project name="CyanogenMod/android_device_samsung_l900" />
+	<project name="CyanogenMod/android_device_samsung_lt03lte" />
 	<project name="CyanogenMod/android_device_samsung_maguro" />
 	<project name="CyanogenMod/android_device_samsung_manta" />
 	<project name="CyanogenMod/android_device_samsung_mondrianwifi" />

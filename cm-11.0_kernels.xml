@@ -21,6 +21,7 @@
 	<project name="CyanogenMod/android_kernel_lge_dory" />
 	<project name="CyanogenMod/android_kernel_lge_g3" />
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
+	<project name="CyanogenMod/android_kernel_lge_msm8226" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_motorola_ghost" />
@@ -42,6 +43,7 @@
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
 	<project name="CyanogenMod/android_kernel_samsung_klte" />
 	<project name="CyanogenMod/android_kernel_samsung_ks01lte" />
+	<project name="CyanogenMod/android_kernel_samsung_lt03lte" />
 	<project name="CyanogenMod/android_kernel_samsung_manta" />
 	<project name="CyanogenMod/android_kernel_samsung_mondrianwifi" />
 	<project name="CyanogenMod/android_kernel_samsung_msm8660-common" />

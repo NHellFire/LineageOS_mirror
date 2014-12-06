@@ -58,6 +58,7 @@
 	<project name="CyanogenMod/android_external_bluetooth_hcidump" />
 	<project name="CyanogenMod/android_external_bootmenu" />
 	<project name="CyanogenMod/android_external_bouncycastle" />
+	<project name="CyanogenMod/android_external_brctl" />
 	<project name="CyanogenMod/android_external_bsdiff" />
 	<project name="CyanogenMod/android_external_bson" />
 	<project name="CyanogenMod/android_external_bumptech_glide" />
@@ -68,16 +69,29 @@
 	<project name="CyanogenMod/android_external_chromium" />
 	<project name="CyanogenMod/android_external_chromium-trace" />
 	<project name="CyanogenMod/android_external_chromium_org" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_brotli_src" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_libaddressinput_src" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_libjpeg_turbo" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_libsrtp" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_libvpx" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_libyuv" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_openmax_dl" />
 	<project name="CyanogenMod/android_external_chromium_org_third_party_openssl" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_skia" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_usrsctp_usrsctplib" />
+	<project name="CyanogenMod/android_external_chromium_org_third_party_webrtc" />
 	<project name="CyanogenMod/android_external_cibu-fonts" />
 	<project name="CyanogenMod/android_external_clang" />
 	<project name="CyanogenMod/android_external_clearsilver" />
+	<project name="CyanogenMod/android_external_cmockery" />
 	<project name="CyanogenMod/android_external_compcache" />
 	<project name="CyanogenMod/android_external_compiler-rt" />
 	<project name="CyanogenMod/android_external_connectivity" />
+	<project name="CyanogenMod/android_external_conscrypt" />
 	<project name="CyanogenMod/android_external_crda" />
 	<project name="CyanogenMod/android_external_curl" />
 	<project name="CyanogenMod/android_external_dbus" />
+	<project name="CyanogenMod/android_external_deqp" />
 	<project name="CyanogenMod/android_external_dexmaker" />
 	<project name="CyanogenMod/android_external_dhcpcd" />
 	<project name="CyanogenMod/android_external_dnsmasq" />
@@ -88,6 +102,7 @@
 	<project name="CyanogenMod/android_external_ebtables" />
 	<project name="CyanogenMod/android_external_eclipse-basebuilder" />
 	<project name="CyanogenMod/android_external_eclipse-windowbuilder" />
+	<project name="CyanogenMod/android_external_eigen" />
 	<project name="CyanogenMod/android_external_elfcopy" />
 	<project name="CyanogenMod/android_external_elfutils" />
 	<project name="CyanogenMod/android_external_embunit" />
@@ -100,7 +115,9 @@
 	<project name="CyanogenMod/android_external_fat32lib" />
 	<project name="CyanogenMod/android_external_fdlibm" />
 	<project name="CyanogenMod/android_external_ffmpeg" />
+	<project name="CyanogenMod/android_external_fio" />
 	<project name="CyanogenMod/android_external_flac" />
+	<project name="CyanogenMod/android_external_fonttools" />
 	<project name="CyanogenMod/android_external_freetype" />
 	<project name="CyanogenMod/android_external_fsck_msdos" />
 	<project name="CyanogenMod/android_external_fuse" />
@@ -108,8 +125,15 @@
 	<project name="CyanogenMod/android_external_gcc-demangle" />
 	<project name="CyanogenMod/android_external_genext2fs" />
 	<project name="CyanogenMod/android_external_giflib" />
+	<project name="CyanogenMod/android_external_glide" />
+	<project name="CyanogenMod/android_external_gmock" />
 	<project name="CyanogenMod/android_external_google" />
 	<project name="CyanogenMod/android_external_google-diff-match-patch" />
+	<project name="CyanogenMod/android_external_google-fonts_carrois-gothic-sc" />
+	<project name="CyanogenMod/android_external_google-fonts_coming-soon" />
+	<project name="CyanogenMod/android_external_google-fonts_cutive-mono" />
+	<project name="CyanogenMod/android_external_google-fonts_dancing-script" />
+	<project name="CyanogenMod/android_external_google-tv-pairing-protocol" />
 	<project name="CyanogenMod/android_external_grub" />
 	<project name="CyanogenMod/android_external_gson" />
 	<project name="CyanogenMod/android_external_gtest" />
@@ -120,20 +144,26 @@
 	<project name="CyanogenMod/android_external_hostapd" />
 	<project name="CyanogenMod/android_external_htop" />
 	<project name="CyanogenMod/android_external_hyphenation" />
+	<project name="CyanogenMod/android_external_icu" />
 	<project name="CyanogenMod/android_external_icu4c" />
 	<project name="CyanogenMod/android_external_iproute2" />
 	<project name="CyanogenMod/android_external_ipsec-tools" />
 	<project name="CyanogenMod/android_external_iptables" />
 	<project name="CyanogenMod/android_external_jack" />
+	<project name="CyanogenMod/android_external_jarjar" />
 	<project name="CyanogenMod/android_external_javasqlite" />
 	<project name="CyanogenMod/android_external_javassist" />
 	<project name="CyanogenMod/android_external_jdiff" />
+	<project name="CyanogenMod/android_external_jemalloc" />
 	<project name="CyanogenMod/android_external_jhead" />
+	<project name="CyanogenMod/android_external_jline" />
 	<project name="CyanogenMod/android_external_jmdns" />
 	<project name="CyanogenMod/android_external_jmonkeyengine" />
 	<project name="CyanogenMod/android_external_jpeg" />
 	<project name="CyanogenMod/android_external_jpeg-turbo" />
 	<project name="CyanogenMod/android_external_jsilver" />
+	<project name="CyanogenMod/android_external_jsmn" />
+	<project name="CyanogenMod/android_external_jsoncpp" />
 	<project name="CyanogenMod/android_external_jsr305" />
 	<project name="CyanogenMod/android_external_jsr308" />
 	<project name="CyanogenMod/android_external_jsr330" />
@@ -141,28 +171,39 @@
 	<project name="CyanogenMod/android_external_kernel-headers" />
 	<project name="CyanogenMod/android_external_kexec-tools" />
 	<project name="CyanogenMod/android_external_kissfft" />
+	<project name="CyanogenMod/android_external_ksoap2" />
 	<project name="CyanogenMod/android_external_libcap-ng" />
+	<project name="CyanogenMod/android_external_libcxx" />
+	<project name="CyanogenMod/android_external_libcxxabi" />
+	<project name="CyanogenMod/android_external_libedit" />
 	<project name="CyanogenMod/android_external_libexif" />
 	<project name="CyanogenMod/android_external_libffi" />
 	<project name="CyanogenMod/android_external_libgsm" />
+	<project name="CyanogenMod/android_external_libhevc" />
 	<project name="CyanogenMod/android_external_liblzf" />
 	<project name="CyanogenMod/android_external_libmtp" />
 	<project name="CyanogenMod/android_external_libncurses" />
 	<project name="CyanogenMod/android_external_libnfc-nci" />
 	<project name="CyanogenMod/android_external_libnfc-nxp" />
+	<project name="CyanogenMod/android_external_libnl" />
 	<project name="CyanogenMod/android_external_libnl-headers" />
 	<project name="CyanogenMod/android_external_libogg" />
+	<project name="CyanogenMod/android_external_libopus" />
 	<project name="CyanogenMod/android_external_libpcap" />
 	<project name="CyanogenMod/android_external_libphonenumber" />
 	<project name="CyanogenMod/android_external_libphonenumbergoogle" />
 	<project name="CyanogenMod/android_external_libpng" />
 	<project name="CyanogenMod/android_external_libppp" />
+	<project name="CyanogenMod/android_external_libseccomp-helper" />
 	<project name="CyanogenMod/android_external_libselinux" />
 	<project name="CyanogenMod/android_external_libsepol" />
 	<project name="CyanogenMod/android_external_libtar" />
+	<project name="CyanogenMod/android_external_libtruezip" />
+	<project name="CyanogenMod/android_external_libunwind" />
 	<project name="CyanogenMod/android_external_libusb" />
 	<project name="CyanogenMod/android_external_libusb-compat" />
 	<project name="CyanogenMod/android_external_libusbx" />
+	<project name="CyanogenMod/android_external_libutf" />
 	<project name="CyanogenMod/android_external_libvorbis" />
 	<project name="CyanogenMod/android_external_libvpx" />
 	<project name="CyanogenMod/android_external_libxml2" />
@@ -170,13 +211,16 @@
 	<project name="CyanogenMod/android_external_libyuv" />
 	<project name="CyanogenMod/android_external_linux-tools-perf" />
 	<project name="CyanogenMod/android_external_littlemock" />
+	<project name="CyanogenMod/android_external_lldb" />
 	<project name="CyanogenMod/android_external_llvm" />
 	<project name="CyanogenMod/android_external_lohit-fonts" />
 	<project name="CyanogenMod/android_external_lsof" />
+	<project name="CyanogenMod/android_external_ltrace" />
 	<project name="CyanogenMod/android_external_lzo" />
 	<project name="CyanogenMod/android_external_markdown" />
 	<project name="CyanogenMod/android_external_mdnsresponder" />
 	<project name="CyanogenMod/android_external_mesa3d" />
+	<project name="CyanogenMod/android_external_messageformat" />
 	<project name="CyanogenMod/android_external_mksh" />
 	<project name="CyanogenMod/android_external_mm-dash" />
 	<project name="CyanogenMod/android_external_mockito" />
@@ -184,10 +228,13 @@
 	<project name="CyanogenMod/android_external_mp4parser" />
 	<project name="CyanogenMod/android_external_mtpd" />
 	<project name="CyanogenMod/android_external_nano" />
+	<project name="CyanogenMod/android_external_nanohttpd" />
+	<project name="CyanogenMod/android_external_nanopb-c" />
 	<project name="CyanogenMod/android_external_naver-fonts" />
 	<project name="CyanogenMod/android_external_netcat" />
 	<project name="CyanogenMod/android_external_netperf" />
 	<project name="CyanogenMod/android_external_neven" />
+	<project name="CyanogenMod/android_external_nfacct" />
 	<project name="CyanogenMod/android_external_nist-sip" />
 	<project name="CyanogenMod/android_external_ntfs-3g" />
 	<project name="CyanogenMod/android_external_oauth" />
@@ -199,7 +246,10 @@
 	<project name="CyanogenMod/android_external_openssl" />
 	<project name="CyanogenMod/android_external_openvpn" />
 	<project name="CyanogenMod/android_external_oprofile" />
+	<project name="CyanogenMod/android_external_owasp_sanitizer" />
 	<project name="CyanogenMod/android_external_pciutils" />
+	<project name="CyanogenMod/android_external_pcre" />
+	<project name="CyanogenMod/android_external_pdfium" />
 	<project name="CyanogenMod/android_external_pigz" />
 	<project name="CyanogenMod/android_external_ping" />
 	<project name="CyanogenMod/android_external_ping6" />
@@ -244,6 +294,7 @@
 	<project name="CyanogenMod/android_external_v8" />
 	<project name="CyanogenMod/android_external_valgrind" />
 	<project name="CyanogenMod/android_external_vim" />
+	<project name="CyanogenMod/android_external_vixl" />
 	<project name="CyanogenMod/android_external_webkit" />
 	<project name="CyanogenMod/android_external_webp" />
 	<project name="CyanogenMod/android_external_webrtc" />
@@ -259,6 +310,7 @@
 	<project name="CyanogenMod/android_external_yaffs2" />
 	<project name="CyanogenMod/android_external_zip" />
 	<project name="CyanogenMod/android_external_zlib" />
+	<project name="CyanogenMod/android_external_zopfli" />
 	<project name="CyanogenMod/android_external_zxing" />
 	<project name="CyanogenMod/android_frameworks_av" />
 	<project name="CyanogenMod/android_frameworks_base" />
@@ -270,10 +322,15 @@
 	<project name="CyanogenMod/android_frameworks_ex" />
 	<project name="CyanogenMod/android_frameworks_media_libvideoeditor" />
 	<project name="CyanogenMod/android_frameworks_mff" />
+	<project name="CyanogenMod/android_frameworks_minikin" />
 	<project name="CyanogenMod/android_frameworks_ml" />
+	<project name="CyanogenMod/android_frameworks_multidex" />
 	<project name="CyanogenMod/android_frameworks_native" />
+	<project name="CyanogenMod/android_frameworks_opt_bitmap" />
+	<project name="CyanogenMod/android_frameworks_opt_bluetooth" />
 	<project name="CyanogenMod/android_frameworks_opt_calendar" />
 	<project name="CyanogenMod/android_frameworks_opt_carddav" />
+	<project name="CyanogenMod/android_frameworks_opt_chips" />
 	<project name="CyanogenMod/android_frameworks_opt_colorpicker" />
 	<project name="CyanogenMod/android_frameworks_opt_connectivity" />
 	<project name="CyanogenMod/android_frameworks_opt_datetimepicker" />
@@ -282,8 +339,12 @@
 	<project name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
 	<project name="CyanogenMod/android_frameworks_opt_mailcommon" />
 	<project name="CyanogenMod/android_frameworks_opt_mms" />
+	<project name="CyanogenMod/android_frameworks_opt_net_ethernet" />
+	<project name="CyanogenMod/android_frameworks_opt_net_ims" />
 	<project name="CyanogenMod/android_frameworks_opt_net_voip" />
+	<project name="CyanogenMod/android_frameworks_opt_net_wifi" />
 	<project name="CyanogenMod/android_frameworks_opt_photoviewer" />
+	<project name="CyanogenMod/android_frameworks_opt_setupwizard" />
 	<project name="CyanogenMod/android_frameworks_opt_telephony" />
 	<project name="CyanogenMod/android_frameworks_opt_telephony-msim" />
 	<project name="CyanogenMod/android_frameworks_opt_timezonepicker" />
@@ -303,10 +364,26 @@
 	<project name="CyanogenMod/android_hardware_broadcom_wlan" />
 	<project name="CyanogenMod/android_hardware_cm" />
 	<project name="CyanogenMod/android_hardware_gpsshim" />
+	<project name="CyanogenMod/android_hardware_intel_audio_media" />
+	<project name="CyanogenMod/android_hardware_intel_bootstub" />
+	<project name="CyanogenMod/android_hardware_intel_common_bd_prov" />
+	<project name="CyanogenMod/android_hardware_intel_common_libmix" />
+	<project name="CyanogenMod/android_hardware_intel_common_libstagefrighthw" />
+	<project name="CyanogenMod/android_hardware_intel_common_libva" />
+	<project name="CyanogenMod/android_hardware_intel_common_libwsbm" />
+	<project name="CyanogenMod/android_hardware_intel_common_omx-components" />
+	<project name="CyanogenMod/android_hardware_intel_common_utils" />
+	<project name="CyanogenMod/android_hardware_intel_common_wrs_omxil_core" />
+	<project name="CyanogenMod/android_hardware_intel_img_hwcomposer" />
+	<project name="CyanogenMod/android_hardware_intel_img_libdrm" />
+	<project name="CyanogenMod/android_hardware_intel_img_psb_headers" />
+	<project name="CyanogenMod/android_hardware_intel_img_psb_video" />
 	<project name="CyanogenMod/android_hardware_invensense" />
 	<project name="CyanogenMod/android_hardware_libhardware" />
 	<project name="CyanogenMod/android_hardware_libhardware_legacy" />
 	<project name="CyanogenMod/android_hardware_msm7k" />
+	<project name="CyanogenMod/android_hardware_nvidia_audio" />
+	<project name="CyanogenMod/android_hardware_nvidia_tegra124" />
 	<project name="CyanogenMod/android_hardware_qcom_audio" />
 	<project name="CyanogenMod/android_hardware_qcom_audio-bfam" />
 	<project name="CyanogenMod/android_hardware_qcom_audio-caf" />
@@ -332,6 +409,7 @@
 	<project name="CyanogenMod/android_hardware_qcom_wlan" />
 	<project name="CyanogenMod/android_hardware_realtek" />
 	<project name="CyanogenMod/android_hardware_ril" />
+	<project name="CyanogenMod/android_hardware_ril-caf" />
 	<project name="CyanogenMod/android_hardware_samsung" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
@@ -340,9 +418,11 @@
 	<project name="CyanogenMod/android_hardware_samsung_slsi_exynos5420" />
 	<project name="CyanogenMod/android_hardware_samsung_slsi_openmax" />
 	<project name="CyanogenMod/android_hardware_sony_DASH" />
+	<project name="CyanogenMod/android_hardware_sony_thermanager" />
 	<project name="CyanogenMod/android_hardware_ti_fmradio" />
 	<project name="CyanogenMod/android_hardware_ti_omap3" />
 	<project name="CyanogenMod/android_hardware_ti_omap3-compat" />
+	<project name="CyanogenMod/android_hardware_ti_omap4-aah" />
 	<project name="CyanogenMod/android_hardware_ti_omap4xxx" />
 	<project name="CyanogenMod/android_hardware_ti_omx" />
 	<project name="CyanogenMod/android_hardware_ti_syslink" />
@@ -405,12 +485,14 @@
 	<project name="CyanogenMod/android_packages_apps_LegacyCamera" />
 	<project name="CyanogenMod/android_packages_apps_LocPick" />
 	<project name="CyanogenMod/android_packages_apps_LockClock" />
+	<project name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
 	<project name="CyanogenMod/android_packages_apps_Mms" />
 	<project name="CyanogenMod/android_packages_apps_Mms-caf" />
 	<project name="CyanogenMod/android_packages_apps_Music" />
 	<project name="CyanogenMod/android_packages_apps_Music3" />
 	<project name="CyanogenMod/android_packages_apps_MusicFX" />
 	<project name="CyanogenMod/android_packages_apps_Nfc" />
+	<project name="CyanogenMod/android_packages_apps_OMA-DM" />
 	<project name="CyanogenMod/android_packages_apps_OneTimeInitializer" />
 	<project name="CyanogenMod/android_packages_apps_PackageInstaller" />
 	<project name="CyanogenMod/android_packages_apps_Pacman" />
@@ -433,6 +515,7 @@
 	<project name="CyanogenMod/android_packages_apps_ThemeChooser" />
 	<project name="CyanogenMod/android_packages_apps_Torch" />
 	<project name="CyanogenMod/android_packages_apps_Trebuchet" />
+	<project name="CyanogenMod/android_packages_apps_TvSettings" />
 	<project name="CyanogenMod/android_packages_apps_UnifiedEmail" />
 	<project name="CyanogenMod/android_packages_apps_Usb" />
 	<project name="CyanogenMod/android_packages_apps_VideoEditor" />
@@ -452,12 +535,14 @@
 	<project name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
 	<project name="CyanogenMod/android_packages_providers_TelephonyProvider" />
 	<project name="CyanogenMod/android_packages_providers_ThemesProvider" />
+	<project name="CyanogenMod/android_packages_providers_TvProvider" />
 	<project name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
 	<project name="CyanogenMod/android_packages_screensavers_Basic" />
 	<project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
 	<project name="CyanogenMod/android_packages_screensavers_WebView" />
+	<project name="CyanogenMod/android_packages_services_Mms" />
+	<project name="CyanogenMod/android_packages_services_Telecomm" />
 	<project name="CyanogenMod/android_packages_services_Telephony" />
-	<project name="CyanogenMod/android_packages_themes_Template" />
 	<project name="CyanogenMod/android_packages_wallpapers_Basic" />
 	<project name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
 	<project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -477,6 +562,7 @@
 	<project name="CyanogenMod/android_system_bluetooth" />
 	<project name="CyanogenMod/android_system_core" />
 	<project name="CyanogenMod/android_system_extras" />
+	<project name="CyanogenMod/android_system_keymaster" />
 	<project name="CyanogenMod/android_system_media" />
 	<project name="CyanogenMod/android_system_netd" />
 	<project name="CyanogenMod/android_system_qcom" />
@@ -519,92 +605,224 @@
 
 	<project name="device/common" remote="aosp" />
 	<project name="device/generic/goldfish" remote="aosp" />
+	<project name="device/generic/mini-emulator-arm64" remote="aosp" />
 	<project name="device/generic/mini-emulator-armv7-a-neon" remote="aosp" />
 	<project name="device/generic/mini-emulator-mips" remote="aosp" />
 	<project name="device/generic/mini-emulator-x86" remote="aosp" />
+	<project name="device/generic/mini-emulator-x86_64" remote="aosp" />
+	<project name="device/generic/qemu" remote="aosp" />
+	<project name="device/generic/x86" remote="aosp" />
+	<project name="device/generic/x86_64" remote="aosp" />
 	<project name="device/google/accessory/arduino" remote="aosp" />
 	<project name="device/google/accessory/demokit" remote="aosp" />
 	<project name="device/sample" remote="aosp" />
 	<project name="device/ti/panda" remote="aosp" />
 	<project name="platform/abi/cpp" remote="aosp" />
 	<project name="platform/cts" remote="aosp" />
+	<project name="platform/dalvik" remote="aosp" />
 	<project name="platform/developers/build" remote="aosp" />
 	<project name="platform/developers/demos" remote="aosp" />
 	<project name="platform/developers/docs" remote="aosp" />
 	<project name="platform/developers/samples/android" remote="aosp" />
 	<project name="platform/docs/source.android.com" remote="aosp" />
+	<project name="platform/external/aac" remote="aosp" />
+	<project name="platform/external/android-clat" remote="aosp" />
 	<project name="platform/external/android-mock" remote="aosp" />
 	<project name="platform/external/antlr" remote="aosp" />
 	<project name="platform/external/apache-harmony" remote="aosp" />
+	<project name="platform/external/apache-http" remote="aosp" />
+	<project name="platform/external/apache-qp" remote="aosp" />
 	<project name="platform/external/apache-xml" remote="aosp" />
+	<project name="platform/external/arduino" remote="aosp" />
+	<project name="platform/external/bison" remote="aosp" />
+	<project name="platform/external/blktrace" remote="aosp" />
+	<project name="platform/external/bsdiff" remote="aosp" />
+	<project name="platform/external/bzip2" remote="aosp" />
 	<project name="platform/external/ceres-solver" remote="aosp" />
+	<project name="platform/external/checkpolicy" remote="aosp" />
 	<project name="platform/external/chromium-libpac" remote="aosp" />
 	<project name="platform/external/chromium_org/sdch/open-vcdiff" remote="aosp" />
 	<project name="platform/external/chromium_org/testing/gtest" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/angle" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/brotli/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/freetype" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/icu" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/leveldatabase/src" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/libaddressinput/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/libjingle/source/talk" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/libjpeg_turbo" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/libphonenumber/src/resources" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/libsrtp" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/libvpx" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/libyuv" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/openmax_dl" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/openssl" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/opus/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/ots" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/skia" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/gyp" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/include" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/skia/src" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/smhasher/src" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/usrsctp/usrsctplib" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/WebKit" remote="aosp" />
+	<project name="platform/external/chromium_org/third_party/webrtc" remote="aosp" />
 	<project name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" remote="aosp" />
 	<project name="platform/external/chromium_org/tools/grit" remote="aosp" />
 	<project name="platform/external/chromium_org/tools/gyp" remote="aosp" />
 	<project name="platform/external/chromium_org/v8" remote="aosp" />
+	<project name="platform/external/chromium-trace" remote="aosp" />
+	<project name="platform/external/clang" remote="aosp" />
+	<project name="platform/external/cmockery" remote="aosp" />
 	<project name="platform/external/collada" remote="aosp" />
+	<project name="platform/external/compiler-rt" remote="aosp" />
+	<project name="platform/external/conscrypt" remote="aosp" />
+	<project name="platform/external/deqp" remote="aosp" />
+	<project name="platform/external/dexmaker" remote="aosp" />
 	<project name="platform/external/doclava" remote="aosp" />
 	<project name="platform/external/droiddriver" remote="aosp" />
+	<project name="platform/external/easymock" remote="aosp" />
+	<project name="platform/external/eclipse-basebuilder" remote="aosp" />
+	<project name="platform/external/eclipse-windowbuilder" remote="aosp" />
+	<project name="platform/external/eigen" remote="aosp" />
+	<project name="platform/external/elfutils" remote="aosp" />
+	<project name="platform/external/emma" remote="aosp" />
+	<project name="platform/external/esd" remote="aosp" />
+	<project name="platform/external/expat" remote="aosp" />
 	<project name="platform/external/eyes-free" remote="aosp" />
+	<project name="platform/external/fdlibm" remote="aosp" />
+	<project name="platform/external/fio" remote="aosp" />
+	<project name="platform/external/fonttools" remote="aosp" />
+	<project name="platform/external/freetype" remote="aosp" />
+	<project name="platform/external/gcc-demangle" remote="aosp" />
+	<project name="platform/external/genext2fs" remote="aosp" />
+	<project name="platform/external/giflib" remote="aosp" />
+	<project name="platform/external/glide" remote="aosp" />
 	<project name="platform/external/google-diff-match-patch" remote="aosp" />
+	<project name="platform/external/google-fonts/carrois-gothic-sc" remote="aosp" />
+	<project name="platform/external/google-fonts/coming-soon" remote="aosp" />
+	<project name="platform/external/google-fonts/cutive-mono" remote="aosp" />
+	<project name="platform/external/google-fonts/dancing-script" remote="aosp" />
+	<project name="platform/external/google-tv-pairing-protocol" remote="aosp" />
 	<project name="platform/external/grub" remote="aosp" />
+	<project name="platform/external/gtest" remote="aosp" />
+	<project name="platform/external/guava" remote="aosp" />
+	<project name="platform/external/hamcrest" remote="aosp" />
 	<project name="platform/external/harfbuzz" remote="aosp" />
 	<project name="platform/external/harfbuzz_ng" remote="aosp" />
 	<project name="platform/external/hyphenation" remote="aosp" />
+	<project name="platform/external/ipsec-tools" remote="aosp" />
 	<project name="platform/external/iputils" remote="aosp" />
+	<project name="platform/external/jack" remote="aosp" />
 	<project name="platform/external/javasqlite" remote="aosp" />
 	<project name="platform/external/javassist" remote="aosp" />
+	<project name="platform/external/jdiff" remote="aosp" />
+	<project name="platform/external/jemalloc" remote="aosp" />
+	<project name="platform/external/jhead" remote="aosp" />
+	<project name="platform/external/jline" remote="aosp" />
+	<project name="platform/external/jmdns" remote="aosp" />
 	<project name="platform/external/jsilver" remote="aosp" />
+	<project name="platform/external/jsmn" remote="aosp" />
+	<project name="platform/external/jsoncpp" remote="aosp" />
+	<project name="platform/external/junit" remote="aosp" />
+	<project name="platform/external/kernel-headers" remote="aosp" />
+	<project name="platform/external/ksoap2" remote="aosp" />
+	<project name="platform/external/libcap-ng" remote="aosp" />
+	<project name="platform/external/libcxx" remote="aosp" />
+	<project name="platform/external/libcxxabi" remote="aosp" />
+	<project name="platform/external/libedit" remote="aosp" />
 	<project name="platform/external/libexif" remote="aosp" />
+	<project name="platform/external/libgsm" remote="aosp" />
+	<project name="platform/external/libhevc" remote="aosp" />
 	<project name="platform/external/liblzf" remote="aosp" />
+	<project name="platform/external/libmtp" remote="aosp" />
+	<project name="platform/external/libnl" remote="aosp" />
 	<project name="platform/external/libnl-headers" remote="aosp" />
+	<project name="platform/external/libogg" remote="aosp" />
+	<project name="platform/external/libopus" remote="aosp" />
+	<project name="platform/external/libpcap" remote="aosp" />
+	<project name="platform/external/libphonenumber" remote="aosp" />
+	<project name="platform/external/libseccomp-helper" remote="aosp" />
+	<project name="platform/external/libselinux" remote="aosp" />
 	<project name="platform/external/libssh2" remote="aosp" />
+	<project name="platform/external/libunwind" remote="aosp" />
+	<project name="platform/external/libusb-compat" remote="aosp" />
+	<project name="platform/external/libutf" remote="aosp" />
+	<project name="platform/external/libvorbis" remote="aosp" />
+	<project name="platform/external/libvpx" remote="aosp" />
 	<project name="platform/external/libxslt" remote="aosp" />
 	<project name="platform/external/libyuv" remote="aosp" />
+	<project name="platform/external/littlemock" remote="aosp" />
+	<project name="platform/external/lldb" remote="aosp" />
+	<project name="platform/external/llvm" remote="aosp" />
 	<project name="platform/external/lohit-fonts" remote="aosp" />
+	<project name="platform/external/ltrace" remote="aosp" />
 	<project name="platform/external/lzma" remote="aosp" />
 	<project name="platform/external/marisa-trie" remote="aosp" />
 	<project name="platform/external/markdown" remote="aosp" />
+	<project name="platform/external/mdnsresponder" remote="aosp" />
 	<project name="platform/external/mesa3d" remote="aosp" />
+	<project name="platform/external/messageformat" remote="aosp" />
 	<project name="platform/external/mksh" remote="aosp" />
 	<project name="platform/external/mockito" remote="aosp" />
 	<project name="platform/external/mockwebserver" remote="aosp" />
+	<project name="platform/external/mp4parser" remote="aosp" />
+	<project name="platform/external/mtpd" remote="aosp" />
+	<project name="platform/external/nanohttpd" remote="aosp" />
+	<project name="platform/external/nanopb-c" remote="aosp" />
+	<project name="platform/external/naver-fonts" remote="aosp" />
+	<project name="platform/external/netcat" remote="aosp" />
+	<project name="platform/external/netperf" remote="aosp" />
+	<project name="platform/external/neven" remote="aosp" />
+	<project name="platform/external/nfacct" remote="aosp" />
 	<project name="platform/external/nist-pkits" remote="aosp" />
 	<project name="platform/external/noto-fonts" remote="aosp" />
+	<project name="platform/external/oauth" remote="aosp" />
 	<project name="platform/external/objenesis" remote="aosp" />
 	<project name="platform/external/opencv" remote="aosp" />
 	<project name="platform/external/open-vcdiff" remote="aosp" />
+	<project name="platform/external/oprofile" remote="aosp" />
+	<project name="platform/external/owasp/sanitizer" remote="aosp" />
 	<project name="platform/external/pcre" remote="aosp" />
+	<project name="platform/external/pdfium" remote="aosp" />
 	<project name="platform/external/pixman" remote="aosp" />
+	<project name="platform/external/ppp" remote="aosp" />
+	<project name="platform/external/proguard" remote="aosp" />
+	<project name="platform/external/protobuf" remote="aosp" />
+	<project name="platform/external/qemu" remote="aosp" />
 	<project name="platform/external/qemu-pc-bios" remote="aosp" />
+	<project name="platform/external/regex-re2" remote="aosp" />
+	<project name="platform/external/replicaisland" remote="aosp" />
 	<project name="platform/external/robolectric" remote="aosp" />
+	<project name="platform/external/safe-iop" remote="aosp" />
 	<project name="platform/external/scrypt" remote="aosp" />
 	<project name="platform/external/sfntly" remote="aosp" />
 	<project name="platform/external/sil-fonts" remote="aosp" />
 	<project name="platform/external/smack" remote="aosp" />
+	<project name="platform/external/smali" remote="aosp" />
+	<project name="platform/external/srec" remote="aosp" />
 	<project name="platform/external/srtp" remote="aosp" />
+	<project name="platform/external/stlport" remote="aosp" />
+	<project name="platform/external/stressapptest" remote="aosp" />
+	<project name="platform/external/tagsoup" remote="aosp" />
 	<project name="platform/external/timezonepicker-support" remote="aosp" />
 	<project name="platform/external/tinyalsa" remote="aosp" />
+	<project name="platform/external/tinyxml" remote="aosp" />
+	<project name="platform/external/tinyxml2" remote="aosp" />
+	<project name="platform/external/tremolo" remote="aosp" />
+	<project name="platform/external/valgrind" remote="aosp" />
+	<project name="platform/external/vixl" remote="aosp" />
+	<project name="platform/external/webp" remote="aosp" />
+	<project name="platform/external/webrtc" remote="aosp" />
+	<project name="platform/external/xmlwriter" remote="aosp" />
+	<project name="platform/external/xmp_toolkit" remote="aosp" />
+	<project name="platform/external/yaffs2" remote="aosp" />
+	<project name="platform/external/zopfli" remote="aosp" />
+	<project name="platform/external/zxing" remote="aosp" />
 	<project name="platform/frameworks/compile/linkloader" remote="aosp" />
 	<project name="platform/frameworks/opt/calendar" remote="aosp" />
 	<project name="platform/frameworks/opt/inputmethodcommon" remote="aosp" />
@@ -614,6 +832,12 @@
 	<project name="platform/frameworks/support" remote="aosp" />
 	<project name="platform/gdk" remote="aosp" />
 	<project name="platform/hardware/invensense" remote="aosp" />
+	<project name="platform/hardware/qcom/msm8960" remote="aosp" />
+	<project name="platform/hardware/qcom/msm8x26" remote="aosp" />
+	<project name="platform/hardware/qcom/msm8x27" remote="aosp" />
+	<project name="platform/hardware/qcom/msm8x74" remote="aosp" />
+	<project name="platform/hardware/qcom/msm8x84" remote="aosp" />
+	<project name="platform/hardware/ti/omap4-aah" remote="aosp" />
 	<project name="platform/hardware/ti/omap4xxx" remote="aosp" />
 	<project name="platform/ndk" remote="aosp" />
 	<project name="platform/packages/apps/BasicSmsReceiver" remote="aosp" />
@@ -631,47 +855,76 @@
 	<project name="platform/packages/wallpapers/PhaseBeam" remote="aosp" />
 	<project name="platform/pdk" remote="aosp" />
 	<project name="platform/prebuilt" remote="aosp" />
+	<project name="platform/prebuilts/android-emulator" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/3.1" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/3.2" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/arm/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/host/3.3" remote="aosp" />
+	<project name="platform/prebuilts/clang/darwin-x86/host/3.4" remote="aosp" />
+	<project name="platform/prebuilts/clang/darwin-x86/host/3.5" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/mips/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/x86/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/3.1" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/3.2" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/arm/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/host/3.3" remote="aosp" />
+	<project name="platform/prebuilts/clang/linux-x86/host/3.4" remote="aosp" />
+	<project name="platform/prebuilts/clang/linux-x86/host/3.5" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/mips/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/x86/3.3" remote="aosp" />
 	<project name="platform/prebuilts/devtools" remote="aosp" />
 	<project name="platform/prebuilts/eclipse" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/host/headers" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" remote="aosp" />
+	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" remote="aosp" />
+	<project name="platform/prebuilts/gradle-plugin" remote="aosp" />
+	<project name="platform/prebuilts/libs/libedit" remote="aosp" />
+	<project name="platform/prebuilts/maven_repo/android" remote="aosp" />
 	<project name="platform/prebuilts/misc" remote="aosp" />
 	<project name="platform/prebuilts/ndk" remote="aosp" />
 	<project name="platform/prebuilts/python/darwin-x86/2.7.5" remote="aosp" />
@@ -680,6 +933,7 @@
 	<project name="platform/prebuilts/runtime" remote="aosp" />
 	<project name="platform/prebuilts/sdk" remote="aosp" />
 	<project name="platform/prebuilts/tools" remote="aosp" />
+	<project name="platform/sdk" remote="aosp" />
 	<project name="platform/tools/adt/eclipse" remote="aosp" />
 	<project name="platform/tools/adt/idea" remote="aosp" />
 	<project name="platform/tools/base" remote="aosp" />
@@ -688,7 +942,9 @@
 	<project name="platform/tools/external/fat32lib" remote="aosp" />
 	<project name="platform/tools/external/gradle" remote="aosp" />
 	<project name="platform/tools/idea" remote="aosp" />
+	<project name="platform/tools/loganalysis" remote="aosp" />
 	<project name="platform/tools/motodev" remote="aosp" />
 	<project name="platform/tools/studio/cloud" remote="aosp" />
+	<project name="platform/tools/studio/translation" remote="aosp" />
 	<project name="platform/tools/swt" remote="aosp" />
 </manifest>

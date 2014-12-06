@@ -136,6 +136,7 @@
 	<project name="CyanogenMod/android_external_libselinux" />
 	<project name="CyanogenMod/android_external_libsepol" />
 	<project name="CyanogenMod/android_external_libtar" />
+	<project name="CyanogenMod/android_external_libtruezip" />
 	<project name="CyanogenMod/android_external_libusb" />
 	<project name="CyanogenMod/android_external_libusb-compat" />
 	<project name="CyanogenMod/android_external_libusbx" />
@@ -368,7 +369,6 @@
 	<project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
 	<project name="CyanogenMod/android_packages_screensavers_WebView" />
 	<project name="CyanogenMod/android_packages_services_Telephony" />
-	<project name="CyanogenMod/android_packages_themes_Template" />
 	<project name="CyanogenMod/android_packages_wallpapers_Basic" />
 	<project name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
 	<project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
