@@ -109,7 +109,11 @@ if __name__ == '__main__':
 		tmp_manifest += '\t<project name="%s" />\n' % repo
 
 		if REFRESH:
-			data = json.loads(get_url("https://api.github.com/repos/%s/branches" % repo))
+			try:
+				data = json.loads(get_url("https://api.github.com/repos/%s/branches" % repo))
+			except urllib2.HTTPError, e:
+				print "[ %s ] HTTP Error: %d (%s)" % (repo, e.getcode(), e.msg)
+				continue
 			branches = []
 			for branch in data:
 				branches.append(branch['name'])
