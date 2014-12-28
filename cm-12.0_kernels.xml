@@ -5,6 +5,7 @@
 	<project name="CyanogenMod/android_kernel_asus_grouper" />
 	<project name="CyanogenMod/android_kernel_asus_tf300t" />
 	<project name="CyanogenMod/android_kernel_asus_tf700t" />
+	<project name="CyanogenMod/android_kernel_bn_acclaim" />
 	<project name="CyanogenMod/android_kernel_google_msm" />
 	<project name="CyanogenMod/android_kernel_htc_endeavoru" />
 	<project name="CyanogenMod/android_kernel_htc_enrc2b" />
@@ -15,10 +16,12 @@
 	<project name="CyanogenMod/android_kernel_lge_hammerhead" />
 	<project name="CyanogenMod/android_kernel_lge_msm8226" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
+	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_motorola_ghost" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8226" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
+	<project name="CyanogenMod/android_kernel_moto_shamu" />
 	<project name="CyanogenMod/android_kernel_oneplus_msm8974" />
 	<project name="CyanogenMod/android_kernel_oppo_n1" />
 	<project name="CyanogenMod/android_kernel_samsung_crespo" />

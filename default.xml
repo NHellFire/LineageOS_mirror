@@ -281,7 +281,6 @@
 	<project name="CyanogenMod/android_external_stlport" />
 	<project name="CyanogenMod/android_external_strace" />
 	<project name="CyanogenMod/android_external_stressapptest" />
-	<project name="CyanogenMod/android_external_svox" />
 	<project name="CyanogenMod/android_external_tagsoup" />
 	<project name="CyanogenMod/android_external_tcpdump" />
 	<project name="CyanogenMod/android_external_tinyalsa" />
@@ -438,6 +437,7 @@
 	<project name="CyanogenMod/android_packages_apps_AicBootFix" />
 	<project name="CyanogenMod/android_packages_apps_AndroidTerm" />
 	<project name="CyanogenMod/android_packages_apps_Apollo" />
+	<project name="CyanogenMod/android_packages_apps_AudioFX" />
 	<project name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
 	<project name="CyanogenMod/android_packages_apps_Bluetooth" />
 	<project name="CyanogenMod/android_packages_apps_BluetoothExt" />
@@ -466,6 +466,7 @@
 	<project name="CyanogenMod/android_packages_apps_DeskClock" />
 	<project name="CyanogenMod/android_packages_apps_Dialer" />
 	<project name="CyanogenMod/android_packages_apps_DockAudio" />
+	<project name="CyanogenMod/android_packages_apps_Eleven" />
 	<project name="CyanogenMod/android_packages_apps_Email" />
 	<project name="CyanogenMod/android_packages_apps_Exchange" />
 	<project name="CyanogenMod/android_packages_apps_FM" />
@@ -808,6 +809,7 @@
 	<project name="platform/external/srtp" remote="aosp" />
 	<project name="platform/external/stlport" remote="aosp" />
 	<project name="platform/external/stressapptest" remote="aosp" />
+	<project name="platform/external/svox" remote="aosp" />
 	<project name="platform/external/tagsoup" remote="aosp" />
 	<project name="platform/external/timezonepicker-support" remote="aosp" />
 	<project name="platform/external/tinyalsa" remote="aosp" />

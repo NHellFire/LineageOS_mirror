@@ -203,6 +203,7 @@ platform/external/srec
 platform/external/srtp
 platform/external/stlport
 platform/external/stressapptest
+platform/external/svox
 platform/external/tagsoup
 platform/external/timezonepicker-support
 platform/external/tinyalsa
