@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project name="CyanogenMod/android_kernel_acer_t30" />
 	<project name="CyanogenMod/android_kernel_amazon_bowser-common" />
 	<project name="CyanogenMod/android_kernel_amazon_otter-common" />
+	<project name="CyanogenMod/android_kernel_asus_fugu" />
 	<project name="CyanogenMod/android_kernel_asus_grouper" />
 	<project name="CyanogenMod/android_kernel_asus_tf300t" />
 	<project name="CyanogenMod/android_kernel_asus_tf700t" />
 	<project name="CyanogenMod/android_kernel_bn_acclaim" />
+	<project name="CyanogenMod/android_kernel_bn_omap" />
 	<project name="CyanogenMod/android_kernel_google_msm" />
 	<project name="CyanogenMod/android_kernel_htc_endeavoru" />
 	<project name="CyanogenMod/android_kernel_htc_enrc2b" />
+	<project name="CyanogenMod/android_kernel_htc_flounder" />
 	<project name="CyanogenMod/android_kernel_htc_m7" />
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
 	<project name="CyanogenMod/android_kernel_htc_msm8974" />
@@ -17,15 +21,19 @@
 	<project name="CyanogenMod/android_kernel_lge_msm8226" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_v500" />
+	<project name="CyanogenMod/android_kernel_mediatek_sprout" />
 	<project name="CyanogenMod/android_kernel_motorola_ghost" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8226" />
+	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
+	<project name="CyanogenMod/android_kernel_motorola_msm8974" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
 	<project name="CyanogenMod/android_kernel_moto_shamu" />
 	<project name="CyanogenMod/android_kernel_oneplus_msm8974" />
 	<project name="CyanogenMod/android_kernel_oppo_n1" />
 	<project name="CyanogenMod/android_kernel_samsung_crespo" />
 	<project name="CyanogenMod/android_kernel_samsung_d2" />
+	<project name="CyanogenMod/android_kernel_samsung_espresso10" />
 	<project name="CyanogenMod/android_kernel_samsung_exynos5410" />
 	<project name="CyanogenMod/android_kernel_samsung_exynos5420" />
 	<project name="CyanogenMod/android_kernel_samsung_hlte" />
@@ -38,7 +46,10 @@
 	<project name="CyanogenMod/android_kernel_samsung_msm8660-common" />
 	<project name="CyanogenMod/android_kernel_samsung_msm8930-common" />
 	<project name="CyanogenMod/android_kernel_samsung_piranha" />
+	<project name="CyanogenMod/android_kernel_samsung_s3ve3g" />
 	<project name="CyanogenMod/android_kernel_samsung_smdk4412" />
+	<project name="CyanogenMod/android_kernel_samsung_t1" />
+	<project name="CyanogenMod/android_kernel_samsung_trlte" />
 	<project name="CyanogenMod/android_kernel_samsung_tuna" />
 	<project name="CyanogenMod/android_kernel_sony_apq8064" />
 	<project name="CyanogenMod/android_kernel_sony_flamingo" />

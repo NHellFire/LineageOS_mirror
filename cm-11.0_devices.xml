@@ -32,6 +32,7 @@
 	<project name="CyanogenMod/android_device_generic_x86" />
 	<project name="CyanogenMod/android_device_google_accessory_arduino" />
 	<project name="CyanogenMod/android_device_google_accessory_demokit" />
+	<project name="CyanogenMod/android_device_google_sprout" />
 	<project name="CyanogenMod/android_device_google_steelhead" />
 	<project name="CyanogenMod/android_device_hp_tenderloin" />
 	<project name="CyanogenMod/android_device_htc_a5" />
@@ -64,6 +65,8 @@
 	<project name="CyanogenMod/android_device_lge_d802" />
 	<project name="CyanogenMod/android_device_lge_d850" />
 	<project name="CyanogenMod/android_device_lge_d851" />
+	<project name="CyanogenMod/android_device_lge_d852" />
+	<project name="CyanogenMod/android_device_lge_d855" />
 	<project name="CyanogenMod/android_device_lge_d950" />
 	<project name="CyanogenMod/android_device_lge_dory" />
 	<project name="CyanogenMod/android_device_lge_e430" />
@@ -258,4 +261,5 @@
 	<project name="CyanogenMod/android_device_sony_tsubasa" />
 	<project name="CyanogenMod/android_device_sony_yuga" />
 	<project name="CyanogenMod/android_device_xiaomi_aries" />
+	<project name="CyanogenMod/android_device_yu_tomato" />
 </manifest>

@@ -381,6 +381,7 @@
 	<project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
+	<project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="pdk" />

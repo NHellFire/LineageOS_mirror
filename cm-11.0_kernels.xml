@@ -24,6 +24,7 @@
 	<project name="CyanogenMod/android_kernel_lge_msm8226" />
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_v500" />
+	<project name="CyanogenMod/android_kernel_mediatek_sprout" />
 	<project name="CyanogenMod/android_kernel_motorola_ghost" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8226" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
@@ -62,6 +63,7 @@
 	<project name="CyanogenMod/android_kernel_sony_msm8x60" />
 	<project name="CyanogenMod/android_kernel_sony_tianchi" />
 	<project name="CyanogenMod/android_kernel_xiaomi_aries" />
+	<project name="CyanogenMod/android_kernel_yu_msm8916" />
 	<project name="CyanogenMod/lge-kernel-gproj" />
 	<project name="CyanogenMod/lge-kernel-iproj" />
 	<project name="CyanogenMod/lge-kernel-p880" />

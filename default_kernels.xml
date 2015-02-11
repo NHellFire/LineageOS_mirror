@@ -4,6 +4,7 @@
 	<project name="CyanogenMod/android_kernel_acer_t30" />
 	<project name="CyanogenMod/android_kernel_amazon_bowser-common" />
 	<project name="CyanogenMod/android_kernel_amazon_otter-common" />
+	<project name="CyanogenMod/android_kernel_asus_fugu" />
 	<project name="CyanogenMod/android_kernel_asus_grouper" />
 	<project name="CyanogenMod/android_kernel_asus_tf101" />
 	<project name="CyanogenMod/android_kernel_asus_tf201" />
@@ -18,6 +19,7 @@
 	<project name="CyanogenMod/android_kernel_google_steelhead" />
 	<project name="CyanogenMod/android_kernel_htc_endeavoru" />
 	<project name="CyanogenMod/android_kernel_htc_enrc2b" />
+	<project name="CyanogenMod/android_kernel_htc_flounder" />
 	<project name="CyanogenMod/android_kernel_htc_m7" />
 	<project name="CyanogenMod/android_kernel_htc_msm8660" />
 	<project name="CyanogenMod/android_kernel_htc_msm8960" />
@@ -30,11 +32,13 @@
 	<project name="CyanogenMod/android_kernel_lge_msm8974" />
 	<project name="CyanogenMod/android_kernel_lge_v500" />
 	<project name="CyanogenMod/android_kernel_lge_v909" />
+	<project name="CyanogenMod/android_kernel_mediatek_sprout" />
 	<project name="CyanogenMod/android_kernel_moto_shamu" />
 	<project name="CyanogenMod/android_kernel_motorola_ghost" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8226" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 	<project name="CyanogenMod/android_kernel_motorola_msm8960dt-common" />
+	<project name="CyanogenMod/android_kernel_motorola_msm8974" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-common" />
 	<project name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" />
 	<project name="CyanogenMod/android_kernel_oneplus_msm8974" />
@@ -62,9 +66,11 @@
 	<project name="CyanogenMod/android_kernel_samsung_p1" />
 	<project name="CyanogenMod/android_kernel_samsung_p4" />
 	<project name="CyanogenMod/android_kernel_samsung_piranha" />
+	<project name="CyanogenMod/android_kernel_samsung_s3ve3g" />
 	<project name="CyanogenMod/android_kernel_samsung_smdk4210" />
 	<project name="CyanogenMod/android_kernel_samsung_smdk4412" />
 	<project name="CyanogenMod/android_kernel_samsung_t1" />
+	<project name="CyanogenMod/android_kernel_samsung_trlte" />
 	<project name="CyanogenMod/android_kernel_samsung_tuna" />
 	<project name="CyanogenMod/android_kernel_samsung_victory" />
 	<project name="CyanogenMod/android_kernel_sony_apq8064" />
@@ -82,6 +88,7 @@
 	<project name="CyanogenMod/android_kernel_sony_tianchi" />
 	<project name="CyanogenMod/android_kernel_toshiba_betelgeuse" />
 	<project name="CyanogenMod/android_kernel_xiaomi_aries" />
+	<project name="CyanogenMod/android_kernel_yu_msm8916" />
 	<project name="CyanogenMod/cm-kernel" />
 	<project name="CyanogenMod/geeksphone-kernel-zero" />
 	<project name="CyanogenMod/hardkernel-kernel-4412" />

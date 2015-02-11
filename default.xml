@@ -206,6 +206,7 @@
 	<project name="CyanogenMod/android_external_libutf" />
 	<project name="CyanogenMod/android_external_libvorbis" />
 	<project name="CyanogenMod/android_external_libvpx" />
+	<project name="CyanogenMod/android_external_libvterm" />
 	<project name="CyanogenMod/android_external_libxml2" />
 	<project name="CyanogenMod/android_external_libxslt" />
 	<project name="CyanogenMod/android_external_libyuv" />
@@ -281,6 +282,7 @@
 	<project name="CyanogenMod/android_external_stlport" />
 	<project name="CyanogenMod/android_external_strace" />
 	<project name="CyanogenMod/android_external_stressapptest" />
+	<project name="CyanogenMod/android_external_svox" />
 	<project name="CyanogenMod/android_external_tagsoup" />
 	<project name="CyanogenMod/android_external_tcpdump" />
 	<project name="CyanogenMod/android_external_tinyalsa" />
@@ -505,6 +507,7 @@
 	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
 	<project name="CyanogenMod/android_packages_apps_SemcKeyboardChanger" />
 	<project name="CyanogenMod/android_packages_apps_Settings" />
+	<project name="CyanogenMod/android_packages_apps_SetupWizard" />
 	<project name="CyanogenMod/android_packages_apps_SmartCardService" />
 	<project name="CyanogenMod/android_packages_apps_SoundRecorder" />
 	<project name="CyanogenMod/android_packages_apps_SpareParts" />
@@ -513,6 +516,7 @@
 	<project name="CyanogenMod/android_packages_apps_Superuser" />
 	<project name="CyanogenMod/android_packages_apps_TSCalibration" />
 	<project name="CyanogenMod/android_packages_apps_Tag" />
+	<project name="CyanogenMod/android_packages_apps_Terminal" />
 	<project name="CyanogenMod/android_packages_apps_ThemeChooser" />
 	<project name="CyanogenMod/android_packages_apps_Torch" />
 	<project name="CyanogenMod/android_packages_apps_Trebuchet" />
@@ -563,6 +567,7 @@
 	<project name="CyanogenMod/android_system_bluetooth" />
 	<project name="CyanogenMod/android_system_core" />
 	<project name="CyanogenMod/android_system_extras" />
+	<project name="CyanogenMod/android_system_extras_su" />
 	<project name="CyanogenMod/android_system_keymaster" />
 	<project name="CyanogenMod/android_system_media" />
 	<project name="CyanogenMod/android_system_netd" />
@@ -748,7 +753,6 @@
 	<project name="platform/external/libpcap" remote="aosp" />
 	<project name="platform/external/libphonenumber" remote="aosp" />
 	<project name="platform/external/libseccomp-helper" remote="aosp" />
-	<project name="platform/external/libselinux" remote="aosp" />
 	<project name="platform/external/libssh2" remote="aosp" />
 	<project name="platform/external/libunwind" remote="aosp" />
 	<project name="platform/external/libusb-compat" remote="aosp" />
@@ -833,6 +837,20 @@
 	<project name="platform/frameworks/opt/widget" remote="aosp" />
 	<project name="platform/frameworks/support" remote="aosp" />
 	<project name="platform/gdk" remote="aosp" />
+	<project name="platform/hardware/intel/audio_media" remote="aosp" />
+	<project name="platform/hardware/intel/bootstub" remote="aosp" />
+	<project name="platform/hardware/intel/common/bd_prov" remote="aosp" />
+	<project name="platform/hardware/intel/common/libmix" remote="aosp" />
+	<project name="platform/hardware/intel/common/libstagefrighthw" remote="aosp" />
+	<project name="platform/hardware/intel/common/libva" remote="aosp" />
+	<project name="platform/hardware/intel/common/libwsbm" remote="aosp" />
+	<project name="platform/hardware/intel/common/omx-components" remote="aosp" />
+	<project name="platform/hardware/intel/common/utils" remote="aosp" />
+	<project name="platform/hardware/intel/common/wrs_omxil_core" remote="aosp" />
+	<project name="platform/hardware/intel/img/hwcomposer" remote="aosp" />
+	<project name="platform/hardware/intel/img/libdrm" remote="aosp" />
+	<project name="platform/hardware/intel/img/psb_headers" remote="aosp" />
+	<project name="platform/hardware/intel/img/psb_video" remote="aosp" />
 	<project name="platform/hardware/invensense" remote="aosp" />
 	<project name="platform/hardware/qcom/msm8960" remote="aosp" />
 	<project name="platform/hardware/qcom/msm8x26" remote="aosp" />
