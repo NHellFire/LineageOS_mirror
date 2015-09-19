@@ -214,7 +214,6 @@
 	<project name="CyanogenMod/android_frameworks_opt_calendar" />
 	<project name="CyanogenMod/android_frameworks_opt_carddav" />
 	<project name="CyanogenMod/android_frameworks_opt_emoji" />
-	<project name="CyanogenMod/android_frameworks_opt_hardware" />
 	<project name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
 	<project name="CyanogenMod/android_frameworks_opt_mailcommon" />
 	<project name="CyanogenMod/android_frameworks_opt_mms" />
@@ -354,6 +353,7 @@
 
 	<project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
 	<project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
+	<project path="external/svox" name="platform/external/svox" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
 	<project path="gdk" name="platform/gdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
 	<project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
 	<project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />

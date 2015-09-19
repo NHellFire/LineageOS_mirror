@@ -30,8 +30,6 @@
 	<project name="CyanogenMod/android_device_google_steelhead" />
 	<project name="CyanogenMod/android_device_hardkernel_odroidu2" />
 	<project name="CyanogenMod/android_device_hardkernel_samsung" />
-	<project name="CyanogenMod/android_device_htc_dlx" />
-	<project name="CyanogenMod/android_device_htc_dlxj" />
 	<project name="CyanogenMod/android_device_htc_dlxu" />
 	<project name="CyanogenMod/android_device_htc_dlxub1" />
 	<project name="CyanogenMod/android_device_htc_doubleshot" />
@@ -62,7 +60,6 @@
 	<project name="CyanogenMod/android_device_lge_lgl55c" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
-	<project name="CyanogenMod/android_device_lge_ls980" />
 	<project name="CyanogenMod/android_device_lge_mako" />
 	<project name="CyanogenMod/android_device_lge_p760" />
 	<project name="CyanogenMod/android_device_lge_p880" />
@@ -112,7 +109,6 @@
 	<project name="CyanogenMod/android_device_samsung_galaxysbmtd" />
 	<project name="CyanogenMod/android_device_samsung_galaxysmtd" />
 	<project name="CyanogenMod/android_device_samsung_hercules" />
-	<project name="CyanogenMod/android_device_samsung_hltetmo" />
 	<project name="CyanogenMod/android_device_samsung_i605" />
 	<project name="CyanogenMod/android_device_samsung_i777" />
 	<project name="CyanogenMod/android_device_samsung_i9100" />
@@ -147,8 +143,6 @@
 	<project name="CyanogenMod/android_device_samsung_p1" />
 	<project name="CyanogenMod/android_device_samsung_p1c" />
 	<project name="CyanogenMod/android_device_samsung_p1-common" />
-	<project name="CyanogenMod/android_device_samsung_p1l" />
-	<project name="CyanogenMod/android_device_samsung_p1n" />
 	<project name="CyanogenMod/android_device_samsung_p3" />
 	<project name="CyanogenMod/android_device_samsung_p3100" />
 	<project name="CyanogenMod/android_device_samsung_p3110" />

@@ -59,6 +59,7 @@
 	<project name="CyanogenMod/android_external_connectivity" />
 	<project name="CyanogenMod/android_external_crda" />
 	<project name="CyanogenMod/android_external_curl" />
+	<project name="CyanogenMod/android_external_cyanogen_UICommon" />
 	<project name="CyanogenMod/android_external_dexmaker" />
 	<project name="CyanogenMod/android_external_dhcpcd" />
 	<project name="CyanogenMod/android_external_dnsmasq" />
@@ -153,6 +154,7 @@
 	<project name="CyanogenMod/android_external_markdown" />
 	<project name="CyanogenMod/android_external_mdnsresponder" />
 	<project name="CyanogenMod/android_external_mksh" />
+	<project name="CyanogenMod/android_external_mm-dash" />
 	<project name="CyanogenMod/android_external_mockito" />
 	<project name="CyanogenMod/android_external_mockwebserver" />
 	<project name="CyanogenMod/android_external_mp4parser" />

@@ -215,6 +215,7 @@
 	<project name="CyanogenMod/android_device_samsung_quincy-common" />
 	<project name="CyanogenMod/android_device_samsung_quincytmo" />
 	<project name="CyanogenMod/android_device_samsung_r950" />
+	<project name="CyanogenMod/android_device_samsung_sc02c" />
 	<project name="CyanogenMod/android_device_samsung_serrano3gxx" />
 	<project name="CyanogenMod/android_device_samsung_serrano-common" />
 	<project name="CyanogenMod/android_device_samsung_serranoltexx" />
