@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-BRANCHES="cm-10.1 cm-10.2 cm-11.0 cm-12.0"
+BRANCHES="cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1"
 
 (cd manifest-all && ./aosp.sh && ./mkmanifest.py)
 mv manifest-all/default.xml split-kernels_and_devices-manifest/
