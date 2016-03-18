@@ -294,6 +294,7 @@
 	<project name="CyanogenMod/android_hardware_samsung_slsi_openmax" />
 	<project name="CyanogenMod/android_hardware_sony_DASH" />
 	<project name="CyanogenMod/android_hardware_ti_omap3" />
+	<project name="CyanogenMod/android_hardware_ti_omap4" />
 	<project name="CyanogenMod/android_hardware_ti_omap4xxx" />
 	<project name="CyanogenMod/android_hardware_ti_wlan" />
 	<project name="CyanogenMod/android_hardware_ti_wpan" />
@@ -514,5 +515,4 @@
 	<project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
 
 
-	<project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
 </manifest>

@@ -76,6 +76,7 @@
 	<project name="CyanogenMod/android_device_lge_gproj-common" />
 	<project name="CyanogenMod/android_device_lge_hammerhead" />
 	<project name="CyanogenMod/android_device_lge_hammerheadcaf" />
+	<project name="CyanogenMod/android_device_lge_l01f" />
 	<project name="CyanogenMod/android_device_lge_ls970" />
 	<project name="CyanogenMod/android_device_lge_ls970-common" />
 	<project name="CyanogenMod/android_device_lge_ls980" />

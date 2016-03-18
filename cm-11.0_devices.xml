@@ -144,6 +144,9 @@
 	<project name="CyanogenMod/android_device_samsung_d2vzw" />
 	<project name="CyanogenMod/android_device_samsung_d710" />
 	<project name="CyanogenMod/android_device_samsung_epicmtd" />
+	<project name="CyanogenMod/android_device_samsung_espresso" />
+	<project name="CyanogenMod/android_device_samsung_espresso3g" />
+	<project name="CyanogenMod/android_device_samsung_espresso-common" />
 	<project name="CyanogenMod/android_device_samsung_exhilarate" />
 	<project name="CyanogenMod/android_device_samsung_expressatt" />
 	<project name="CyanogenMod/android_device_samsung_fascinatemtd" />
