@@ -3,7 +3,7 @@ import urllib2
 import json
 import gzip, zlib
 import os, sys
-from base64 import encodestring as base64_encode
+from base64 import b64encode as base64_encode
 from datetime import datetime
 from StringIO import StringIO
 
