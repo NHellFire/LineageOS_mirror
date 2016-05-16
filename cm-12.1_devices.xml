@@ -171,9 +171,9 @@
 	<project name="CyanogenMod/android_device_samsung_d2spr" />
 	<project name="CyanogenMod/android_device_samsung_d2tmo" />
 	<project name="CyanogenMod/android_device_samsung_d2vzw" />
-	<project name="CyanogenMod/android_device_samsung_espresso" />
 	<project name="CyanogenMod/android_device_samsung_espresso3g" />
 	<project name="CyanogenMod/android_device_samsung_espresso-common" />
+	<project name="CyanogenMod/android_device_samsung_espressowifi" />
 	<project name="CyanogenMod/android_device_samsung_exhilarate" />
 	<project name="CyanogenMod/android_device_samsung_exynos5420-common" />
 	<project name="CyanogenMod/android_device_samsung_galaxys2-common" />
@@ -295,6 +295,7 @@
 	<project name="CyanogenMod/android_device_sony_z3dual" />
 	<project name="CyanogenMod/android_device_wileyfox_crackling" />
 	<project name="CyanogenMod/android_device_wileyfox_kipper" />
+	<project name="CyanogenMod/android_device_wingtech_wt88047" />
 	<project name="CyanogenMod/android_device_xiaomi_cancro" />
 	<project name="CyanogenMod/android_device_yu_jalebi" />
 	<project name="CyanogenMod/android_device_yu_lettuce" />

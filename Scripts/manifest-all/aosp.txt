@@ -223,7 +223,6 @@ platform/external/v8
 platform/external/valgrind
 platform/external/vboot_reference
 platform/external/vixl
-platform/external/vogar
 platform/external/webp
 platform/external/webrtc
 platform/external/xmlwriter
