@@ -68,7 +68,6 @@ platform/external/chromium_org/tools/grit
 platform/external/chromium_org/tools/gyp
 platform/external/chromium_org/v8
 platform/external/chromium-trace
-platform/external/chromium-webview
 platform/external/clang
 platform/external/cmockery
 platform/external/compiler-rt
@@ -145,6 +144,7 @@ platform/external/libogg
 platform/external/libopus
 platform/external/libpcap
 platform/external/libphonenumber
+platform/external/libpng
 platform/external/libseccomp-helper
 platform/external/libssh2
 platform/external/libunwind
@@ -233,7 +233,6 @@ platform/external/zxing
 platform/frameworks/data-binding
 platform/frameworks/opt/inputconnectioncommon
 platform/frameworks/opt/widget
-platform/frameworks/testing
 platform/gdk
 platform/hardware/intel/audio_media
 platform/hardware/intel/bootstub

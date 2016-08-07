@@ -76,6 +76,7 @@
 	<project name="CyanogenMod/android_external_checkpolicy" />
 	<project name="CyanogenMod/android_external_chromium" />
 	<project name="CyanogenMod/android_external_chromium-trace" />
+	<project name="CyanogenMod/android_external_chromium-webview" />
 	<project name="CyanogenMod/android_external_chromium_org" />
 	<project name="CyanogenMod/android_external_chromium_org_third_party_boringssl_src" />
 	<project name="CyanogenMod/android_external_chromium_org_third_party_brotli_src" />
@@ -95,6 +96,7 @@
 	<project name="CyanogenMod/android_external_clang" />
 	<project name="CyanogenMod/android_external_clearsilver" />
 	<project name="CyanogenMod/android_external_cmockery" />
+	<project name="CyanogenMod/android_external_cmsdk-api-coverage" />
 	<project name="CyanogenMod/android_external_compcache" />
 	<project name="CyanogenMod/android_external_compiler-rt" />
 	<project name="CyanogenMod/android_external_connectivity" />
@@ -142,6 +144,7 @@
 	<project name="CyanogenMod/android_external_fuse" />
 	<project name="CyanogenMod/android_external_ganymed-ssh2" />
 	<project name="CyanogenMod/android_external_gcc-demangle" />
+	<project name="CyanogenMod/android_external_gello-env" />
 	<project name="CyanogenMod/android_external_gello_build" />
 	<project name="CyanogenMod/android_external_genext2fs" />
 	<project name="CyanogenMod/android_external_giflib" />
@@ -222,6 +225,7 @@
 	<project name="CyanogenMod/android_external_libphonenumbergoogle" />
 	<project name="CyanogenMod/android_external_libpng" />
 	<project name="CyanogenMod/android_external_libppp" />
+	<project name="CyanogenMod/android_external_libsamsung-ipc" />
 	<project name="CyanogenMod/android_external_libseccomp-helper" />
 	<project name="CyanogenMod/android_external_libselinux" />
 	<project name="CyanogenMod/android_external_libsepol" />
@@ -318,6 +322,7 @@
 	<project name="CyanogenMod/android_external_stlport" />
 	<project name="CyanogenMod/android_external_strace" />
 	<project name="CyanogenMod/android_external_stressapptest" />
+	<project name="CyanogenMod/android_external_svox" />
 	<project name="CyanogenMod/android_external_syslinux" />
 	<project name="CyanogenMod/android_external_tagsoup" />
 	<project name="CyanogenMod/android_external_tcpdump" />
@@ -607,6 +612,7 @@
 	<project name="CyanogenMod/android_packages_apps_VideoEditor" />
 	<project name="CyanogenMod/android_packages_apps_VoiceDialer" />
 	<project name="CyanogenMod/android_packages_apps_VoicePlus" />
+	<project name="CyanogenMod/android_packages_apps_WallpaperPicker" />
 	<project name="CyanogenMod/android_packages_apps_WundergroundWeatherProvider" />
 	<project name="CyanogenMod/android_packages_apps_YahooWeatherProvider" />
 	<project name="CyanogenMod/android_packages_experimental" />
@@ -632,10 +638,19 @@
 	<project name="CyanogenMod/android_packages_screensavers_Basic" />
 	<project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
 	<project name="CyanogenMod/android_packages_screensavers_WebView" />
+	<project name="CyanogenMod/android_packages_services_AppSuggestService" />
+	<project name="CyanogenMod/android_packages_services_CMAudioService" />
+	<project name="CyanogenMod/android_packages_services_CMHardwareService" />
+	<project name="CyanogenMod/android_packages_services_CMProfileManagerService" />
+	<project name="CyanogenMod/android_packages_services_CMStatusBarManagerService" />
+	<project name="CyanogenMod/android_packages_services_CMTelephonyService" />
 	<project name="CyanogenMod/android_packages_services_LiveLockScreenService" />
 	<project name="CyanogenMod/android_packages_services_Mms" />
+	<project name="CyanogenMod/android_packages_services_PerformanceManagerService" />
 	<project name="CyanogenMod/android_packages_services_Telecomm" />
 	<project name="CyanogenMod/android_packages_services_Telephony" />
+	<project name="CyanogenMod/android_packages_services_ThemeManagerService" />
+	<project name="CyanogenMod/android_packages_services_WeatherService" />
 	<project name="CyanogenMod/android_packages_wallpapers_Basic" />
 	<project name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
 	<project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -710,6 +725,7 @@
 	<project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 	<project name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
 	<project name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
+	<project name="CyanogenMod/bugproxy" />
 	<project name="CyanogenMod/cm-less" />
 	<project name="CyanogenMod/cm_crowdin" />
 	<project name="CyanogenMod/cm_platform_sdk" />
@@ -723,6 +739,7 @@
 	<project name="CyanogenMod/ion" />
 	<project name="CyanogenMod/kernel-omap" />
 	<project name="CyanogenMod/libbt-hci" />
+	<project name="CyanogenMod/mirror" />
 	<project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
 	<project name="CyanogenMod/tools_repo" />
 
@@ -797,7 +814,6 @@
 	<project name="platform/external/chromium_org/tools/gyp" remote="aosp" />
 	<project name="platform/external/chromium_org/v8" remote="aosp" />
 	<project name="platform/external/chromium-trace" remote="aosp" />
-	<project name="platform/external/chromium-webview" remote="aosp" />
 	<project name="platform/external/clang" remote="aosp" />
 	<project name="platform/external/cmockery" remote="aosp" />
 	<project name="platform/external/compiler-rt" remote="aosp" />
@@ -874,6 +890,7 @@
 	<project name="platform/external/libopus" remote="aosp" />
 	<project name="platform/external/libpcap" remote="aosp" />
 	<project name="platform/external/libphonenumber" remote="aosp" />
+	<project name="platform/external/libpng" remote="aosp" />
 	<project name="platform/external/libseccomp-helper" remote="aosp" />
 	<project name="platform/external/libssh2" remote="aosp" />
 	<project name="platform/external/libunwind" remote="aosp" />
@@ -962,7 +979,6 @@
 	<project name="platform/frameworks/data-binding" remote="aosp" />
 	<project name="platform/frameworks/opt/inputconnectioncommon" remote="aosp" />
 	<project name="platform/frameworks/opt/widget" remote="aosp" />
-	<project name="platform/frameworks/testing" remote="aosp" />
 	<project name="platform/gdk" remote="aosp" />
 	<project name="platform/hardware/intel/audio_media" remote="aosp" />
 	<project name="platform/hardware/intel/bootstub" remote="aosp" />

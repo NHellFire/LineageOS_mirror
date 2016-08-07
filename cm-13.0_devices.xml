@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project name="CyanogenMod/android_device_amazon_apollo" />
+	<project name="CyanogenMod/android_device_amazon_hdx-common" />
+	<project name="CyanogenMod/android_device_amazon_thor" />
 	<project name="CyanogenMod/android_device_asus_deb" />
 	<project name="CyanogenMod/android_device_asus_flo" />
 	<project name="CyanogenMod/android_device_asus_fugu" />
 	<project name="CyanogenMod/android_device_asus_grouper" />
 	<project name="CyanogenMod/android_device_asus_mofd-common" />
 	<project name="CyanogenMod/android_device_asus_msm8916-common" />
+	<project name="CyanogenMod/android_device_asus_P024" />
 	<project name="CyanogenMod/android_device_asus_tf300t" />
 	<project name="CyanogenMod/android_device_asus_tilapia" />
 	<project name="CyanogenMod/android_device_asus_Z008" />
@@ -63,8 +67,10 @@
 	<project name="CyanogenMod/android_device_htc_zaracl" />
 	<project name="CyanogenMod/android_device_htc_zara-common" />
 	<project name="CyanogenMod/android_device_huawei_angler" />
+	<project name="CyanogenMod/android_device_huawei_che10" />
 	<project name="CyanogenMod/android_device_huawei_cherry" />
 	<project name="CyanogenMod/android_device_huawei_kiwi" />
+	<project name="CyanogenMod/android_device_huawei_msm8916-common" />
 	<project name="CyanogenMod/android_device_huawei_mt2" />
 	<project name="CyanogenMod/android_device_lge_bullhead" />
 	<project name="CyanogenMod/android_device_lge_d800" />
@@ -140,6 +146,7 @@
 	<project name="CyanogenMod/android_device_nvidia_shieldtablet" />
 	<project name="CyanogenMod/android_device_oneplus_bacon" />
 	<project name="CyanogenMod/android_device_oneplus_oneplus2" />
+	<project name="CyanogenMod/android_device_oneplus_oneplus3" />
 	<project name="CyanogenMod/android_device_oneplus_onyx" />
 	<project name="CyanogenMod/android_device_oppo_apq8064-common" />
 	<project name="CyanogenMod/android_device_oppo_common" />
@@ -155,6 +162,7 @@
 	<project name="CyanogenMod/android_device_oppo_r5" />
 	<project name="CyanogenMod/android_device_oppo_r7" />
 	<project name="CyanogenMod/android_device_oppo_r7plus" />
+	<project name="CyanogenMod/android_device_oppo_r7sf" />
 	<project name="CyanogenMod/android_device_qcom_common" />
 	<project name="CyanogenMod/android_device_qcom_sepolicy" />
 	<project name="CyanogenMod/android_device_samsung_chagall-common" />
@@ -169,6 +177,9 @@
 	<project name="CyanogenMod/android_device_samsung_espresso-common" />
 	<project name="CyanogenMod/android_device_samsung_espressowifi" />
 	<project name="CyanogenMod/android_device_samsung_galaxys2-common" />
+	<project name="CyanogenMod/android_device_samsung_gts210ltexx" />
+	<project name="CyanogenMod/android_device_samsung_gts210wifi" />
+	<project name="CyanogenMod/android_device_samsung_gts2-common" />
 	<project name="CyanogenMod/android_device_samsung_hlte" />
 	<project name="CyanogenMod/android_device_samsung_hlte-common" />
 	<project name="CyanogenMod/android_device_samsung_hltespr" />
@@ -245,6 +256,7 @@
 	<project name="CyanogenMod/android_device_samsung_zerofltexx" />
 	<project name="CyanogenMod/android_device_smartfren_rendang" />
 	<project name="CyanogenMod/android_device_sony_amami" />
+	<project name="CyanogenMod/android_device_sony_blue-common" />
 	<project name="CyanogenMod/android_device_sony_castor" />
 	<project name="CyanogenMod/android_device_sony_castor_windy" />
 	<project name="CyanogenMod/android_device_sony_common" />
@@ -252,8 +264,10 @@
 	<project name="CyanogenMod/android_device_sony_eagle" />
 	<project name="CyanogenMod/android_device_sony_flamingo" />
 	<project name="CyanogenMod/android_device_sony_fusion3-common" />
+	<project name="CyanogenMod/android_device_sony_hayabusa" />
 	<project name="CyanogenMod/android_device_sony_honami" />
 	<project name="CyanogenMod/android_device_sony_huashan" />
+	<project name="CyanogenMod/android_device_sony_mint" />
 	<project name="CyanogenMod/android_device_sony_msm8974-common" />
 	<project name="CyanogenMod/android_device_sony_nicki" />
 	<project name="CyanogenMod/android_device_sony_odin" />
@@ -270,6 +284,7 @@
 	<project name="CyanogenMod/android_device_sony_tianchi" />
 	<project name="CyanogenMod/android_device_sony_togari" />
 	<project name="CyanogenMod/android_device_sony_togari_gpe" />
+	<project name="CyanogenMod/android_device_sony_tsubasa" />
 	<project name="CyanogenMod/android_device_sony_yuga" />
 	<project name="CyanogenMod/android_device_sony_yukon" />
 	<project name="CyanogenMod/android_device_sony_z3" />
@@ -279,6 +294,7 @@
 	<project name="CyanogenMod/android_device_wileyfox_kipper" />
 	<project name="CyanogenMod/android_device_wingtech_wt88047" />
 	<project name="CyanogenMod/android_device_xiaomi_cancro" />
+	<project name="CyanogenMod/android_device_xiaomi_kenzo" />
 	<project name="CyanogenMod/android_device_yu_jalebi" />
 	<project name="CyanogenMod/android_device_yu_lettuce" />
 	<project name="CyanogenMod/android_device_yu_sambar" />

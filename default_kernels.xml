@@ -2,9 +2,11 @@
 <manifest>
 	<project name="CyanogenMod/android_kernel_acer_t20-common" />
 	<project name="CyanogenMod/android_kernel_acer_t30" />
+	<project name="CyanogenMod/android_kernel_alcatel_msm8916" />
 	<project name="CyanogenMod/android_kernel_amazon_bowser-common" />
 	<project name="CyanogenMod/android_kernel_amazon_hdx-common" />
 	<project name="CyanogenMod/android_kernel_amazon_otter-common" />
+	<project name="CyanogenMod/android_kernel_asus_P024" />
 	<project name="CyanogenMod/android_kernel_asus_fugu" />
 	<project name="CyanogenMod/android_kernel_asus_grouper" />
 	<project name="CyanogenMod/android_kernel_asus_moorefield" />
@@ -73,6 +75,7 @@
 	<project name="CyanogenMod/android_kernel_nvidia_shieldtablet" />
 	<project name="CyanogenMod/android_kernel_oneplus_msm8974" />
 	<project name="CyanogenMod/android_kernel_oneplus_msm8994" />
+	<project name="CyanogenMod/android_kernel_oneplus_msm8996" />
 	<project name="CyanogenMod/android_kernel_oneplus_onyx" />
 	<project name="CyanogenMod/android_kernel_oppo_find5" />
 	<project name="CyanogenMod/android_kernel_oppo_msm8226" />
@@ -88,6 +91,7 @@
 	<project name="CyanogenMod/android_kernel_samsung_exynos5410" />
 	<project name="CyanogenMod/android_kernel_samsung_exynos5420" />
 	<project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
+	<project name="CyanogenMod/android_kernel_samsung_gts2" />
 	<project name="CyanogenMod/android_kernel_samsung_hlte" />
 	<project name="CyanogenMod/android_kernel_samsung_jf" />
 	<project name="CyanogenMod/android_kernel_samsung_klimtwifi" />
@@ -133,6 +137,7 @@
 	<project name="CyanogenMod/android_kernel_wingtech_msm8916" />
 	<project name="CyanogenMod/android_kernel_xiaomi_aries" />
 	<project name="CyanogenMod/android_kernel_xiaomi_cancro" />
+	<project name="CyanogenMod/android_kernel_xiaomi_msm8956" />
 	<project name="CyanogenMod/android_kernel_yu_msm8916" />
 	<project name="CyanogenMod/android_kernel_zte_msm8994" />
 	<project name="CyanogenMod/cm-kernel" />

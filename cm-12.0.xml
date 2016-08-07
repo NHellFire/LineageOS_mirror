@@ -24,7 +24,6 @@
 	<project name="CyanogenMod/android_bootable_recovery-cm" />
 	<project name="CyanogenMod/android_build" />
 	<project name="CyanogenMod/android_cts" />
-	<project name="CyanogenMod/android_dalvik" />
 	<project name="CyanogenMod/android_development" />
 	<project name="CyanogenMod/android_docs_source.android.com" />
 	<project name="CyanogenMod/android_external_aac" />
