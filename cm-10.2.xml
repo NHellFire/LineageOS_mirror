@@ -14,6 +14,7 @@
 
 	<project name="NHellFire/android" />
 
+
 	<project name="CyanogenMod/android" />
 	<project name="CyanogenMod/android_abi_cpp" />
 	<project name="CyanogenMod/AndroidAsync" />
@@ -365,8 +366,6 @@
 	<project name="CyanogenMod/Superuser" />
 	<project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
 	<project name="CyanogenMod/Widgets" />
-
-
 	<project path="cts" name="platform/cts" remote="aosp" revision="jb-mr2.0-cts-release" groups="cts" />
 	<project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
@@ -431,6 +430,4 @@
 	<project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
 	<project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-
-
 </manifest>

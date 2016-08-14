@@ -14,6 +14,7 @@
 
 	<project name="NHellFire/android" />
 
+
 	<project name="CyanogenMod/android" />
 	<project name="CyanogenMod/android_abi_cpp" />
 	<project name="CyanogenMod/android_art" />
@@ -371,8 +372,6 @@
 	<project name="CyanogenMod/cm_platform_sdk" />
 	<project name="CyanogenMod/external_android_support-prebuilt" />
 	<project name="CyanogenMod/ion" />
-
-
 	<project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
 	<project path="developers/build" name="platform/developers/build" remote="aosp" />
 	<project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" />
@@ -390,6 +389,7 @@
 	<project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
 	<project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+	<project path="external/android/support-prebuilt" name="CyanogenMod/external_android_support-prebuilt" revision="master" />
 	<project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/apache-harmony" name="platform/external/apache-harmony" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -564,6 +564,7 @@
 	<project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" groups="pdk-fs" clone-depth="1" remote="aosp" />
 	<project path="prebuilts/clang/darwin-x86/host/3.6" name="platform/prebuilts/clang/darwin-x86/host/3.6" groups="pdk,darwin" clone-depth="1" remote="aosp" />
 	<project path="prebuilts/clang/linux-x86/host/3.6" name="platform/prebuilts/clang/linux-x86/host/3.6" groups="pdk,linux" clone-depth="1" remote="aosp" />
+	<project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" />
 	<project path="prebuilts/devtools" name="platform/prebuilts/devtools" groups="pdk-fs" clone-depth="1" remote="aosp" />
 	<project path="prebuilts/eclipse-build-deps" name="platform/prebuilts/eclipse-build-deps" groups="notdefault,eclipse" clone-depth="1" remote="aosp" />
 	<project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" groups="pdk" clone-depth="1" remote="aosp" />
@@ -593,6 +594,4 @@
 	<project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" clone-depth="1" remote="aosp" />
 	<project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
-
-
 </manifest>
