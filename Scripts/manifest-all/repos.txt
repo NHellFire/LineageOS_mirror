@@ -45,7 +45,7 @@ CyanogenMod/android_device_asus_Z00T cm-13.0
 CyanogenMod/android_device_asus_deb cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0-02012016 cm-13.0-02062016 cm-13.0 stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E staging/cm-12.1
 CyanogenMod/android_device_asus_flo cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0-02012016 cm-13.0-02062016 cm-13.0-31052016 cm-13.0 stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E staging/cm-12.0-caf staging/cm-12.1
 CyanogenMod/android_device_asus_fugu cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N
-CyanogenMod/android_device_asus_grouper cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.1
+CyanogenMod/android_device_asus_grouper cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0-20160811 cm-13.0 jellybean-stable jellybean mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.1
 CyanogenMod/android_device_asus_mofd-common cm-12.1 cm-13.0
 CyanogenMod/android_device_asus_msm8916-common cm-13.0
 CyanogenMod/android_device_asus_tf101 cm-10.1 ics jellybean
@@ -53,7 +53,7 @@ CyanogenMod/android_device_asus_tf201 cm-10.1 ics jellybean
 CyanogenMod/android_device_asus_tf300t cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 ics jb jellybean-stable jellybean stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_device_asus_tf700t cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 jellybean-stable jellybean mr1-staging stable/cm-11.0-XNG3C stable/cm-11.0
 CyanogenMod/android_device_asus_tf701t cm-11.0 cm-12.1 stable/cm-11.0-XNG3C stable/cm-11.0
-CyanogenMod/android_device_asus_tilapia cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.0-caf staging/cm-12.0 staging/cm-12.1
+CyanogenMod/android_device_asus_tilapia cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0-20160811 cm-13.0 mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.0-caf staging/cm-12.0 staging/cm-12.1
 CyanogenMod/android_device_bn_acclaim cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E
 CyanogenMod/android_device_bn_common cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 stable/cm-11.0-XNG3C stable/cm-11.0
 CyanogenMod/android_device_bn_encore cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread-release gingerbread jellybean stable/cm-11.0-XNG3C stable/cm-11.0
@@ -153,6 +153,7 @@ CyanogenMod/android_device_htc_msm8960-common cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm
 CyanogenMod/android_device_htc_msm8974-common cm-12.1 cm-13.0 stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_device_htc_passion froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread
 CyanogenMod/android_device_htc_passion-common froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread
+CyanogenMod/android_device_htc_pme cm-13.0
 CyanogenMod/android_device_htc_protou cm-10.1 twrp
 CyanogenMod/android_device_htc_puccinilte jellybean
 CyanogenMod/android_device_htc_pyramid ics jellybean
@@ -224,7 +225,7 @@ CyanogenMod/android_device_lge_gproj-common cm-10.2 cm-11.0 cm-12.0 cm-12.1 stab
 CyanogenMod/android_device_lge_h811 cm-12.1 cm-13.0
 CyanogenMod/android_device_lge_h815 cm-12.1 cm-13.0
 CyanogenMod/android_device_lge_h901 cm-12.1 cm-13.0
-CyanogenMod/android_device_lge_hammerhead cm-11.0 cm-12.0 cm-12.1 cm-13.0-prereset cm-13.0 stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K staging/cm-12.0-caf staging/cm-12.1
+CyanogenMod/android_device_lge_hammerhead cm-11.0 cm-12.0 cm-12.1 cm-13.0-prereset cm-13.0 stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1
 CyanogenMod/android_device_lge_hammerheadcaf cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P
 CyanogenMod/android_device_lge_iprj-common cm-9.1.0 cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 ics-release ics jellybean-stable jellybean stable/cm-11.0-XNG3C stable/cm-11.0
 CyanogenMod/android_device_lge_jag3gds cm-13.0 stable/cm-13.0-ZNH0E
@@ -1133,7 +1134,7 @@ CyanogenMod/android_kernel_amazon_hdx-common cm-12.1 cm-13.0
 CyanogenMod/android_kernel_amazon_otter-common cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 stable/cm-11.0-XNG3C stable/cm-11.0
 CyanogenMod/android_kernel_asus_P024 cm-13.0
 CyanogenMod/android_kernel_asus_fugu cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N
-CyanogenMod/android_kernel_asus_grouper cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.1
+CyanogenMod/android_kernel_asus_grouper cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0-20160811 cm-13.0 jellybean-stable jellybean mr1-staging stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D staging/cm-12.1
 CyanogenMod/android_kernel_asus_moorefield cm-12.1 cm-13.0
 CyanogenMod/android_kernel_asus_msm8916 cm-13.0-20160608 cm-13.0-20160611 cm-13.0
 CyanogenMod/android_kernel_asus_tf101 9.2.1.17-mr1 9.2.1.17
@@ -1145,7 +1146,7 @@ CyanogenMod/android_kernel_bn_acclaim bfq cm-10.1-staging cm-10.1 cm-10.2 cm-11.
 CyanogenMod/android_kernel_bn_encore cm-10.1-staging cm-11.0 encore-omap3-3 encore-omap3-3.0.y stable/cm-11.0 stable/encore-omap3-3.0.y-XNG3C
 CyanogenMod/android_kernel_bn_omap cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 stable/cm-11.0-XNG3C stable/cm-11.0
 CyanogenMod/android_kernel_bq_msm8916 cm-12.1 stable/cm-12.1-YOG4P
-CyanogenMod/android_kernel_cyanogen_msm8916 cm-12.1-amss-1.0.2-rebase cm-12.1-amss-1.0.2 cm-12.1-amss-2.1 cm-12.1-jalebi cm-12.1-temp cm-12.1 cm-13.0-02122016 cm-13.0-07192016 cm-13.0-amss-2.1 cm-13.0 stable/cm-12.1-YOG4P stable/cm-12.1-amss-1.0.2-YOG4P stable/cm-12.1-amss-2.1-YOG4P stable/cm-12.1-amss-2.1-YOG7D stable/cm-12.1-jalebi-YOG4P stable/cm-13.0-ZNH0E-20160316 stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-amss-2.1-ZNH0E staging/cm-12.1-amss-1.0.2-YOG4P staging/cm-13.0-lettuce-20160317 staging/cm-13.0-lettuce
+CyanogenMod/android_kernel_cyanogen_msm8916 cm-12.1-amss-1.0.2-rebase cm-12.1-amss-1.0.2 cm-12.1-amss-2.1 cm-12.1-jalebi cm-12.1-temp cm-12.1 cm-13.0-02122016 cm-13.0-07192016 cm-13.0-amss-2.1 cm-13.0 mas stable/cm-12.1-YOG4P stable/cm-12.1-amss-1.0.2-YOG4P stable/cm-12.1-amss-2.1-YOG4P stable/cm-12.1-amss-2.1-YOG7D stable/cm-12.1-jalebi-YOG4P stable/cm-13.0-ZNH0E-20160316 stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-amss-2.1-ZNH0E staging/cm-12.1-amss-1.0.2-YOG4P staging/cm-13.0-lettuce-20160317 staging/cm-13.0-lettuce
 CyanogenMod/android_kernel_cyanogen_msm8974 cm-12.1 cm-13.0 stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K
 CyanogenMod/android_kernel_cyanogen_msm8994 cm-12.1 cm-13.0 stable/cm-12.1-YOG4P stable/cm-13.0-ZNH0E
 CyanogenMod/android_kernel_goldfish cm-10.1 cm-10.2 cm-11.0 cm-12.1
@@ -1161,6 +1162,7 @@ CyanogenMod/android_kernel_htc_msm8952 cm-13.0-20160101 cm-13.0-20160123 cm-13.0
 CyanogenMod/android_kernel_htc_msm8960 android-msm-evita-3.0 android-msm-jewel-3.0 android-msm-ville-3.0 cm-10.1 cm-10.1_3.0 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean m7-gpe mr1-staging stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_kernel_htc_msm8974 caf cafrebase cm-11.0 cm-12.0 cm-12.1 cm-13.0_next cm-13.0 stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_kernel_htc_msm8994 cm-12.1-20150528 cm-12.1-20151108 cm-12.1 cm-13.0-20151127 cm-13.0-20151210 cm-13.0-20151215 cm-13.0-20151216 cm-13.0-20160222 cm-13.0 htc stable/cm-12.1-YOG7D
+CyanogenMod/android_kernel_htc_msm8996 cm-13.0
 CyanogenMod/android_kernel_huawei_angler cm-13.0 stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K
 CyanogenMod/android_kernel_huawei_kiwi cm-12.1-rebase cm-12.1 cm-13.0-pre-caf-prima cm-13.0
 CyanogenMod/android_kernel_huawei_msm8226 cm-12.1
@@ -1170,7 +1172,7 @@ CyanogenMod/android_kernel_letv_msm8994
 CyanogenMod/android_kernel_lge_bullhead cm-13.0 stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K
 CyanogenMod/android_kernel_lge_dory cm-11.0
 CyanogenMod/android_kernel_lge_g3 cafrebase cm-11.0 cm-12.0 cm-12.1 cm-13.0-old cm-13.0 stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH2K
-CyanogenMod/android_kernel_lge_hammerhead cm-11.0-old cm-11.0 cm-12.0-caf cm-12.0 cm-12.1-caf cm-12.1 cm-13.0-caf cm-13.0-prereset cm-13.0 next stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K
+CyanogenMod/android_kernel_lge_hammerhead cm-11.0-old cm-11.0 cm-12.0-caf cm-12.0 cm-12.1-caf cm-12.1 cm-13.0-caf cm-13.0-prereset cm-13.0 next stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH5Y
 CyanogenMod/android_kernel_lge_ls970 cm-10.1 cm-10.2
 CyanogenMod/android_kernel_lge_msm8226 cm-11.0 cm-12.0 cm-13.0 stable/cm-11.0-XNG3C stable/cm-13.0-ZNH0E
 CyanogenMod/android_kernel_lge_msm8974 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E
@@ -1273,7 +1275,7 @@ CyanogenMod/android_packages_apps_AccountsAndSyncSettings gb-release-7.2 gingerb
 CyanogenMod/android_packages_apps_AicBootFix gb-release-7.2 gingerbread-release gingerbread master
 CyanogenMod/android_packages_apps_AndroidTerm gb-release-7.2 gingerbread-release gingerbread master
 CyanogenMod/android_packages_apps_Apollo cm-9.1.0 cm-10.1-apollo-1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 ics-release ics jellybean-stable jellybean master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 staging/cm-12.0-caf staging/cm-12.0
-CyanogenMod/android_packages_apps_AudioFX cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.1
+CyanogenMod/android_packages_apps_AudioFX cm-12.0 cm-12.1 cm-13.0-20160812 cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.1
 CyanogenMod/android_packages_apps_BasicSmsReceiver cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1
 CyanogenMod/android_packages_apps_Bluetooth cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging next shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N
 CyanogenMod/android_packages_apps_BluetoothExt cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 next shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1
@@ -1341,7 +1343,7 @@ CyanogenMod/android_packages_apps_Pacman froyo gb-release-7.2 gingerbread-releas
 CyanogenMod/android_packages_apps_Phone cm-9.1.0 cm-10.1 cm-10.2 eclair froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging qcril stable/cm-10.2 staging/cm-12.0-caf staging/cm-12.0
 CyanogenMod/android_packages_apps_PhoneCommon cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1-test staging/cm-12.1 staging/cm-13.0+r22
 CyanogenMod/android_packages_apps_Profiles cm-12.1 cm-13.0 stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y
-CyanogenMod/android_packages_apps_Protips cm-9.1.0 cm-10.1 froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging staging/cm-12.0-caf staging/cm-12.0
+CyanogenMod/android_packages_apps_Protips cm-9.1.0 cm-10.1 cm-13.0 froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging staging/cm-12.0-caf staging/cm-12.0
 CyanogenMod/android_packages_apps_Provision cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_packages_apps_QuickSearchBox cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging stable/cm-10.2 stable/cm-11.0 staging/cm-12.0-caf staging/cm-12.0
 CyanogenMod/android_packages_apps_SamsungServiceMode cm-9.0.0 cm-10.1-staging cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 gb-release-7.2 gingerbread ics jellybean-stable jellybean mr1-staging stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
@@ -1360,7 +1362,7 @@ CyanogenMod/android_packages_apps_TSCalibration froyo-stable froyo
 CyanogenMod/android_packages_apps_Tag cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D
 CyanogenMod/android_packages_apps_TalkBack cm-12.1
 CyanogenMod/android_packages_apps_Terminal cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.1 staging/launcher
-CyanogenMod/android_packages_apps_ThemeChooser cm-11.0 cm-12.0 cm-12.1 cm-13.0 shipping/cm-11.0 stable/cm-11.0-XNF9X stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1T stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.0 staging/cm-12.1
+CyanogenMod/android_packages_apps_ThemeChooser cm-11.0 cm-12.0 cm-12.1 cm-13.0-20160811 cm-13.0 shipping/cm-11.0 stable/cm-11.0-XNF9X stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1T stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.0 staging/cm-12.1
 CyanogenMod/android_packages_apps_Torch cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean master mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 staging/cm-12.0-caf staging/cm-12.0
 CyanogenMod/android_packages_apps_Trebuchet caf/cm-12.0 caf/cm-12.1 cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1-old cm-12.1 cm-13.0-old cm-13.0 ics-release ics jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P
 CyanogenMod/android_packages_apps_TvSettings cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1 staging/cm-13.0+r22
@@ -1398,16 +1400,17 @@ CyanogenMod/android_packages_screensavers_WebView cm-10.1 cm-10.2 cm-11.0 cm-12.
 CyanogenMod/android_packages_services_AppSuggestService cm-13.0
 CyanogenMod/android_packages_services_CMAudioService cm-13.0 stable/cm-13.0-ZNH5Y
 CyanogenMod/android_packages_services_CMHardwareService cm-13.0
-CyanogenMod/android_packages_services_CMProfileManagerService 
+CyanogenMod/android_packages_services_CMProfileManagerService cm-13.0
 CyanogenMod/android_packages_services_CMStatusBarManagerService cm-13.0
 CyanogenMod/android_packages_services_CMTelephonyService cm-13.0
 CyanogenMod/android_packages_services_LiveLockScreenService cm-13.0 stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y
 CyanogenMod/android_packages_services_Mms cm-12.0 cm-12.1 cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1
-CyanogenMod/android_packages_services_PerformanceManagerService 
+CyanogenMod/android_packages_services_PerformanceManagerService cm-13.0
 CyanogenMod/android_packages_services_Telecomm caf/cm-12.0 caf/cm-12.1 cm-12.0 cm-12.1 cm-13.0-caf cm-13.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1-amss-2.1-ims staging/cm-12.1 staging/cm-13.0+r22
 CyanogenMod/android_packages_services_Telephony caf-rb caf/cm-12.0 caf/cm-12.1 cm-11.0 cm-12.0 cm-12.1 cm-13.0-caf cm-13.0 qcril shipping/cm-11.0 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1-amss-2.1-ims staging/cm-12.1
 CyanogenMod/android_packages_services_ThemeManagerService cm-13.0 stable/cm-13.0-ZNH5Y
 CyanogenMod/android_packages_services_WeatherService cm-13.0
+CyanogenMod/android_packages_themes_HexoLibre cm-13.0
 CyanogenMod/android_packages_wallpapers_Basic cm-9.1.0 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 eclair froyo-stable froyo gb-release-7.2 gingerbread-release gingerbread ics-release ics jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N
 CyanogenMod/android_packages_wallpapers_Galaxy4 cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1
 CyanogenMod/android_packages_wallpapers_HoloSpiral cm-10.1 cm-10.2 cm-11.0 cm-12.0 cm-12.1 cm-13.0 jellybean-stable jellybean mr1.1-staging shipping/cm-11.0 stable/cm-10.2 stable/cm-11.0-XNF8Y stable/cm-11.0-XNF9X stable/cm-11.0-XNG2S stable/cm-11.0-XNG3C stable/cm-11.0 stable/cm-12.0-YNG1I stable/cm-12.0-YNG1T stable/cm-12.0-YNG1TA stable/cm-12.0-YNG3C stable/cm-12.0-YNG4N stable/cm-12.1-YOG3C stable/cm-12.1-YOG4P stable/cm-12.1-YOG7D stable/cm-13.0-ZNH0E stable/cm-13.0-ZNH2K stable/cm-13.0-ZNH2KB stable/cm-13.0-ZNH5Y staging/cm-12.0-caf staging/cm-12.1

@@ -42,7 +42,6 @@
 	<project name="CyanogenMod/android_device_bn_omap4-common" />
 	<project name="CyanogenMod/android_device_bn_ovation" />
 	<project name="CyanogenMod/android_device_bq_paella" />
-	<project name="CyanogenMod/android_device_common" />
 	<project name="CyanogenMod/android_device_commtiva_z71" />
 	<project name="CyanogenMod/android_device_cyanogen_full" />
 	<project name="CyanogenMod/android_device_cyanogen_msm8916-common" />
@@ -52,17 +51,11 @@
 	<project name="CyanogenMod/android_device_geeksphone_one" />
 	<project name="CyanogenMod/android_device_geeksphone_zero" />
 	<project name="CyanogenMod/android_device_generic" />
-	<project name="CyanogenMod/android_device_generic_arm64" />
 	<project name="CyanogenMod/android_device_generic_armv7-a" />
-	<project name="CyanogenMod/android_device_generic_armv7-a-neon" />
-	<project name="CyanogenMod/android_device_generic_common" />
 	<project name="CyanogenMod/android_device_generic_emulatorx86" />
-	<project name="CyanogenMod/android_device_generic_goldfish" />
-	<project name="CyanogenMod/android_device_generic_mips" />
 	<project name="CyanogenMod/android_device_generic_x86" />
 	<project name="CyanogenMod/android_device_google_accessory_arduino" />
 	<project name="CyanogenMod/android_device_google_accessory_demokit" />
-	<project name="CyanogenMod/android_device_google_atv" />
 	<project name="CyanogenMod/android_device_google_sprout" />
 	<project name="CyanogenMod/android_device_google_sprout-common" />
 	<project name="CyanogenMod/android_device_google_sprout4" />
@@ -134,6 +127,7 @@
 	<project name="CyanogenMod/android_device_htc_msm8974-common" />
 	<project name="CyanogenMod/android_device_htc_passion" />
 	<project name="CyanogenMod/android_device_htc_passion-common" />
+	<project name="CyanogenMod/android_device_htc_pme" />
 	<project name="CyanogenMod/android_device_htc_protou" />
 	<project name="CyanogenMod/android_device_htc_puccinilte" />
 	<project name="CyanogenMod/android_device_htc_pyramid" />
@@ -349,7 +343,6 @@
 	<project name="CyanogenMod/android_device_pantech_presto" />
 	<project name="CyanogenMod/android_device_qcom_common" />
 	<project name="CyanogenMod/android_device_qcom_msm8916_64" />
-	<project name="CyanogenMod/android_device_qcom_sepolicy" />
 	<project name="CyanogenMod/android_device_sample" />
 	<project name="CyanogenMod/android_device_samsung_amazing3gcri" />
 	<project name="CyanogenMod/android_device_samsung_apexqtmo" />

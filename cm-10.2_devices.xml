@@ -18,11 +18,6 @@
 	<project name="CyanogenMod/android_device_bn_hummingbird" />
 	<project name="CyanogenMod/android_device_bn_omap4-common" />
 	<project name="CyanogenMod/android_device_bn_ovation" />
-	<project name="CyanogenMod/android_device_common" />
-	<project name="CyanogenMod/android_device_generic_armv7-a-neon" />
-	<project name="CyanogenMod/android_device_generic_common" />
-	<project name="CyanogenMod/android_device_generic_goldfish" />
-	<project name="CyanogenMod/android_device_generic_mips" />
 	<project name="CyanogenMod/android_device_generic_x86" />
 	<project name="CyanogenMod/android_device_google_accessory_arduino" />
 	<project name="CyanogenMod/android_device_google_accessory_demokit" />

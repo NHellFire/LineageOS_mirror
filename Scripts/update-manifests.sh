@@ -11,5 +11,5 @@ for branch in $BRANCHES; do
 	mv manifest-single-branch/$branch.xml split-kernels_and_devices-manifest/
 done
 
-(cd split-kernels_and_devices-manifest && ./split.sh)
+(cd split-kernels_and_devices-manifest && ./split.py)
 mv split-kernels_and_devices-manifest/*.xml ..

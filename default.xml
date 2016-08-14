@@ -33,6 +33,14 @@
 	<project name="CyanogenMod/android_cts" />
 	<project name="CyanogenMod/android_dalvik" />
 	<project name="CyanogenMod/android_development" />
+	<project name="CyanogenMod/android_device_common" />
+	<project name="CyanogenMod/android_device_generic_arm64" />
+	<project name="CyanogenMod/android_device_generic_armv7-a-neon" />
+	<project name="CyanogenMod/android_device_generic_common" />
+	<project name="CyanogenMod/android_device_generic_goldfish" />
+	<project name="CyanogenMod/android_device_generic_mips" />
+	<project name="CyanogenMod/android_device_google_atv" />
+	<project name="CyanogenMod/android_device_qcom_sepolicy" />
 	<project name="CyanogenMod/android_docs_source.android.com" />
 	<project name="CyanogenMod/android_external_JakeWharton_butterknife" />
 	<project name="CyanogenMod/android_external_aac" />
@@ -322,7 +330,6 @@
 	<project name="CyanogenMod/android_external_stlport" />
 	<project name="CyanogenMod/android_external_strace" />
 	<project name="CyanogenMod/android_external_stressapptest" />
-	<project name="CyanogenMod/android_external_svox" />
 	<project name="CyanogenMod/android_external_syslinux" />
 	<project name="CyanogenMod/android_external_tagsoup" />
 	<project name="CyanogenMod/android_external_tcpdump" />
@@ -651,6 +658,7 @@
 	<project name="CyanogenMod/android_packages_services_Telephony" />
 	<project name="CyanogenMod/android_packages_services_ThemeManagerService" />
 	<project name="CyanogenMod/android_packages_services_WeatherService" />
+	<project name="CyanogenMod/android_packages_themes_HexoLibre" />
 	<project name="CyanogenMod/android_packages_wallpapers_Basic" />
 	<project name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
 	<project name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />

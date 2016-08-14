@@ -1,0 +1,8 @@
+android_device_common
+android_device_generic_arm64
+android_device_generic_armv7-a-neon
+android_device_generic_common
+android_device_generic_goldfish
+android_device_generic_mips
+android_device_google_atv
+android_device_qcom_sepolicy

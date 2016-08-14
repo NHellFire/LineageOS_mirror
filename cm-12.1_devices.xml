@@ -26,17 +26,10 @@
 	<project name="CyanogenMod/android_device_bn_hummingbird" />
 	<project name="CyanogenMod/android_device_bn_ovation" />
 	<project name="CyanogenMod/android_device_bq_paella" />
-	<project name="CyanogenMod/android_device_common" />
 	<project name="CyanogenMod/android_device_cyanogen_full" />
 	<project name="CyanogenMod/android_device_cyanogen_msm8916-common" />
 	<project name="CyanogenMod/android_device_cyanogen_msm8939-common" />
-	<project name="CyanogenMod/android_device_generic_arm64" />
-	<project name="CyanogenMod/android_device_generic_armv7-a-neon" />
-	<project name="CyanogenMod/android_device_generic_common" />
 	<project name="CyanogenMod/android_device_generic_emulatorx86" />
-	<project name="CyanogenMod/android_device_generic_goldfish" />
-	<project name="CyanogenMod/android_device_generic_mips" />
-	<project name="CyanogenMod/android_device_google_atv" />
 	<project name="CyanogenMod/android_device_google_sprout" />
 	<project name="CyanogenMod/android_device_google_sprout4" />
 	<project name="CyanogenMod/android_device_google_sprout8" />
@@ -160,7 +153,6 @@
 	<project name="CyanogenMod/android_device_oppo_r7" />
 	<project name="CyanogenMod/android_device_oppo_r7plus" />
 	<project name="CyanogenMod/android_device_qcom_common" />
-	<project name="CyanogenMod/android_device_qcom_sepolicy" />
 	<project name="CyanogenMod/android_device_samsung_apexqtmo" />
 	<project name="CyanogenMod/android_device_samsung_celox-common" />
 	<project name="CyanogenMod/android_device_samsung_chagall-common" />
