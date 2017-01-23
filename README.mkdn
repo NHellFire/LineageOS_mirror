@@ -1,4 +1,4 @@
-CyanogenMod Mirror Manifest
+LineageOS Mirror Manifest
 ===========================
 
 To initialize your mirror, use a command like this:

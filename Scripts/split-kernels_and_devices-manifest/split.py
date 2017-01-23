@@ -3,8 +3,8 @@ from glob import glob
 from sys import exit
 import re
 
-DEVICE_PATTERN = "CyanogenMod/android_device_"
-KERNEL_PATTERN = re.compile(r"CyanogenMod/(android_|\w+-)kernel")
+DEVICE_PATTERN = "LineageOS/android_device_"
+KERNEL_PATTERN = re.compile(r"LineageOS/(android_|\w+-)kernel")
 
 MANIFESTS = glob("*.xml")
 

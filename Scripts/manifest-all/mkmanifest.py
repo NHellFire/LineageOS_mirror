@@ -7,7 +7,7 @@ from base64 import b64encode as base64_encode
 from datetime import datetime
 from StringIO import StringIO
 
-API_URL = 'https://api.github.com/users/CyanogenMod/repos?per_page=200&page=%d'
+API_URL = 'https://api.github.com/users/LineageOS/repos?per_page=200&page=%d'
 OUTPUT = "default.xml"
 
 MIN_API_CALLS = 1500

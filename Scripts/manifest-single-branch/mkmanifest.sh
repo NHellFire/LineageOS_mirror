@@ -7,7 +7,7 @@ fi
 
 BRANCH="$1"
 OUTPUT="$(echo "$BRANCH" | sed -e 's!/!-!').xml"
-URL="https://raw.github.com/CyanogenMod/android/$BRANCH/default.xml"
+URL="https://raw.github.com/LineageOS/android/$BRANCH/default.xml"
 if [ $# -eq 2 ]; then
 	OUTPUT="${2%.xml}.xml"
 fi
@@ -67,7 +67,7 @@ grep 'remote="aosp"' "$OUTPUT.github.tmp" | sort -u >> $OUTPUT.tmp
 grep -E '<project.*revision=' "$OUTPUT.github.tmp" | sort -u >> $OUTPUT.tmp
 
 printf "\n\n" >> "$OUTPUT.tmp"
-grep -E '^\s*<project' "$OUTPUT.github.tmp" | grep -v 'remote="aosp"' | grep -v 'name="CyanogenMod/' | sort -u >> $OUTPUT.tmp
+grep -E '^\s*<project' "$OUTPUT.github.tmp" | grep -v 'remote="aosp"' | grep -v 'name="LineageOS/' | sort -u >> $OUTPUT.tmp
 rm -f "$OUTPUT.github.tmp"
 
 sort -u "$OUTPUT.tmp" > "$OUTPUT.tmp.sorted"
