@@ -280,7 +280,7 @@
 	<project name="LineageOS/ion" />
 	<project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" />
 	<project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
-	<project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" remote="aosp" >
+	<project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" remote="aosp" />
 	<project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="developers/build" name="platform/developers/build" remote="aosp" />
 	<project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" remote="aosp" />

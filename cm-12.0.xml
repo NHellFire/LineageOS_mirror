@@ -489,7 +489,7 @@
 	<project path="art" name="CyanogenMod/android_art" groups="pdk" />
 	<project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
 	<project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
-	<project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
+	<project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" />
 	<project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" />
 	<project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" />
 	<project path="developers/build" name="platform/developers/build" remote="aosp" />
