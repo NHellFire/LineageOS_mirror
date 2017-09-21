@@ -30,6 +30,7 @@
 	<project name="LineageOS/android_bootable_userfastboot" />
 	<project name="LineageOS/android_build" />
 	<project name="LineageOS/android_build_kati" />
+	<project name="LineageOS/android_build_soong" />
 	<project name="LineageOS/android_cts" />
 	<project name="LineageOS/android_dalvik" />
 	<project name="LineageOS/android_development" />
@@ -211,6 +212,7 @@
 	<project name="LineageOS/android_external_ksoap2" />
 	<project name="LineageOS/android_external_libavc" />
 	<project name="LineageOS/android_external_libcap-ng" />
+	<project name="LineageOS/android_external_libchrome" />
 	<project name="LineageOS/android_external_libcxx" />
 	<project name="LineageOS/android_external_libcxxabi" />
 	<project name="LineageOS/android_external_libedit" />
@@ -219,6 +221,7 @@
 	<project name="LineageOS/android_external_libgsm" />
 	<project name="LineageOS/android_external_libhevc" />
 	<project name="LineageOS/android_external_liblzf" />
+	<project name="LineageOS/android_external_libmpeg2" />
 	<project name="LineageOS/android_external_libmtp" />
 	<project name="LineageOS/android_external_libncurses" />
 	<project name="LineageOS/android_external_libnetfilter_conntrack" />
@@ -252,6 +255,8 @@
 	<project name="LineageOS/android_external_libxml2" />
 	<project name="LineageOS/android_external_libxslt" />
 	<project name="LineageOS/android_external_libyuv" />
+	<project name="LineageOS/android_external_lineage-sdk-api-coverage" />
+	<project name="LineageOS/android_external_lineage_UICommon" />
 	<project name="LineageOS/android_external_linux-tools-perf" />
 	<project name="LineageOS/android_external_littlemock" />
 	<project name="LineageOS/android_external_lldb" />
@@ -314,7 +319,9 @@
 	<project name="LineageOS/android_external_rsync" />
 	<project name="LineageOS/android_external_safe-iop" />
 	<project name="LineageOS/android_external_sbsigntool" />
+	<project name="LineageOS/android_external_selinux" />
 	<project name="LineageOS/android_external_sepolicy" />
+	<project name="LineageOS/android_external_sfntly" />
 	<project name="LineageOS/android_external_skia" />
 	<project name="LineageOS/android_external_smali" />
 	<project name="LineageOS/android_external_sonivox" />
@@ -455,13 +462,16 @@
 	<project name="LineageOS/android_hardware_intel_libmedia_utils" />
 	<project name="LineageOS/android_hardware_intel_libva" />
 	<project name="LineageOS/android_hardware_intel_pstore-clean" />
+	<project name="LineageOS/android_hardware_interfaces" />
 	<project name="LineageOS/android_hardware_invensense" />
 	<project name="LineageOS/android_hardware_libhardware" />
 	<project name="LineageOS/android_hardware_libhardware_legacy" />
 	<project name="LineageOS/android_hardware_msm7k" />
 	<project name="LineageOS/android_hardware_nvidia_audio" />
+	<project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
 	<project name="LineageOS/android_hardware_nvidia_power" />
 	<project name="LineageOS/android_hardware_nvidia_tegra124" />
+	<project name="LineageOS/android_hardware_nvidia_thermal" />
 	<project name="LineageOS/android_hardware_qcom_audio" />
 	<project name="LineageOS/android_hardware_qcom_audio-bfam" />
 	<project name="LineageOS/android_hardware_qcom_audio-caf" />
@@ -498,6 +508,7 @@
 	<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5422" />
 	<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5433" />
 	<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" />
+	<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7880" />
 	<project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" />
 	<project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" />
 	<project name="LineageOS/android_hardware_samsung_slsi_exynos" />
@@ -525,6 +536,7 @@
 	<project name="LineageOS/android_hardware_ti_wpan" />
 	<project name="LineageOS/android_libcore" />
 	<project name="LineageOS/android_libnativehelper" />
+	<project name="LineageOS/android_lineage-sdk" />
 	<project name="LineageOS/android_ndk" />
 	<project name="LineageOS/android_packages_apps_ADWLauncher" />
 	<project name="LineageOS/android_packages_apps_AccountsAndSyncSettings" />
@@ -557,11 +569,13 @@
 	<project name="LineageOS/android_packages_apps_CertInstaller" />
 	<project name="LineageOS/android_packages_apps_Contacts" />
 	<project name="LineageOS/android_packages_apps_ContactsCommon" />
+	<project name="LineageOS/android_packages_apps_CustomTiles" />
 	<project name="LineageOS/android_packages_apps_DSPManager" />
 	<project name="LineageOS/android_packages_apps_DesignerTools" />
 	<project name="LineageOS/android_packages_apps_DeskClock" />
 	<project name="LineageOS/android_packages_apps_Dialer" />
 	<project name="LineageOS/android_packages_apps_DockAudio" />
+	<project name="LineageOS/android_packages_apps_DocumentsUI" />
 	<project name="LineageOS/android_packages_apps_Eleven" />
 	<project name="LineageOS/android_packages_apps_Email" />
 	<project name="LineageOS/android_packages_apps_EmergencyInfo" />
@@ -581,11 +595,13 @@
 	<project name="LineageOS/android_packages_apps_Gello" />
 	<project name="LineageOS/android_packages_apps_HTMLViewer" />
 	<project name="LineageOS/android_packages_apps_InCallUI" />
+	<project name="LineageOS/android_packages_apps_Jelly" />
 	<project name="LineageOS/android_packages_apps_KeyChain" />
 	<project name="LineageOS/android_packages_apps_Launcher" />
 	<project name="LineageOS/android_packages_apps_Launcher2" />
 	<project name="LineageOS/android_packages_apps_Launcher3" />
 	<project name="LineageOS/android_packages_apps_LegacyCamera" />
+	<project name="LineageOS/android_packages_apps_LineageParts" />
 	<project name="LineageOS/android_packages_apps_LocPick" />
 	<project name="LineageOS/android_packages_apps_LockClock" />
 	<project name="LineageOS/android_packages_apps_ManagedProvisioning" />
@@ -632,6 +648,7 @@
 	<project name="LineageOS/android_packages_apps_Trebuchet" />
 	<project name="LineageOS/android_packages_apps_TvSettings" />
 	<project name="LineageOS/android_packages_apps_UnifiedEmail" />
+	<project name="LineageOS/android_packages_apps_Updater" />
 	<project name="LineageOS/android_packages_apps_Usb" />
 	<project name="LineageOS/android_packages_apps_VideoEditor" />
 	<project name="LineageOS/android_packages_apps_VoiceDialer" />
@@ -666,12 +683,14 @@
 	<project name="LineageOS/android_packages_screensavers_PhotoTable" />
 	<project name="LineageOS/android_packages_screensavers_WebView" />
 	<project name="LineageOS/android_packages_services_AppSuggestService" />
+	<project name="LineageOS/android_packages_services_BuiltInPrintService" />
 	<project name="LineageOS/android_packages_services_CMAudioService" />
 	<project name="LineageOS/android_packages_services_CMHardwareService" />
 	<project name="LineageOS/android_packages_services_CMProfileManagerService" />
 	<project name="LineageOS/android_packages_services_CMStatusBarManagerService" />
 	<project name="LineageOS/android_packages_services_CMTelephonyService" />
 	<project name="LineageOS/android_packages_services_Car" />
+	<project name="LineageOS/android_packages_services_LineageAudioService" />
 	<project name="LineageOS/android_packages_services_LiveLockScreenService" />
 	<project name="LineageOS/android_packages_services_Mms" />
 	<project name="LineageOS/android_packages_services_PartnerInterfaceService" />
@@ -701,6 +720,7 @@
 	<project name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" />
 	<project name="LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" />
 	<project name="LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" />
+	<project name="LineageOS/android_prebuilts_lineage-sdk" />
 	<project name="LineageOS/android_prebuilts_misc" />
 	<project name="LineageOS/android_prebuilts_ndk" />
 	<project name="LineageOS/android_prebuilts_tools" />
@@ -710,14 +730,20 @@
 	<project name="LineageOS/android_system_core" />
 	<project name="LineageOS/android_system_extras" />
 	<project name="LineageOS/android_system_extras_su" />
+	<project name="LineageOS/android_system_hardware_interfaces" />
 	<project name="LineageOS/android_system_keymaster" />
+	<project name="LineageOS/android_system_libhidl" />
 	<project name="LineageOS/android_system_media" />
 	<project name="LineageOS/android_system_netd" />
+	<project name="LineageOS/android_system_nfc" />
 	<project name="LineageOS/android_system_qcom" />
 	<project name="LineageOS/android_system_security" />
 	<project name="LineageOS/android_system_sepolicy" />
 	<project name="LineageOS/android_system_su" />
 	<project name="LineageOS/android_system_tools_aidl" />
+	<project name="LineageOS/android_system_tools_dtbtool" />
+	<project name="LineageOS/android_system_tools_hidl" />
+	<project name="LineageOS/android_system_update_engine" />
 	<project name="LineageOS/android_system_vold" />
 	<project name="LineageOS/android_system_wlan_ti" />
 	<project name="LineageOS/android_tools_base" />
@@ -740,15 +766,18 @@
 	<project name="LineageOS/android_vendor_intel_external_openssl_efi_prebuilt" />
 	<project name="LineageOS/android_vendor_intel_hardware_realtek_wlan" />
 	<project name="LineageOS/android_vendor_intel_hardware_ufo_gen7" />
+	<project name="LineageOS/android_vendor_lineage" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" />
 	<project name="LineageOS/android_vendor_qcom_android-open" />
 	<project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
+	<project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
 	<project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
 	<project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 	<project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
 	<project name="LineageOS/android_vendor_qcom_opensource_dpm" />
+	<project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
 	<project name="LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
 	<project name="LineageOS/android_vendor_qcom_opensource_location" />
 	<project name="LineageOS/android_vendor_qcom_opensource_omx_mm-audio" />
@@ -764,10 +793,12 @@
 	<project name="LineageOS/android_vendor_tmobile_providers_ThemeManager" />
 	<project name="LineageOS/android_vendor_tmobile_themes_Androidian" />
 	<project name="LineageOS/android_vendor_tmobile_themes_Cyanbread" />
+	<project name="LineageOS/ansible" />
 	<project name="LineageOS/bugproxy" />
 	<project name="LineageOS/cm-less" />
 	<project name="LineageOS/cm_crowdin" />
 	<project name="LineageOS/cm_platform_sdk" />
+	<project name="LineageOS/contributors-cloud-generator" />
 	<project name="LineageOS/ctso_supplicant" />
 	<project name="LineageOS/cve_tracker" />
 	<project name="LineageOS/device_htc_marvel" />
@@ -775,6 +806,7 @@
 	<project name="LineageOS/docker_build" />
 	<project name="LineageOS/external_android_support-prebuilt" />
 	<project name="LineageOS/external_cyanogen_cmhomeapi" />
+	<project name="LineageOS/gello_channel" />
 	<project name="LineageOS/getcm-translations" />
 	<project name="LineageOS/huaweigeneric-ril" />
 	<project name="LineageOS/hudson" />
@@ -786,8 +818,10 @@
 	<project name="LineageOS/lineageos_updater" />
 	<project name="LineageOS/mirror" />
 	<project name="LineageOS/mirrorbits" />
+	<project name="LineageOS/scripts" />
+	<project name="LineageOS/slackbot" />
 	<project name="LineageOS/snapdragon_swe_engine" />
-	<project name="LineageOS/temp_infra_tracker" />
+	<project name="LineageOS/stats" />
 	<project name="LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
 	<project name="LineageOS/tools_repo" />
 	<project name="LineageOS/tribble-tracker" />
@@ -933,7 +967,6 @@
 	<project name="platform/external/libgsm" remote="aosp" />
 	<project name="platform/external/libhevc" remote="aosp" />
 	<project name="platform/external/liblzf" remote="aosp" />
-	<project name="platform/external/libmpeg2" remote="aosp" />
 	<project name="platform/external/libmtp" remote="aosp" />
 	<project name="platform/external/libnl" remote="aosp" />
 	<project name="platform/external/libogg" remote="aosp" />

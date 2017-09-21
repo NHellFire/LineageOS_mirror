@@ -24,6 +24,7 @@
 	<project name="LineageOS/android_device_bq_msm8916-common" />
 	<project name="LineageOS/android_device_bq_paella" />
 	<project name="LineageOS/android_device_bq_piccolo" />
+	<project name="LineageOS/android_device_bq_tenshi" />
 	<project name="LineageOS/android_device_bq_vegetalte" />
 	<project name="LineageOS/android_device_cyanogen_full" />
 	<project name="LineageOS/android_device_cyanogen_msm8916-common" />
@@ -79,7 +80,10 @@
 	<project name="LineageOS/android_device_huawei_kiwi" />
 	<project name="LineageOS/android_device_huawei_msm8916-common" />
 	<project name="LineageOS/android_device_huawei_mt2" />
+	<project name="LineageOS/android_device_leeco_msm8996-common" />
 	<project name="LineageOS/android_device_leeco_s2" />
+	<project name="LineageOS/android_device_leeco_x2" />
+	<project name="LineageOS/android_device_leeco_zl1" />
 	<project name="LineageOS/android_device_lge_bullhead" />
 	<project name="LineageOS/android_device_lge_d800" />
 	<project name="LineageOS/android_device_lge_d801" />
@@ -194,6 +198,8 @@
 	<project name="LineageOS/android_device_samsung_galaxys2-common" />
 	<project name="LineageOS/android_device_samsung_gts210ltexx" />
 	<project name="LineageOS/android_device_samsung_gts210wifi" />
+	<project name="LineageOS/android_device_samsung_gts28ltexx" />
+	<project name="LineageOS/android_device_samsung_gts28wifi" />
 	<project name="LineageOS/android_device_samsung_gts2-common" />
 	<project name="LineageOS/android_device_samsung_hlte" />
 	<project name="LineageOS/android_device_samsung_hlte-common" />

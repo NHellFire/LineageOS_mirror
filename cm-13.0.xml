@@ -67,9 +67,11 @@
 	<project name="LineageOS/android_external_f2fs-tools" />
 	<project name="LineageOS/android_external_ffmpeg" />
 	<project name="LineageOS/android_external_flac" />
+	<project name="LineageOS/android_external_freetype" />
 	<project name="LineageOS/android_external_fsck_msdos" />
 	<project name="LineageOS/android_external_fuse" />
 	<project name="LineageOS/android_external_gello_build" />
+	<project name="LineageOS/android_external_giflib" />
 	<project name="LineageOS/android_external_glide" />
 	<project name="LineageOS/android_external_gmock" />
 	<project name="LineageOS/android_external_google" />
@@ -90,11 +92,15 @@
 	<project name="LineageOS/android_external_kissfft" />
 	<project name="LineageOS/android_external_libavc" />
 	<project name="LineageOS/android_external_libcxx" />
+	<project name="LineageOS/android_external_libhevc" />
+	<project name="LineageOS/android_external_libmpeg2" />
 	<project name="LineageOS/android_external_libncurses" />
 	<project name="LineageOS/android_external_libnetfilter_conntrack" />
 	<project name="LineageOS/android_external_libnfc-nci" />
 	<project name="LineageOS/android_external_libnfc-nxp" />
 	<project name="LineageOS/android_external_libnfnetlink" />
+	<project name="LineageOS/android_external_libnl" />
+	<project name="LineageOS/android_external_libopus" />
 	<project name="LineageOS/android_external_libphonenumber" />
 	<project name="LineageOS/android_external_libphonenumbergoogle" />
 	<project name="LineageOS/android_external_libpng" />
@@ -132,6 +138,7 @@
 	<project name="LineageOS/android_external_qrngd" />
 	<project name="LineageOS/android_external_rsync" />
 	<project name="LineageOS/android_external_sepolicy" />
+	<project name="LineageOS/android_external_sfntly" />
 	<project name="LineageOS/android_external_skia" />
 	<project name="LineageOS/android_external_sonivox" />
 	<project name="LineageOS/android_external_sony_boringssl-compat" />
@@ -148,8 +155,10 @@
 	<project name="LineageOS/android_external_tinycompress" />
 	<project name="LineageOS/android_external_tinyxml2" />
 	<project name="LineageOS/android_external_toybox" />
+	<project name="LineageOS/android_external_tremolo" />
 	<project name="LineageOS/android_external_unrar" />
 	<project name="LineageOS/android_external_unzip" />
+	<project name="LineageOS/android_external_v8" />
 	<project name="LineageOS/android_external_vim" />
 	<project name="LineageOS/android_external_vogar" />
 	<project name="LineageOS/android_external_whispersystems_curve25519-java" />
@@ -370,6 +379,7 @@
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" />
+	<project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
 	<project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 	<project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
 	<project name="LineageOS/android_vendor_qcom_opensource_dpm" />
@@ -466,11 +476,8 @@
 	<project path="external/libedit" name="platform/external/libedit" groups="pdk-fs" remote="aosp" />
 	<project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
-	<project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" remote="aosp" />
 	<project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
-	<project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" remote="aosp" />
 	<project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-	<project path="external/libnl" name="platform/external/libnl" groups="pdk" remote="aosp" />
 	<project path="external/libogg" name="platform/external/libogg" groups="pdk" remote="aosp" />
 	<project path="external/libopus" name="platform/external/libopus" groups="pdk" remote="aosp" />
 	<project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -522,7 +529,6 @@
 	<project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" remote="aosp" />
 	<project path="external/scrypt" name="platform/external/scrypt" groups="pdk" remote="aosp" />
 	<project path="external/selinux" name="platform/external/selinux" groups="pdk" remote="aosp" />
-	<project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" remote="aosp" />
 	<project path="external/slf4j" name="platform/external/slf4j" groups="pdk-fs" remote="aosp" />
 	<project path="external/smali" name="platform/external/smali" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/sonic" name="platform/external/sonic" groups="pdk" remote="aosp" />
@@ -532,7 +538,6 @@
 	<project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 	<project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
-	<project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
 	<project path="external/v8" name="platform/external/v8" groups="pdk" remote="aosp" />
 	<project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" />
 	<project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot" remote="aosp" />

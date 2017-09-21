@@ -33,6 +33,7 @@
 	<project name="LineageOS/android_kernel_huawei_msm8928" />
 	<project name="LineageOS/android_kernel_leeco_msm8952" />
 	<project name="LineageOS/android_kernel_leeco_msm8976" />
+	<project name="LineageOS/android_kernel_leeco_msm8996" />
 	<project name="LineageOS/android_kernel_lge_bullhead" />
 	<project name="LineageOS/android_kernel_lge_g3" />
 	<project name="LineageOS/android_kernel_lge_hammerhead" />
@@ -96,6 +97,7 @@
 	<project name="LineageOS/android_kernel_sony_msm8974" />
 	<project name="LineageOS/android_kernel_sony_msm8x27" />
 	<project name="LineageOS/android_kernel_sony_msm8x60" />
+	<project name="LineageOS/android_kernel_ti_omap4" />
 	<project name="LineageOS/android_kernel_wingtech_msm8916" />
 	<project name="LineageOS/android_kernel_xiaomi_cancro" />
 	<project name="LineageOS/android_kernel_xiaomi_ferrari" />

@@ -137,7 +137,6 @@ platform/external/libexif
 platform/external/libgsm
 platform/external/libhevc
 platform/external/liblzf
-platform/external/libmpeg2
 platform/external/libmtp
 platform/external/libnl
 platform/external/libogg
