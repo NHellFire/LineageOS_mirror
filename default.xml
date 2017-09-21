@@ -828,6 +828,13 @@
 	<project name="LineageOS/www" />
 
 
+	<project name="device/common" remote="aosp" />
+	<project name="device/generic/arm64" remote="aosp" />
+	<project name="device/generic/armv7-a-neon" remote="aosp" />
+	<project name="device/generic/car" remote="aosp" />
+	<project name="device/generic/common" remote="aosp" />
+	<project name="device/generic/goldfish" remote="aosp" />
+	<project name="device/generic/goldfish-opengl" remote="aosp" />
 	<project name="device/generic/mini-emulator-arm64" remote="aosp" />
 	<project name="device/generic/mini-emulator-armv7-a-neon" remote="aosp" />
 	<project name="device/generic/mini-emulator-mips" remote="aosp" />
@@ -838,7 +845,14 @@
 	<project name="device/generic/x86_64" remote="aosp" />
 	<project name="device/google/accessory/arduino" remote="aosp" />
 	<project name="device/google/accessory/demokit" remote="aosp" />
+	<project name="device/google/atv" remote="aosp" />
+	<project name="device/google/contexthub" remote="aosp" />
 	<project name="device/sample" remote="aosp" />
+	<project name="kernel/tests" remote="aosp" />
+	<project name="platform/abi/cpp" remote="aosp" />
+	<project name="platform/art" remote="aosp" />
+	<project name="platform/build/blueprint" remote="aosp" />
+	<project name="platform/build/soong" remote="aosp" />
 	<project name="platform/cts" remote="aosp" />
 	<project name="platform/dalvik" remote="aosp" />
 	<project name="platform/developers/build" remote="aosp" />
@@ -847,19 +861,33 @@
 	<project name="platform/developers/samples/android" remote="aosp" />
 	<project name="platform/docs/source.android.com" remote="aosp" />
 	<project name="platform/external/aac" remote="aosp" />
+	<project name="platform/external/abi-compliance-checker" remote="aosp" />
+	<project name="platform/external/abi-dumper" remote="aosp" />
+	<project name="platform/external/adt-infra" remote="aosp" />
 	<project name="platform/external/android-clat" remote="aosp" />
+	<project name="platform/external/android-mock" remote="aosp" />
 	<project name="platform/external/androidplot" remote="aosp" />
+	<project name="platform/external/ant-glob" remote="aosp" />
 	<project name="platform/external/antlr" remote="aosp" />
 	<project name="platform/external/apache-commons-math" remote="aosp" />
 	<project name="platform/external/apache-harmony" remote="aosp" />
 	<project name="platform/external/apache-http" remote="aosp" />
 	<project name="platform/external/apache-qp" remote="aosp" />
 	<project name="platform/external/apache-xml" remote="aosp" />
+	<project name="platform/external/archive-patcher" remote="aosp" />
 	<project name="platform/external/arduino" remote="aosp" />
+	<project name="platform/external/arm-neon-tests" remote="aosp" />
+	<project name="platform/external/autotest" remote="aosp" />
+	<project name="platform/external/avahi" remote="aosp" />
+	<project name="platform/external/avb" remote="aosp" />
 	<project name="platform/external/bison" remote="aosp" />
 	<project name="platform/external/blktrace" remote="aosp" />
+	<project name="platform/external/boringssl" remote="aosp" />
+	<project name="platform/external/bouncycastle" remote="aosp" />
 	<project name="platform/external/bsdiff" remote="aosp" />
 	<project name="platform/external/bzip2" remote="aosp" />
+	<project name="platform/external/caliper" remote="aosp" />
+	<project name="platform/external/c-ares" remote="aosp" />
 	<project name="platform/external/cblas" remote="aosp" />
 	<project name="platform/external/ceres-solver" remote="aosp" />
 	<project name="platform/external/checkpolicy" remote="aosp" />
@@ -898,18 +926,30 @@
 	<project name="platform/external/chromium_org/tools/gyp" remote="aosp" />
 	<project name="platform/external/chromium_org/v8" remote="aosp" />
 	<project name="platform/external/chromium-trace" remote="aosp" />
+	<project name="platform/external/chromium-webview" remote="aosp" />
 	<project name="platform/external/clang" remote="aosp" />
 	<project name="platform/external/cmockery" remote="aosp" />
 	<project name="platform/external/compiler-rt" remote="aosp" />
 	<project name="platform/external/conscrypt" remote="aosp" />
 	<project name="platform/external/crcalc" remote="aosp" />
+	<project name="platform/external/cros/system_api" remote="aosp" />
+	<project name="platform/external/curl" remote="aosp" />
+	<project name="platform/external/dagger2" remote="aosp" />
+	<project name="platform/external/dbus" remote="aosp" />
+	<project name="platform/external/dbus-binding-generator" remote="aosp" />
 	<project name="platform/external/deqp" remote="aosp" />
+	<project name="platform/external/desugar" remote="aosp" />
 	<project name="platform/external/dexmaker" remote="aosp" />
+	<project name="platform/external/dhcpcd-6.8.2" remote="aosp" />
+	<project name="platform/external/dlmalloc" remote="aosp" />
+	<project name="platform/external/dng_sdk" remote="aosp" />
+	<project name="platform/external/dnsmasq" remote="aosp" />
 	<project name="platform/external/doclava" remote="aosp" />
 	<project name="platform/external/donuts" remote="aosp" />
 	<project name="platform/external/drm_gralloc" remote="aosp" />
 	<project name="platform/external/drm_hwcomposer" remote="aosp" />
 	<project name="platform/external/droiddriver" remote="aosp" />
+	<project name="platform/external/dtc" remote="aosp" />
 	<project name="platform/external/easymock" remote="aosp" />
 	<project name="platform/external/eclipse-basebuilder" remote="aosp" />
 	<project name="platform/external/eclipse-windowbuilder" remote="aosp" />
@@ -921,30 +961,49 @@
 	<project name="platform/external/expat" remote="aosp" />
 	<project name="platform/external/eyes-free" remote="aosp" />
 	<project name="platform/external/fdlibm" remote="aosp" />
+	<project name="platform/external/fec" remote="aosp" />
 	<project name="platform/external/fio" remote="aosp" />
+	<project name="platform/external/flac" remote="aosp" />
+	<project name="platform/external/flatbuffers" remote="aosp" />
+	<project name="platform/external/fmtlib" remote="aosp" />
 	<project name="platform/external/fonttools" remote="aosp" />
 	<project name="platform/external/freetype" remote="aosp" />
+	<project name="platform/external/fsck_msdos" remote="aosp" />
 	<project name="platform/external/gcc-demangle" remote="aosp" />
+	<project name="platform/external/gemmlowp" remote="aosp" />
 	<project name="platform/external/genext2fs" remote="aosp" />
 	<project name="platform/external/giflib" remote="aosp" />
 	<project name="platform/external/glide" remote="aosp" />
+	<project name="platform/external/gmock" remote="aosp" />
+	<project name="platform/external/google-benchmark" remote="aosp" />
 	<project name="platform/external/google-breakpad" remote="aosp" />
 	<project name="platform/external/google-diff-match-patch" remote="aosp" />
 	<project name="platform/external/google-fonts/carrois-gothic-sc" remote="aosp" />
 	<project name="platform/external/google-fonts/coming-soon" remote="aosp" />
 	<project name="platform/external/google-fonts/cutive-mono" remote="aosp" />
 	<project name="platform/external/google-fonts/dancing-script" remote="aosp" />
+	<project name="platform/external/googletest" remote="aosp" />
 	<project name="platform/external/google-tv-pairing-protocol" remote="aosp" />
 	<project name="platform/external/gtest" remote="aosp" />
 	<project name="platform/external/guava" remote="aosp" />
+	<project name="platform/external/guice" remote="aosp" />
 	<project name="platform/external/hamcrest" remote="aosp" />
 	<project name="platform/external/harfbuzz_ng" remote="aosp" />
 	<project name="platform/external/hyphenation-patterns" remote="aosp" />
+	<project name="platform/external/icu" remote="aosp" />
+	<project name="platform/external/ImageMagick" remote="aosp" />
+	<project name="platform/external/ims" remote="aosp" />
+	<project name="platform/external/iproute2" remote="aosp" />
 	<project name="platform/external/ipsec-tools" remote="aosp" />
+	<project name="platform/external/iptables" remote="aosp" />
 	<project name="platform/external/iputils" remote="aosp" />
+	<project name="platform/external/iw" remote="aosp" />
 	<project name="platform/external/jack" remote="aosp" />
+	<project name="platform/external/jacoco" remote="aosp" />
+	<project name="platform/external/jarjar" remote="aosp" />
 	<project name="platform/external/javasqlite" remote="aosp" />
 	<project name="platform/external/javassist" remote="aosp" />
+	<project name="platform/external/jcommander" remote="aosp" />
 	<project name="platform/external/jdiff" remote="aosp" />
 	<project name="platform/external/jemalloc" remote="aosp" />
 	<project name="platform/external/jetty" remote="aosp" />
@@ -955,18 +1014,38 @@
 	<project name="platform/external/jsilver" remote="aosp" />
 	<project name="platform/external/jsmn" remote="aosp" />
 	<project name="platform/external/jsoncpp" remote="aosp" />
+	<project name="platform/external/jsr305" remote="aosp" />
+	<project name="platform/external/jsr330" remote="aosp" />
 	<project name="platform/external/junit" remote="aosp" />
+	<project name="platform/external/junit-params" remote="aosp" />
 	<project name="platform/external/kernel-headers" remote="aosp" />
+	<project name="platform/external/kmod" remote="aosp" />
 	<project name="platform/external/ksoap2" remote="aosp" />
+	<project name="platform/external/libavc" remote="aosp" />
+	<project name="platform/external/libbrillo" remote="aosp" />
+	<project name="platform/external/libcap" remote="aosp" />
 	<project name="platform/external/libcap-ng" remote="aosp" />
+	<project name="platform/external/libchrome" remote="aosp" />
+	<project name="platform/external/libconstrainedcrypto" remote="aosp" />
+	<project name="platform/external/libcups" remote="aosp" />
 	<project name="platform/external/libcxx" remote="aosp" />
 	<project name="platform/external/libcxxabi" remote="aosp" />
+	<project name="platform/external/libdaemon" remote="aosp" />
+	<project name="platform/external/libdivsufsort" remote="aosp" />
 	<project name="platform/external/libdrm" remote="aosp" />
 	<project name="platform/external/libedit" remote="aosp" />
+	<project name="platform/external/libese" remote="aosp" />
+	<project name="platform/external/libevent" remote="aosp" />
 	<project name="platform/external/libexif" remote="aosp" />
+	<project name="platform/external/libgdx" remote="aosp" />
 	<project name="platform/external/libgsm" remote="aosp" />
 	<project name="platform/external/libhevc" remote="aosp" />
+	<project name="platform/external/libjpeg-turbo" remote="aosp" />
+	<project name="platform/external/libldac" remote="aosp" />
 	<project name="platform/external/liblzf" remote="aosp" />
+	<project name="platform/external/libmicrohttpd" remote="aosp" />
+	<project name="platform/external/libmojo" remote="aosp" />
+	<project name="platform/external/libmpeg2" remote="aosp" />
 	<project name="platform/external/libmtp" remote="aosp" />
 	<project name="platform/external/libnl" remote="aosp" />
 	<project name="platform/external/libogg" remote="aosp" />
@@ -976,28 +1055,41 @@
 	<project name="platform/external/libpng" remote="aosp" />
 	<project name="platform/external/libseccomp-helper" remote="aosp" />
 	<project name="platform/external/libssh2" remote="aosp" />
+	<project name="platform/external/libtextclassifier" remote="aosp" />
 	<project name="platform/external/libunwind" remote="aosp" />
+	<project name="platform/external/libunwind_llvm" remote="aosp" />
+	<project name="platform/external/libusb" remote="aosp" />
 	<project name="platform/external/libusb-compat" remote="aosp" />
 	<project name="platform/external/libutf" remote="aosp" />
 	<project name="platform/external/libvncserver" remote="aosp" />
 	<project name="platform/external/libvorbis" remote="aosp" />
 	<project name="platform/external/libvpx" remote="aosp" />
+	<project name="platform/external/libvterm" remote="aosp" />
+	<project name="platform/external/libweave" remote="aosp" />
+	<project name="platform/external/libxml2" remote="aosp" />
 	<project name="platform/external/libyuv" remote="aosp" />
+	<project name="platform/external/linux-kselftest" remote="aosp" />
 	<project name="platform/external/littlemock" remote="aosp" />
 	<project name="platform/external/lld" remote="aosp" />
 	<project name="platform/external/lldb" remote="aosp" />
 	<project name="platform/external/llvm" remote="aosp" />
 	<project name="platform/external/lohit-fonts" remote="aosp" />
+	<project name="platform/external/ltp" remote="aosp" />
 	<project name="platform/external/ltrace" remote="aosp" />
+	<project name="platform/external/lz4" remote="aosp" />
 	<project name="platform/external/lzma" remote="aosp" />
 	<project name="platform/external/marisa-trie" remote="aosp" />
 	<project name="platform/external/markdown" remote="aosp" />
 	<project name="platform/external/mdnsresponder" remote="aosp" />
 	<project name="platform/external/mesa3d" remote="aosp" />
 	<project name="platform/external/messageformat" remote="aosp" />
+	<project name="platform/external/Microsoft-GSL" remote="aosp" />
+	<project name="platform/external/minijail" remote="aosp" />
+	<project name="platform/external/mmc-utils" remote="aosp" />
 	<project name="platform/external/mockftpserver" remote="aosp" />
 	<project name="platform/external/mockito" remote="aosp" />
 	<project name="platform/external/mockwebserver" remote="aosp" />
+	<project name="platform/external/modp_b64" remote="aosp" />
 	<project name="platform/external/mp4parser" remote="aosp" />
 	<project name="platform/external/mtpd" remote="aosp" />
 	<project name="platform/external/nanohttpd" remote="aosp" />
@@ -1008,16 +1100,21 @@
 	<project name="platform/external/neven" remote="aosp" />
 	<project name="platform/external/nfacct" remote="aosp" />
 	<project name="platform/external/nist-pkits" remote="aosp" />
+	<project name="platform/external/nist-sip" remote="aosp" />
 	<project name="platform/external/noto-fonts" remote="aosp" />
 	<project name="platform/external/oauth" remote="aosp" />
 	<project name="platform/external/objenesis" remote="aosp" />
+	<project name="platform/external/okhttp" remote="aosp" />
 	<project name="platform/external/opencv" remote="aosp" />
 	<project name="platform/external/openfst" remote="aosp" />
+	<project name="platform/external/openssh" remote="aosp" />
 	<project name="platform/external/open-vcdiff" remote="aosp" />
 	<project name="platform/external/oprofile" remote="aosp" />
 	<project name="platform/external/owasp/sanitizer" remote="aosp" />
 	<project name="platform/external/parameter-framework" remote="aosp" />
+	<project name="platform/external/pcre" remote="aosp" />
 	<project name="platform/external/pdfium" remote="aosp" />
+	<project name="platform/external/piex" remote="aosp" />
 	<project name="platform/external/pixman" remote="aosp" />
 	<project name="platform/external/ppp" remote="aosp" />
 	<project name="platform/external/proguard" remote="aosp" />
@@ -1026,43 +1123,105 @@
 	<project name="platform/external/qemu-pc-bios" remote="aosp" />
 	<project name="platform/external/regex-re2" remote="aosp" />
 	<project name="platform/external/replicaisland" remote="aosp" />
+	<project name="platform/external/rmi4utils" remote="aosp" />
 	<project name="platform/external/robolectric" remote="aosp" />
 	<project name="platform/external/roboto-fonts" remote="aosp" />
+	<project name="platform/external/rootdev" remote="aosp" />
 	<project name="platform/external/safe-iop" remote="aosp" />
 	<project name="platform/external/scrypt" remote="aosp" />
+	<project name="platform/external/seccomp-tests" remote="aosp" />
 	<project name="platform/external/selinux" remote="aosp" />
 	<project name="platform/external/sfntly" remote="aosp" />
+	<project name="platform/external/shflags" remote="aosp" />
 	<project name="platform/external/sil-fonts" remote="aosp" />
+	<project name="platform/external/skia" remote="aosp" />
+	<project name="platform/external/sl4a" remote="aosp" />
 	<project name="platform/external/slf4j" remote="aosp" />
 	<project name="platform/external/smack" remote="aosp" />
 	<project name="platform/external/smali" remote="aosp" />
+	<project name="platform/external/snakeyaml" remote="aosp" />
 	<project name="platform/external/sonic" remote="aosp" />
+	<project name="platform/external/sonivox" remote="aosp" />
+	<project name="platform/external/speex" remote="aosp" />
+	<project name="platform/external/spirv-llvm" remote="aosp" />
+	<project name="platform/external/sqlite" remote="aosp" />
 	<project name="platform/external/squashfs-tools" remote="aosp" />
 	<project name="platform/external/srec" remote="aosp" />
 	<project name="platform/external/srtp" remote="aosp" />
 	<project name="platform/external/stlport" remote="aosp" />
+	<project name="platform/external/strace" remote="aosp" />
 	<project name="platform/external/stressapptest" remote="aosp" />
 	<project name="platform/external/svox" remote="aosp" />
+	<project name="platform/external/swiftshader" remote="aosp" />
+	<project name="platform/external/syslinux" remote="aosp" />
 	<project name="platform/external/tagsoup" remote="aosp" />
+	<project name="platform/external/tcpdump" remote="aosp" />
+	<project name="platform/external/testng" remote="aosp" />
 	<project name="platform/external/timezonepicker-support" remote="aosp" />
+	<project name="platform/external/tinyalsa" remote="aosp" />
 	<project name="platform/external/tinyxml" remote="aosp" />
 	<project name="platform/external/tinyxml2" remote="aosp" />
+	<project name="platform/external/tlsdate" remote="aosp" />
+	<project name="platform/external/toolchain-utils" remote="aosp" />
+	<project name="platform/external/tpm2" remote="aosp" />
 	<project name="platform/external/tremolo" remote="aosp" />
+	<project name="platform/external/unicode" remote="aosp" />
+	<project name="platform/external/universal-tween-engine" remote="aosp" />
 	<project name="platform/external/v8" remote="aosp" />
 	<project name="platform/external/valgrind" remote="aosp" />
 	<project name="platform/external/vboot_reference" remote="aosp" />
 	<project name="platform/external/vixl" remote="aosp" />
+	<project name="platform/external/vogar" remote="aosp" />
+	<project name="platform/external/volley" remote="aosp" />
+	<project name="platform/external/vulkan-validation-layers" remote="aosp" />
 	<project name="platform/external/webp" remote="aosp" />
 	<project name="platform/external/webrtc" remote="aosp" />
+	<project name="platform/external/wpa_supplicant_8" remote="aosp" />
+	<project name="platform/external/wycheproof" remote="aosp" />
+	<project name="platform/external/x264" remote="aosp" />
+	<project name="platform/external/xmlrpcpp" remote="aosp" />
 	<project name="platform/external/xmlwriter" remote="aosp" />
 	<project name="platform/external/xmp_toolkit" remote="aosp" />
 	<project name="platform/external/yaffs2" remote="aosp" />
 	<project name="platform/external/zopfli" remote="aosp" />
 	<project name="platform/external/zxing" remote="aosp" />
+	<project name="platform/frameworks/compile/libbcc" remote="aosp" />
+	<project name="platform/frameworks/compile/mclinker" remote="aosp" />
+	<project name="platform/frameworks/compile/slang" remote="aosp" />
 	<project name="platform/frameworks/data-binding" remote="aosp" />
+	<project name="platform/frameworks/ex" remote="aosp" />
+	<project name="platform/frameworks/hardware/interfaces" remote="aosp" />
+	<project name="platform/frameworks/minikin" remote="aosp" />
+	<project name="platform/frameworks/ml" remote="aosp" />
+	<project name="platform/frameworks/multidex" remote="aosp" />
+	<project name="platform/frameworks/opt/bitmap" remote="aosp" />
+	<project name="platform/frameworks/opt/bluetooth" remote="aosp" />
+	<project name="platform/frameworks/opt/calendar" remote="aosp" />
+	<project name="platform/frameworks/opt/chips" remote="aosp" />
+	<project name="platform/frameworks/opt/colorpicker" remote="aosp" />
+	<project name="platform/frameworks/opt/datetimepicker" remote="aosp" />
+	<project name="platform/frameworks/opt/emoji" remote="aosp" />
 	<project name="platform/frameworks/opt/inputconnectioncommon" remote="aosp" />
+	<project name="platform/frameworks/opt/inputmethodcommon" remote="aosp" />
+	<project name="platform/frameworks/opt/net/ethernet" remote="aosp" />
+	<project name="platform/frameworks/opt/net/ims" remote="aosp" />
+	<project name="platform/frameworks/opt/net/voip" remote="aosp" />
+	<project name="platform/frameworks/opt/net/wifi" remote="aosp" />
+	<project name="platform/frameworks/opt/photoviewer" remote="aosp" />
+	<project name="platform/frameworks/opt/setupwizard" remote="aosp" />
+	<project name="platform/frameworks/opt/timezonepicker" remote="aosp" />
+	<project name="platform/frameworks/opt/vcard" remote="aosp" />
 	<project name="platform/frameworks/opt/widget" remote="aosp" />
+	<project name="platform/frameworks/rs" remote="aosp" />
+	<project name="platform/frameworks/support" remote="aosp" />
+	<project name="platform/frameworks/volley" remote="aosp" />
+	<project name="platform/frameworks/webview" remote="aosp" />
+	<project name="platform/frameworks/wilhelm" remote="aosp" />
 	<project name="platform/gdk" remote="aosp" />
+	<project name="platform/hardware/akm" remote="aosp" />
+	<project name="platform/hardware/broadcom/libbt" remote="aosp" />
+	<project name="platform/hardware/broadcom/wlan" remote="aosp" />
+	<project name="platform/hardware/google/apf" remote="aosp" />
 	<project name="platform/hardware/intel/audio_media" remote="aosp" />
 	<project name="platform/hardware/intel/bootstub" remote="aosp" />
 	<project name="platform/hardware/intel/common/bd_prov" remote="aosp" />
@@ -1078,8 +1237,10 @@
 	<project name="platform/hardware/intel/img/psb_headers" remote="aosp" />
 	<project name="platform/hardware/intel/img/psb_video" remote="aosp" />
 	<project name="platform/hardware/intel/sensors" remote="aosp" />
+	<project name="platform/hardware/invensense" remote="aosp" />
 	<project name="platform/hardware/marvell/bt" remote="aosp" />
 	<project name="platform/hardware/mediatek" remote="aosp" />
+	<project name="platform/hardware/qcom/bootctrl" remote="aosp" />
 	<project name="platform/hardware/qcom/msm8960" remote="aosp" />
 	<project name="platform/hardware/qcom/msm8994" remote="aosp" />
 	<project name="platform/hardware/qcom/msm8x26" remote="aosp" />
@@ -1088,11 +1249,39 @@
 	<project name="platform/hardware/qcom/msm8x84" remote="aosp" />
 	<project name="platform/hardware/ti/omap3" remote="aosp" />
 	<project name="platform/hardware/ti/omap4-aah" remote="aosp" />
+	<project name="platform/libcore" remote="aosp" />
+	<project name="platform/libnativehelper" remote="aosp" />
 	<project name="platform/ndk" remote="aosp" />
+	<project name="platform/packages/apps/BasicSmsReceiver" remote="aosp" />
+	<project name="platform/packages/apps/Car/Dialer" remote="aosp" />
+	<project name="platform/packages/apps/Car/Hvac" remote="aosp" />
+	<project name="platform/packages/apps/Car/LatinIME" remote="aosp" />
+	<project name="platform/packages/apps/Car/LensPicker" remote="aosp" />
+	<project name="platform/packages/apps/Car/libs" remote="aosp" />
+	<project name="platform/packages/apps/Car/LocalMediaPlayer" remote="aosp" />
+	<project name="platform/packages/apps/Car/Media" remote="aosp" />
+	<project name="platform/packages/apps/Car/Messenger" remote="aosp" />
+	<project name="platform/packages/apps/Car/Overview" remote="aosp" />
+	<project name="platform/packages/apps/Car/Radio" remote="aosp" />
+	<project name="platform/packages/apps/Car/Settings" remote="aosp" />
+	<project name="platform/packages/apps/Car/Stream" remote="aosp" />
+	<project name="platform/packages/apps/Car/SystemUpdater" remote="aosp" />
+	<project name="platform/packages/apps/Car/UserManagement" remote="aosp" />
 	<project name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
+	<project name="platform/packages/apps/Provision" remote="aosp" />
+	<project name="platform/packages/apps/RetailDemo" remote="aosp" />
+	<project name="platform/packages/apps/Test/connectivity" remote="aosp" />
+	<project name="platform/packages/experimental" remote="aosp" />
+	<project name="platform/packages/services/Car" remote="aosp" />
+	<project name="platform/packages/services/NetworkRecommendation" remote="aosp" />
 	<project name="platform/pdk" remote="aosp" />
 	<project name="platform/platform_testing" remote="aosp" />
+	<project name="platform/prebuilts/abi-dumps/ndk" remote="aosp" />
+	<project name="platform/prebuilts/abi-dumps/vndk" remote="aosp" />
 	<project name="platform/prebuilts/android-emulator" remote="aosp" />
+	<project name="platform/prebuilts/build-tools" remote="aosp" />
+	<project name="platform/prebuilts/checkcolor" remote="aosp" />
+	<project name="platform/prebuilts/checkstyle" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/3.1" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/3.2" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/arm/3.3" remote="aosp" />
@@ -1102,6 +1291,8 @@
 	<project name="platform/prebuilts/clang/darwin-x86/host/3.6" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/mips/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/darwin-x86/x86/3.3" remote="aosp" />
+	<project name="platform/prebuilts/clang/host/darwin-x86" remote="aosp" />
+	<project name="platform/prebuilts/clang/host/linux-x86" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/3.1" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/3.2" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/arm/3.3" remote="aosp" />
@@ -1111,6 +1302,7 @@
 	<project name="platform/prebuilts/clang/linux-x86/host/3.6" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/mips/3.3" remote="aosp" />
 	<project name="platform/prebuilts/clang/linux-x86/x86/3.3" remote="aosp" />
+	<project name="platform/prebuilts/deqp" remote="aosp" />
 	<project name="platform/prebuilts/devtools" remote="aosp" />
 	<project name="platform/prebuilts/eclipse" remote="aosp" />
 	<project name="platform/prebuilts/eclipse-build-deps" remote="aosp" />
@@ -1161,11 +1353,18 @@
 	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8" remote="aosp" />
 	<project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" remote="aosp" />
+	<project name="platform/prebuilts/gdb/darwin-x86" remote="aosp" />
+	<project name="platform/prebuilts/gdb/linux-x86" remote="aosp" />
+	<project name="platform/prebuilts/go/darwin-x86" remote="aosp" />
+	<project name="platform/prebuilts/go/linux-x86" remote="aosp" />
 	<project name="platform/prebuilts/gradle-plugin" remote="aosp" />
 	<project name="platform/prebuilts/libs/libedit" remote="aosp" />
 	<project name="platform/prebuilts/maven_repo/android" remote="aosp" />
+	<project name="platform/prebuilts/maven_repo/bumptech" remote="aosp" />
 	<project name="platform/prebuilts/misc" remote="aosp" />
 	<project name="platform/prebuilts/ndk" remote="aosp" />
+	<project name="platform/prebuilts/ninja/darwin-x86" remote="aosp" />
+	<project name="platform/prebuilts/ninja/linux-x86" remote="aosp" />
 	<project name="platform/prebuilts/python/darwin-x86/2.7.5" remote="aosp" />
 	<project name="platform/prebuilts/python/linux-x86/2.7.5" remote="aosp" />
 	<project name="platform/prebuilts/qemu-kernel" remote="aosp" />
@@ -1173,9 +1372,41 @@
 	<project name="platform/prebuilts/sdk" remote="aosp" />
 	<project name="platform/prebuilts/tools" remote="aosp" />
 	<project name="platform/sdk" remote="aosp" />
+	<project name="platform/system/ca-certificates" remote="aosp" />
+	<project name="platform/system/chre" remote="aosp" />
+	<project name="platform/system/connectivity/apmanager" remote="aosp" />
+	<project name="platform/system/connectivity/dhcp_client" remote="aosp" />
+	<project name="platform/system/connectivity/shill" remote="aosp" />
+	<project name="platform/system/connectivity/wificond" remote="aosp" />
+	<project name="platform/system/connectivity/wifilogd" remote="aosp" />
+	<project name="platform/system/firewalld" remote="aosp" />
 	<project name="platform/system/gatekeeper" remote="aosp" />
+	<project name="platform/system/hardware/interfaces" remote="aosp" />
+	<project name="platform/system/hwservicemanager" remote="aosp" />
+	<project name="platform/system/keymaster" remote="aosp" />
+	<project name="platform/system/libfmq" remote="aosp" />
+	<project name="platform/system/libhwbinder" remote="aosp" />
+	<project name="platform/system/libufdt" remote="aosp" />
+	<project name="platform/system/libvintf" remote="aosp" />
+	<project name="platform/system/nativepower" remote="aosp" />
+	<project name="platform/system/nvram" remote="aosp" />
+	<project name="platform/system/security" remote="aosp" />
+	<project name="platform/system/tools/aidl" remote="aosp" />
+	<project name="platform/system/tpm" remote="aosp" />
+	<project name="platform/system/update_engine" remote="aosp" />
+	<project name="platform/system/weaved" remote="aosp" />
+	<project name="platform/system/webservd" remote="aosp" />
+	<project name="platform/test/vts" remote="aosp" />
+	<project name="platform/test/vts-testcase/fuzz" remote="aosp" />
+	<project name="platform/test/vts-testcase/hal" remote="aosp" />
+	<project name="platform/test/vts-testcase/hal-trace" remote="aosp" />
+	<project name="platform/test/vts-testcase/kernel" remote="aosp" />
+	<project name="platform/test/vts-testcase/performance" remote="aosp" />
+	<project name="platform/test/vts-testcase/security" remote="aosp" />
+	<project name="platform/test/vts-testcase/vndk" remote="aosp" />
 	<project name="platform/tools/adt/eclipse" remote="aosp" />
 	<project name="platform/tools/adt/idea" remote="aosp" />
+	<project name="platform/tools/apksig" remote="aosp" />
 	<project name="platform/tools/base" remote="aosp" />
 	<project name="platform/tools/build" remote="aosp" />
 	<project name="platform/tools/emulator" remote="aosp" />
@@ -1184,7 +1415,12 @@
 	<project name="platform/tools/idea" remote="aosp" />
 	<project name="platform/tools/loganalysis" remote="aosp" />
 	<project name="platform/tools/motodev" remote="aosp" />
+	<project name="platform/tools/repohooks" remote="aosp" />
 	<project name="platform/tools/studio/cloud" remote="aosp" />
 	<project name="platform/tools/studio/translation" remote="aosp" />
 	<project name="platform/tools/swt" remote="aosp" />
+	<project name="platform/tools/test/connectivity" remote="aosp" />
+	<project name="platform/tools/tradefederation" remote="aosp" />
+	<project name="platform/tools/tradefederation/contrib" remote="aosp" />
+	<project name="toolchain/binutils" remote="aosp" />
 </manifest>
