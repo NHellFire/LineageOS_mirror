@@ -6,8 +6,9 @@ import os, sys
 from base64 import b64encode as base64_encode
 from datetime import datetime
 from StringIO import StringIO
+from hashlib import sha1
 
-API_URL = 'https://api.github.com/users/LineageOS/repos?per_page=200&page=%d'
+API_URL = 'https://api.github.com/users/LineageOS/repos?per_page=100&page=%d'
 OUTPUT = "default.xml"
 
 MIN_API_CALLS = 1500
@@ -16,13 +17,33 @@ API_AUTH = None
 if os.path.exists("github-auth.txt"):
 	API_AUTH = open("github-auth.txt", "r").read()
 
-def get_url (url):
+if not os.path.isdir("cache"):
+	os.mkdir("cache")
+
+def get_url (url, cache=True):
+	cache_file = "cache/" + sha1(url).hexdigest()
+	etag_file = cache_file + ".etag"
+	data_file = cache_file + ".json"
+
 	request = urllib2.Request(url)
 	request.add_header('Accept-Encoding', 'gzip')
 	if API_AUTH is not None:
 		request.add_header('Authorization', 'Basic %s' % base64_encode(API_AUTH))
 
-	response = urllib2.urlopen(request)
+	if cache and os.path.exists(etag_file):
+		with open(etag_file, "r") as f:
+			request.add_header('If-None-Match', '%s' % f.readline())
+
+	response = None
+	try:
+		response = urllib2.urlopen(request)
+	except urllib2.HTTPError as e:
+		if e.code == 304:
+			with open(data_file, "r") as f:
+				data = f.read()
+			return data
+		raise
+
 	encoding = str(response.info().get('Content-Encoding')).lower()
 	data = response.read()
 
@@ -31,6 +52,13 @@ def get_url (url):
 		data = gzip.GzipFile(fileobj=buf).read()
 	elif encoding =='deflate':
 		data = zlib.decompress(data)
+
+	if cache:
+		with open(data_file, "w") as f:
+			f.write(data)
+		with open(etag_file, "w") as f:
+			f.write(response.info()["ETag"])
+
 	return data
 
 
@@ -52,7 +80,7 @@ if __name__ == '__main__':
 		REFRESH = True
 
 	if REFRESH:
-		res = json.loads(get_url("https://api.github.com/rate_limit"))
+		res = json.loads(get_url("https://api.github.com/rate_limit", False))
 		core = res['resources']['core']
 		if core['remaining'] < MIN_API_CALLS:
 			print "Not enough API calls remaining (%d required)." % MIN_API_CALLS
@@ -109,14 +137,23 @@ if __name__ == '__main__':
 		tmp_manifest += '\t<project name="%s" />\n' % repo
 
 		if REFRESH:
-			try:
-				data = json.loads(get_url("https://api.github.com/repos/%s/branches" % repo))
-			except urllib2.HTTPError, e:
-				print "[ %s ] HTTP Error: %d (%s)" % (repo, e.getcode(), e.msg)
-				continue
+			page = 0
 			branches = []
-			for branch in data:
-				branches.append(branch['name'])
+
+			while True:
+				page += 1
+				try:
+					data = json.loads(get_url("https://api.github.com/repos/%s/branches?per_page=100&page=%d" % (repo, page)))
+				except urllib2.HTTPError, e:
+					print "[ %s ] HTTP Error: %d (%s)" % (repo, e.getcode(), e.msg)
+					continue
+
+				if not data:
+					break
+
+				for branch in data:
+					branches.append(branch['name'])
+
 			list.write("%s %s\n" % (repo, " ".join(branches)))
 
 
