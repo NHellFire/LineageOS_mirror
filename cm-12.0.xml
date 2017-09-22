@@ -25,6 +25,7 @@
 	<project name="LineageOS/android_bootable_recovery-cm" />
 	<project name="LineageOS/android_build" />
 	<project name="LineageOS/android_cts" />
+	<project name="LineageOS/android_dalvik" />
 	<project name="LineageOS/android_development" />
 	<project name="LineageOS/android_device_common" />
 	<project name="LineageOS/android_device_generic_arm64" />

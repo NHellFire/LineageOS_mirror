@@ -146,12 +146,15 @@
 	<project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
 	<project name="LineageOS/android_hardware_nvidia_power" />
 	<project name="LineageOS/android_hardware_nvidia_thermal" />
+	<project name="LineageOS/android_hardware_qcom_audio" />
 	<project name="LineageOS/android_hardware_qcom_bootctrl" />
 	<project name="LineageOS/android_hardware_qcom_bt" />
 	<project name="LineageOS/android_hardware_qcom_camera" />
+	<project name="LineageOS/android_hardware_qcom_display" />
 	<project name="LineageOS/android_hardware_qcom_fm" />
 	<project name="LineageOS/android_hardware_qcom_gps" />
 	<project name="LineageOS/android_hardware_qcom_keymaster" />
+	<project name="LineageOS/android_hardware_qcom_media" />
 	<project name="LineageOS/android_hardware_qcom_wlan" />
 	<project name="LineageOS/android_hardware_ril" />
 	<project name="LineageOS/android_hardware_samsung" />

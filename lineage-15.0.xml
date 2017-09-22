@@ -76,10 +76,14 @@
 	<project name="LineageOS/android_hardware_interfaces" />
 	<project name="LineageOS/android_hardware_libhardware" />
 	<project name="LineageOS/android_hardware_libhardware_legacy" />
+	<project name="LineageOS/android_hardware_lineage_interfaces" />
+	<project name="LineageOS/android_hardware_qcom_audio" />
 	<project name="LineageOS/android_hardware_qcom_bt" />
+	<project name="LineageOS/android_hardware_qcom_display" />
 	<project name="LineageOS/android_hardware_qcom_fm" />
 	<project name="LineageOS/android_hardware_qcom_gps" />
 	<project name="LineageOS/android_hardware_qcom_keymaster" />
+	<project name="LineageOS/android_hardware_qcom_media" />
 	<project name="LineageOS/android_hardware_qcom_wlan" />
 	<project name="LineageOS/android_hardware_ril" />
 	<project name="LineageOS/android_hardware_samsung" />
@@ -177,6 +181,7 @@
 	<project name="LineageOS/android_system_tools_aidl" />
 	<project name="LineageOS/android_system_tools_hidl" />
 	<project name="LineageOS/android_system_vold" />
+	<project name="LineageOS/android_vendor_codeaurora_telephony" />
 	<project name="LineageOS/android_vendor_lineage" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" />
 	<project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" />
@@ -580,7 +585,6 @@
 	<project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" remote="aosp" />
 	<project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" remote="aosp" />
 	<project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
-	<project path="system/hardware/interfaces" name="platform/system/hardware/interfaces" groups="pdk" remote="aosp" />
 	<project path="system/hwservicemanager" name="platform/system/hwservicemanager" groups="pdk" remote="aosp" />
 	<project path="system/keymaster" name="platform/system/keymaster" groups="pdk" remote="aosp" />
 	<project path="system/libfmq" name="platform/system/libfmq" groups="pdk" remote="aosp" />

@@ -466,6 +466,7 @@
 	<project name="LineageOS/android_hardware_invensense" />
 	<project name="LineageOS/android_hardware_libhardware" />
 	<project name="LineageOS/android_hardware_libhardware_legacy" />
+	<project name="LineageOS/android_hardware_lineage_interfaces" />
 	<project name="LineageOS/android_hardware_msm7k" />
 	<project name="LineageOS/android_hardware_nvidia_audio" />
 	<project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
@@ -1381,7 +1382,6 @@
 	<project name="platform/system/connectivity/wifilogd" remote="aosp" />
 	<project name="platform/system/firewalld" remote="aosp" />
 	<project name="platform/system/gatekeeper" remote="aosp" />
-	<project name="platform/system/hardware/interfaces" remote="aosp" />
 	<project name="platform/system/hwservicemanager" remote="aosp" />
 	<project name="platform/system/keymaster" remote="aosp" />
 	<project name="platform/system/libfmq" remote="aosp" />

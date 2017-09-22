@@ -551,7 +551,6 @@ platform/system/connectivity/wificond
 platform/system/connectivity/wifilogd
 platform/system/firewalld
 platform/system/gatekeeper
-platform/system/hardware/interfaces
 platform/system/hwservicemanager
 platform/system/keymaster
 platform/system/libfmq
